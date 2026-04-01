@@ -1,197 +1,2571 @@
 [
-  {"name":"Afghanistan","code":"af","capital":"Kabul","flag_emoji":"🇦🇫","rarity_score":35,"colors":["black","red","green","white"],"continent":"Asia"},
-  {"name":"Albania","code":"al","capital":"Tirana","flag_emoji":"🇦🇱","rarity_score":30,"colors":["red","black"],"continent":"Europe"},
-  {"name":"Algeria","code":"dz","capital":"Algiers","flag_emoji":"🇩🇿","rarity_score":20,"colors":["green","white","red"],"continent":"Africa"},
-  {"name":"Andorra","code":"ad","capital":"Andorra la Vella","flag_emoji":"🇦🇩","rarity_score":55,"colors":["blue","yellow","red"],"continent":"Europe"},
-  {"name":"Angola","code":"ao","capital":"Luanda","flag_emoji":"🇦🇴","rarity_score":40,"colors":["red","black","yellow"],"continent":"Africa"},
-  {"name":"Antigua and Barbuda","code":"ag","capital":"Saint John's","flag_emoji":"🇦🇬","rarity_score":72,"colors":["black","blue","white","yellow","red"],"continent":"Americas"},
-  {"name":"Argentina","code":"ar","capital":"Buenos Aires","flag_emoji":"🇦🇷","rarity_score":10,"colors":["blue","white","yellow"],"continent":"Americas"},
-  {"name":"Armenia","code":"am","capital":"Yerevan","flag_emoji":"🇦🇲","rarity_score":30,"colors":["red","blue","orange"],"continent":"Asia"},
-  {"name":"Australia","code":"au","capital":"Canberra","flag_emoji":"🇦🇺","rarity_score":5,"colors":["blue","red","white"],"continent":"Oceania"},
-  {"name":"Austria","code":"at","capital":"Vienna","flag_emoji":"🇦🇹","rarity_score":8,"colors":["red","white"],"continent":"Europe"},
-  {"name":"Azerbaijan","code":"az","capital":"Baku","flag_emoji":"🇦🇿","rarity_score":35,"colors":["blue","red","green","white"],"continent":"Asia"},
-  {"name":"Bahamas","code":"bs","capital":"Nassau","flag_emoji":"🇧🇸","rarity_score":45,"colors":["blue","black","yellow"],"continent":"Americas"},
-  {"name":"Bahrain","code":"bh","capital":"Manama","flag_emoji":"🇧🇭","rarity_score":40,"colors":["red","white"],"continent":"Asia"},
-  {"name":"Bangladesh","code":"bd","capital":"Dhaka","flag_emoji":"🇧🇩","rarity_score":15,"colors":["green","red"],"continent":"Asia"},
-  {"name":"Barbados","code":"bb","capital":"Bridgetown","flag_emoji":"🇧🇧","rarity_score":50,"colors":["blue","yellow","black"],"continent":"Americas"},
-  {"name":"Belarus","code":"by","capital":"Minsk","flag_emoji":"🇧🇾","rarity_score":25,"colors":["red","green","white"],"continent":"Europe"},
-  {"name":"Belgium","code":"be","capital":"Brussels","flag_emoji":"🇧🇪","rarity_score":8,"colors":["black","yellow","red"],"continent":"Europe"},
-  {"name":"Belize","code":"bz","capital":"Belmopan","flag_emoji":"🇧🇿","rarity_score":60,"colors":["blue","red","white"],"continent":"Americas"},
-  {"name":"Benin","code":"bj","capital":"Porto-Novo","flag_emoji":"🇧🇯","rarity_score":55,"colors":["green","yellow","red"],"continent":"Africa"},
-  {"name":"Bhutan","code":"bt","capital":"Thimphu","flag_emoji":"🇧🇹","rarity_score":70,"colors":["orange","yellow","red","white"],"continent":"Asia"},
-  {"name":"Bolivia","code":"bo","capital":"Sucre","flag_emoji":"🇧🇴","rarity_score":22,"colors":["red","yellow","green"],"continent":"Americas"},
-  {"name":"Bosnia and Herzegovina","code":"ba","capital":"Sarajevo","flag_emoji":"🇧🇦","rarity_score":40,"colors":["blue","yellow","white"],"continent":"Europe"},
-  {"name":"Botswana","code":"bw","capital":"Gaborone","flag_emoji":"🇧🇼","rarity_score":50,"colors":["blue","black","white"],"continent":"Africa"},
-  {"name":"Brazil","code":"br","capital":"Brasília","flag_emoji":"🇧🇷","rarity_score":5,"colors":["green","yellow","blue","white"],"continent":"Americas"},
-  {"name":"Brunei","code":"bn","capital":"Bandar Seri Begawan","flag_emoji":"🇧🇳","rarity_score":65,"colors":["yellow","white","black"],"continent":"Asia"},
-  {"name":"Bulgaria","code":"bg","capital":"Sofia","flag_emoji":"🇧🇬","rarity_score":20,"colors":["white","green","red"],"continent":"Europe"},
-  {"name":"Burkina Faso","code":"bf","capital":"Ouagadougou","flag_emoji":"🇧🇫","rarity_score":60,"colors":["red","green","yellow"],"continent":"Africa"},
-  {"name":"Burundi","code":"bi","capital":"Gitega","flag_emoji":"🇧🇮","rarity_score":65,"colors":["red","white","green"],"continent":"Africa"},
-  {"name":"Cabo Verde","code":"cv","capital":"Praia","flag_emoji":"🇨🇻","rarity_score":70,"colors":["blue","white","red","yellow"],"continent":"Africa"},
-  {"name":"Cambodia","code":"kh","capital":"Phnom Penh","flag_emoji":"🇰🇭","rarity_score":35,"colors":["blue","red","white"],"continent":"Asia"},
-  {"name":"Cameroon","code":"cm","capital":"Yaoundé","flag_emoji":"🇨🇲","rarity_score":30,"colors":["green","red","yellow"],"continent":"Africa"},
-  {"name":"Canada","code":"ca","capital":"Ottawa","flag_emoji":"🇨🇦","rarity_score":3,"colors":["red","white"],"continent":"Americas"},
-  {"name":"Central African Republic","code":"cf","capital":"Bangui","flag_emoji":"🇨🇫","rarity_score":70,"colors":["blue","white","green","yellow","red"],"continent":"Africa"},
-  {"name":"Chad","code":"td","capital":"N'Djamena","flag_emoji":"🇹🇩","rarity_score":55,"colors":["blue","yellow","red"],"continent":"Africa"},
-  {"name":"Chile","code":"cl","capital":"Santiago","flag_emoji":"🇨🇱","rarity_score":15,"colors":["red","white","blue"],"continent":"Americas"},
-  {"name":"China","code":"cn","capital":"Beijing","flag_emoji":"🇨🇳","rarity_score":5,"colors":["red","yellow"],"continent":"Asia"},
-  {"name":"Colombia","code":"co","capital":"Bogotá","flag_emoji":"🇨🇴","rarity_score":18,"colors":["yellow","blue","red"],"continent":"Americas"},
-  {"name":"Comoros","code":"km","capital":"Moroni","flag_emoji":"🇰🇲","rarity_score":78,"colors":["yellow","white","red","blue","green"],"continent":"Africa"},
-  {"name":"Congo (DRC)","code":"cd","capital":"Kinshasa","flag_emoji":"🇨🇩","rarity_score":45,"colors":["blue","red","yellow"],"continent":"Africa"},
-  {"name":"Congo (Republic)","code":"cg","capital":"Brazzaville","flag_emoji":"🇨🇬","rarity_score":55,"colors":["green","yellow","red"],"continent":"Africa"},
-  {"name":"Costa Rica","code":"cr","capital":"San José","flag_emoji":"🇨🇷","rarity_score":20,"colors":["blue","white","red"],"continent":"Americas"},
-  {"name":"Croatia","code":"hr","capital":"Zagreb","flag_emoji":"🇭🇷","rarity_score":22,"colors":["red","white","blue"],"continent":"Europe"},
-  {"name":"Cuba","code":"cu","capital":"Havana","flag_emoji":"🇨🇺","rarity_score":15,"colors":["blue","white","red"],"continent":"Americas"},
-  {"name":"Cyprus","code":"cy","capital":"Nicosia","flag_emoji":"🇨🇾","rarity_score":45,"colors":["white","orange","green"],"continent":"Europe"},
-  {"name":"Czech Republic","code":"cz","capital":"Prague","flag_emoji":"🇨🇿","rarity_score":18,"colors":["white","red","blue"],"continent":"Europe"},
-  {"name":"Denmark","code":"dk","capital":"Copenhagen","flag_emoji":"🇩🇰","rarity_score":8,"colors":["red","white"],"continent":"Europe"},
-  {"name":"Djibouti","code":"dj","capital":"Djibouti","flag_emoji":"🇩🇯","rarity_score":72,"colors":["blue","green","white","red"],"continent":"Africa"},
-  {"name":"Dominica","code":"dm","capital":"Roseau","flag_emoji":"🇩🇲","rarity_score":80,"colors":["green","yellow","black","white","red"],"continent":"Americas"},
-  {"name":"Dominican Republic","code":"do","capital":"Santo Domingo","flag_emoji":"🇩🇴","rarity_score":35,"colors":["blue","red","white"],"continent":"Americas"},
-  {"name":"Ecuador","code":"ec","capital":"Quito","flag_emoji":"🇪🇨","rarity_score":22,"colors":["yellow","blue","red"],"continent":"Americas"},
-  {"name":"Egypt","code":"eg","capital":"Cairo","flag_emoji":"🇪🇬","rarity_score":12,"colors":["red","white","black"],"continent":"Africa"},
-  {"name":"El Salvador","code":"sv","capital":"San Salvador","flag_emoji":"🇸🇻","rarity_score":35,"colors":["blue","white"],"continent":"Americas"},
-  {"name":"Equatorial Guinea","code":"gq","capital":"Malabo","flag_emoji":"🇬🇶","rarity_score":75,"colors":["green","white","red","blue"],"continent":"Africa"},
-  {"name":"Eritrea","code":"er","capital":"Asmara","flag_emoji":"🇪🇷","rarity_score":68,"colors":["green","red","blue","yellow"],"continent":"Africa"},
-  {"name":"Estonia","code":"ee","capital":"Tallinn","flag_emoji":"🇪🇪","rarity_score":30,"colors":["blue","black","white"],"continent":"Europe"},
-  {"name":"Eswatini","code":"sz","capital":"Mbabane","flag_emoji":"🇸🇿","rarity_score":72,"colors":["blue","yellow","red","black","white"],"continent":"Africa"},
-  {"name":"Ethiopia","code":"et","capital":"Addis Ababa","flag_emoji":"🇪🇹","rarity_score":20,"colors":["green","yellow","red","blue"],"continent":"Africa"},
-  {"name":"Fiji","code":"fj","capital":"Suva","flag_emoji":"🇫🇯","rarity_score":50,"colors":["blue","white","red"],"continent":"Oceania"},
-  {"name":"Finland","code":"fi","capital":"Helsinki","flag_emoji":"🇫🇮","rarity_score":10,"colors":["white","blue"],"continent":"Europe"},
-  {"name":"France","code":"fr","capital":"Paris","flag_emoji":"🇫🇷","rarity_score":3,"colors":["blue","white","red"],"continent":"Europe"},
-  {"name":"Gabon","code":"ga","capital":"Libreville","flag_emoji":"🇬🇦","rarity_score":55,"colors":["green","yellow","blue"],"continent":"Africa"},
-  {"name":"Gambia","code":"gm","capital":"Banjul","flag_emoji":"🇬🇲","rarity_score":60,"colors":["red","blue","green","white"],"continent":"Africa"},
-  {"name":"Georgia","code":"ge","capital":"Tbilisi","flag_emoji":"🇬🇪","rarity_score":35,"colors":["white","red"],"continent":"Asia"},
-  {"name":"Germany","code":"de","capital":"Berlin","flag_emoji":"🇩🇪","rarity_score":4,"colors":["black","red","yellow"],"continent":"Europe"},
-  {"name":"Ghana","code":"gh","capital":"Accra","flag_emoji":"🇬🇭","rarity_score":22,"colors":["red","yellow","green","black"],"continent":"Africa"},
-  {"name":"Greece","code":"gr","capital":"Athens","flag_emoji":"🇬🇷","rarity_score":10,"colors":["blue","white"],"continent":"Europe"},
-  {"name":"Grenada","code":"gd","capital":"Saint George's","flag_emoji":"🇬🇩","rarity_score":70,"colors":["red","yellow","green"],"continent":"Americas"},
-  {"name":"Guatemala","code":"gt","capital":"Guatemala City","flag_emoji":"🇬🇹","rarity_score":30,"colors":["blue","white"],"continent":"Americas"},
-  {"name":"Guinea","code":"gn","capital":"Conakry","flag_emoji":"🇬🇳","rarity_score":50,"colors":["red","yellow","green"],"continent":"Africa"},
-  {"name":"Guinea-Bissau","code":"gw","capital":"Bissau","flag_emoji":"🇬🇼","rarity_score":72,"colors":["red","yellow","green","black"],"continent":"Africa"},
-  {"name":"Guyana","code":"gy","capital":"Georgetown","flag_emoji":"🇬🇾","rarity_score":55,"colors":["green","yellow","red","black","white"],"continent":"Americas"},
-  {"name":"Haiti","code":"ht","capital":"Port-au-Prince","flag_emoji":"🇭🇹","rarity_score":35,"colors":["blue","red","black","white"],"continent":"Americas"},
-  {"name":"Honduras","code":"hn","capital":"Tegucigalpa","flag_emoji":"🇭🇳","rarity_score":35,"colors":["blue","white"],"continent":"Americas"},
-  {"name":"Hungary","code":"hu","capital":"Budapest","flag_emoji":"🇭🇺","rarity_score":15,"colors":["red","white","green"],"continent":"Europe"},
-  {"name":"Iceland","code":"is","capital":"Reykjavik","flag_emoji":"🇮🇸","rarity_score":28,"colors":["blue","white","red"],"continent":"Europe"},
-  {"name":"India","code":"in","capital":"New Delhi","flag_emoji":"🇮🇳","rarity_score":5,"colors":["orange","white","green","blue"],"continent":"Asia"},
-  {"name":"Indonesia","code":"id","capital":"Jakarta","flag_emoji":"🇮🇩","rarity_score":8,"colors":["red","white"],"continent":"Asia"},
-  {"name":"Iran","code":"ir","capital":"Tehran","flag_emoji":"🇮🇷","rarity_score":15,"colors":["green","white","red"],"continent":"Asia"},
-  {"name":"Iraq","code":"iq","capital":"Baghdad","flag_emoji":"🇮🇶","rarity_score":18,"colors":["red","white","black","green"],"continent":"Asia"},
-  {"name":"Ireland","code":"ie","capital":"Dublin","flag_emoji":"🇮🇪","rarity_score":10,"colors":["green","white","orange"],"continent":"Europe"},
-  {"name":"Israel","code":"il","capital":"Jerusalem","flag_emoji":"🇮🇱","rarity_score":15,"colors":["white","blue"],"continent":"Asia"},
-  {"name":"Italy","code":"it","capital":"Rome","flag_emoji":"🇮🇹","rarity_score":5,"colors":["green","white","red"],"continent":"Europe"},
-  {"name":"Jamaica","code":"jm","capital":"Kingston","flag_emoji":"🇯🇲","rarity_score":25,"colors":["black","yellow","green"],"continent":"Americas"},
-  {"name":"Japan","code":"jp","capital":"Tokyo","flag_emoji":"🇯🇵","rarity_score":5,"colors":["white","red"],"continent":"Asia"},
-  {"name":"Jordan","code":"jo","capital":"Amman","flag_emoji":"🇯🇴","rarity_score":28,"colors":["black","white","green","red"],"continent":"Asia"},
-  {"name":"Kazakhstan","code":"kz","capital":"Astana","flag_emoji":"🇰🇿","rarity_score":35,"colors":["blue","yellow"],"continent":"Asia"},
-  {"name":"Kenya","code":"ke","capital":"Nairobi","flag_emoji":"🇰🇪","rarity_score":22,"colors":["black","red","green","white"],"continent":"Africa"},
-  {"name":"Kiribati","code":"ki","capital":"South Tarawa","flag_emoji":"🇰🇮","rarity_score":90,"colors":["red","yellow","blue","white"],"continent":"Oceania"},
-  {"name":"Kuwait","code":"kw","capital":"Kuwait City","flag_emoji":"🇰🇼","rarity_score":35,"colors":["green","white","red","black"],"continent":"Asia"},
-  {"name":"Kyrgyzstan","code":"kg","capital":"Bishkek","flag_emoji":"🇰🇬","rarity_score":60,"colors":["red","yellow"],"continent":"Asia"},
-  {"name":"Laos","code":"la","capital":"Vientiane","flag_emoji":"🇱🇦","rarity_score":45,"colors":["red","blue","white"],"continent":"Asia"},
-  {"name":"Latvia","code":"lv","capital":"Riga","flag_emoji":"🇱🇻","rarity_score":30,"colors":["red","white"],"continent":"Europe"},
-  {"name":"Lebanon","code":"lb","capital":"Beirut","flag_emoji":"🇱🇧","rarity_score":25,"colors":["red","white","green"],"continent":"Asia"},
-  {"name":"Lesotho","code":"ls","capital":"Maseru","flag_emoji":"🇱🇸","rarity_score":70,"colors":["blue","white","green","black"],"continent":"Africa"},
-  {"name":"Liberia","code":"lr","capital":"Monrovia","flag_emoji":"🇱🇷","rarity_score":45,"colors":["red","white","blue"],"continent":"Africa"},
-  {"name":"Libya","code":"ly","capital":"Tripoli","flag_emoji":"🇱🇾","rarity_score":35,"colors":["black","red","green","white"],"continent":"Africa"},
-  {"name":"Liechtenstein","code":"li","capital":"Vaduz","flag_emoji":"🇱🇮","rarity_score":80,"colors":["blue","red","yellow"],"continent":"Europe"},
-  {"name":"Lithuania","code":"lt","capital":"Vilnius","flag_emoji":"🇱🇹","rarity_score":28,"colors":["yellow","green","red"],"continent":"Europe"},
-  {"name":"Luxembourg","code":"lu","capital":"Luxembourg City","flag_emoji":"🇱🇺","rarity_score":40,"colors":["red","white","blue"],"continent":"Europe"},
-  {"name":"Madagascar","code":"mg","capital":"Antananarivo","flag_emoji":"🇲🇬","rarity_score":50,"colors":["white","red","green"],"continent":"Africa"},
-  {"name":"Malawi","code":"mw","capital":"Lilongwe","flag_emoji":"🇲🇼","rarity_score":55,"colors":["black","red","green"],"continent":"Africa"},
-  {"name":"Malaysia","code":"my","capital":"Kuala Lumpur","flag_emoji":"🇲🇾","rarity_score":18,"colors":["red","white","blue","yellow"],"continent":"Asia"},
-  {"name":"Maldives","code":"mv","capital":"Malé","flag_emoji":"🇲🇻","rarity_score":55,"colors":["red","green","white"],"continent":"Asia"},
-  {"name":"Mali","code":"ml","capital":"Bamako","flag_emoji":"🇲🇱","rarity_score":40,"colors":["green","yellow","red"],"continent":"Africa"},
-  {"name":"Malta","code":"mt","capital":"Valletta","flag_emoji":"🇲🇹","rarity_score":45,"colors":["white","red"],"continent":"Europe"},
-  {"name":"Marshall Islands","code":"mh","capital":"Majuro","flag_emoji":"🇲🇭","rarity_score":88,"colors":["blue","orange","white"],"continent":"Oceania"},
-  {"name":"Mauritania","code":"mr","capital":"Nouakchott","flag_emoji":"🇲🇷","rarity_score":65,"colors":["green","yellow","red"],"continent":"Africa"},
-  {"name":"Mauritius","code":"mu","capital":"Port Louis","flag_emoji":"🇲🇺","rarity_score":60,"colors":["red","blue","yellow","green"],"continent":"Africa"},
-  {"name":"Mexico","code":"mx","capital":"Mexico City","flag_emoji":"🇲🇽","rarity_score":5,"colors":["green","white","red"],"continent":"Americas"},
-  {"name":"Micronesia","code":"fm","capital":"Palikir","flag_emoji":"🇫🇲","rarity_score":85,"colors":["blue","white"],"continent":"Oceania"},
-  {"name":"Moldova","code":"md","capital":"Chișinău","flag_emoji":"🇲🇩","rarity_score":45,"colors":["blue","yellow","red"],"continent":"Europe"},
-  {"name":"Monaco","code":"mc","capital":"Monaco","flag_emoji":"🇲🇨","rarity_score":40,"colors":["red","white"],"continent":"Europe"},
-  {"name":"Mongolia","code":"mn","capital":"Ulaanbaatar","flag_emoji":"🇲🇳","rarity_score":50,"colors":["red","blue","yellow"],"continent":"Asia"},
-  {"name":"Montenegro","code":"me","capital":"Podgorica","flag_emoji":"🇲🇪","rarity_score":48,"colors":["red","yellow","blue"],"continent":"Europe"},
-  {"name":"Morocco","code":"ma","capital":"Rabat","flag_emoji":"🇲🇦","rarity_score":18,"colors":["red","green"],"continent":"Africa"},
-  {"name":"Mozambique","code":"mz","capital":"Maputo","flag_emoji":"🇲🇿","rarity_score":60,"colors":["green","black","yellow","white","red"],"continent":"Africa"},
-  {"name":"Myanmar","code":"mm","capital":"Naypyidaw","flag_emoji":"🇲🇲","rarity_score":35,"colors":["yellow","green","red","white"],"continent":"Asia"},
-  {"name":"Namibia","code":"na","capital":"Windhoek","flag_emoji":"🇳🇦","rarity_score":45,"colors":["blue","red","green","white","yellow"],"continent":"Africa"},
-  {"name":"Nauru","code":"nr","capital":"Yaren","flag_emoji":"🇳🇷","rarity_score":92,"colors":["blue","yellow","white"],"continent":"Oceania"},
-  {"name":"Nepal","code":"np","capital":"Kathmandu","flag_emoji":"🇳🇵","rarity_score":55,"colors":["red","blue","white"],"continent":"Asia"},
-  {"name":"Netherlands","code":"nl","capital":"Amsterdam","flag_emoji":"🇳🇱","rarity_score":8,"colors":["red","white","blue"],"continent":"Europe"},
-  {"name":"New Zealand","code":"nz","capital":"Wellington","flag_emoji":"🇳🇿","rarity_score":12,"colors":["blue","red","white"],"continent":"Oceania"},
-  {"name":"Nicaragua","code":"ni","capital":"Managua","flag_emoji":"🇳🇮","rarity_score":40,"colors":["blue","white"],"continent":"Americas"},
-  {"name":"Niger","code":"ne","capital":"Niamey","flag_emoji":"🇳🇪","rarity_score":55,"colors":["orange","white","green"],"continent":"Africa"},
-  {"name":"Nigeria","code":"ng","capital":"Abuja","flag_emoji":"🇳🇬","rarity_score":12,"colors":["green","white"],"continent":"Africa"},
-  {"name":"North Korea","code":"kp","capital":"Pyongyang","flag_emoji":"🇰🇵","rarity_score":45,"colors":["blue","red","white"],"continent":"Asia"},
-  {"name":"North Macedonia","code":"mk","capital":"Skopje","flag_emoji":"🇲🇰","rarity_score":55,"colors":["red","yellow"],"continent":"Europe"},
-  {"name":"Norway","code":"no","capital":"Oslo","flag_emoji":"🇳🇴","rarity_score":8,"colors":["red","white","blue"],"continent":"Europe"},
-  {"name":"Oman","code":"om","capital":"Muscat","flag_emoji":"🇴🇲","rarity_score":40,"colors":["red","white","green"],"continent":"Asia"},
-  {"name":"Pakistan","code":"pk","capital":"Islamabad","flag_emoji":"🇵🇰","rarity_score":12,"colors":["green","white"],"continent":"Asia"},
-  {"name":"Palau","code":"pw","capital":"Ngerulmud","flag_emoji":"🇵🇼","rarity_score":82,"colors":["blue","yellow"],"continent":"Oceania"},
-  {"name":"Palestine","code":"ps","capital":"Ramallah","flag_emoji":"🇵🇸","rarity_score":30,"colors":["black","white","green","red"],"continent":"Asia"},
-  {"name":"Panama","code":"pa","capital":"Panama City","flag_emoji":"🇵🇦","rarity_score":28,"colors":["white","blue","red"],"continent":"Americas"},
-  {"name":"Papua New Guinea","code":"pg","capital":"Port Moresby","flag_emoji":"🇵🇬","rarity_score":55,"colors":["black","red","yellow"],"continent":"Oceania"},
-  {"name":"Paraguay","code":"py","capital":"Asunción","flag_emoji":"🇵🇾","rarity_score":40,"colors":["red","white","blue"],"continent":"Americas"},
-  {"name":"Peru","code":"pe","capital":"Lima","flag_emoji":"🇵🇪","rarity_score":15,"colors":["red","white"],"continent":"Americas"},
-  {"name":"Philippines","code":"ph","capital":"Manila","flag_emoji":"🇵🇭","rarity_score":18,"colors":["blue","red","white","yellow"],"continent":"Asia"},
-  {"name":"Poland","code":"pl","capital":"Warsaw","flag_emoji":"🇵🇱","rarity_score":10,"colors":["white","red"],"continent":"Europe"},
-  {"name":"Portugal","code":"pt","capital":"Lisbon","flag_emoji":"🇵🇹","rarity_score":10,"colors":["green","red","yellow"],"continent":"Europe"},
-  {"name":"Qatar","code":"qa","capital":"Doha","flag_emoji":"🇶🇦","rarity_score":35,"colors":["red","white"],"continent":"Asia"},
-  {"name":"Romania","code":"ro","capital":"Bucharest","flag_emoji":"🇷🇴","rarity_score":15,"colors":["blue","yellow","red"],"continent":"Europe"},
-  {"name":"Russia","code":"ru","capital":"Moscow","flag_emoji":"🇷🇺","rarity_score":5,"colors":["white","blue","red"],"continent":"Europe"},
-  {"name":"Rwanda","code":"rw","capital":"Kigali","flag_emoji":"🇷🇼","rarity_score":60,"colors":["blue","yellow","green"],"continent":"Africa"},
-  {"name":"Saint Kitts and Nevis","code":"kn","capital":"Basseterre","flag_emoji":"🇰🇳","rarity_score":80,"colors":["green","yellow","black","white","red"],"continent":"Americas"},
-  {"name":"Saint Lucia","code":"lc","capital":"Castries","flag_emoji":"🇱🇨","rarity_score":72,"colors":["blue","black","yellow","white"],"continent":"Americas"},
-  {"name":"Saint Vincent and the Grenadines","code":"vc","capital":"Kingstown","flag_emoji":"🇻🇨","rarity_score":75,"colors":["blue","yellow","green"],"continent":"Americas"},
-  {"name":"Samoa","code":"ws","capital":"Apia","flag_emoji":"🇼🇸","rarity_score":75,"colors":["red","blue","white"],"continent":"Oceania"},
-  {"name":"San Marino","code":"sm","capital":"San Marino","flag_emoji":"🇸🇲","rarity_score":70,"colors":["blue","white"],"continent":"Europe"},
-  {"name":"São Tomé and Príncipe","code":"st","capital":"São Tomé","flag_emoji":"🇸🇹","rarity_score":82,"colors":["green","yellow","red","black"],"continent":"Africa"},
-  {"name":"Saudi Arabia","code":"sa","capital":"Riyadh","flag_emoji":"🇸🇦","rarity_score":20,"colors":["green","white"],"continent":"Asia"},
-  {"name":"Senegal","code":"sn","capital":"Dakar","flag_emoji":"🇸🇳","rarity_score":35,"colors":["green","yellow","red"],"continent":"Africa"},
-  {"name":"Serbia","code":"rs","capital":"Belgrade","flag_emoji":"🇷🇸","rarity_score":28,"colors":["red","blue","white"],"continent":"Europe"},
-  {"name":"Seychelles","code":"sc","capital":"Victoria","flag_emoji":"🇸🇨","rarity_score":78,"colors":["blue","yellow","red","white","green"],"continent":"Africa"},
-  {"name":"Sierra Leone","code":"sl","capital":"Freetown","flag_emoji":"🇸🇱","rarity_score":60,"colors":["green","white","blue"],"continent":"Africa"},
-  {"name":"Singapore","code":"sg","capital":"Singapore","flag_emoji":"🇸🇬","rarity_score":30,"colors":["red","white"],"continent":"Asia"},
-  {"name":"Slovakia","code":"sk","capital":"Bratislava","flag_emoji":"🇸🇰","rarity_score":28,"colors":["white","blue","red"],"continent":"Europe"},
-  {"name":"Slovenia","code":"si","capital":"Ljubljana","flag_emoji":"🇸🇮","rarity_score":30,"colors":["blue","white","red"],"continent":"Europe"},
-  {"name":"Solomon Islands","code":"sb","capital":"Honiara","flag_emoji":"🇸🇧","rarity_score":85,"colors":["blue","green","yellow","white"],"continent":"Oceania"},
-  {"name":"Somalia","code":"so","capital":"Mogadishu","flag_emoji":"🇸🇴","rarity_score":40,"colors":["blue","white"],"continent":"Africa"},
-  {"name":"South Africa","code":"za","capital":"Pretoria","flag_emoji":"🇿🇦","rarity_score":18,"colors":["black","yellow","green","red","white","blue"],"continent":"Africa"},
-  {"name":"South Korea","code":"kr","capital":"Seoul","flag_emoji":"🇰🇷","rarity_score":10,"colors":["white","red","blue","black"],"continent":"Asia"},
-  {"name":"South Sudan","code":"ss","capital":"Juba","flag_emoji":"🇸🇸","rarity_score":50,"colors":["black","red","green","blue","yellow","white"],"continent":"Africa"},
-  {"name":"Spain","code":"es","capital":"Madrid","flag_emoji":"🇪🇸","rarity_score":5,"colors":["red","yellow"],"continent":"Europe"},
-  {"name":"Sri Lanka","code":"lk","capital":"Colombo","flag_emoji":"🇱🇰","rarity_score":35,"colors":["maroon","orange","green","yellow"],"continent":"Asia"},
-  {"name":"Sudan","code":"sd","capital":"Khartoum","flag_emoji":"🇸🇩","rarity_score":40,"colors":["red","white","black","green"],"continent":"Africa"},
-  {"name":"Suriname","code":"sr","capital":"Paramaribo","flag_emoji":"🇸🇷","rarity_score":60,"colors":["green","white","red","yellow"],"continent":"Americas"},
-  {"name":"Sweden","code":"se","capital":"Stockholm","flag_emoji":"🇸🇪","rarity_score":8,"colors":["blue","yellow"],"continent":"Europe"},
-  {"name":"Switzerland","code":"ch","capital":"Bern","flag_emoji":"🇨🇭","rarity_score":10,"colors":["red","white"],"continent":"Europe"},
-  {"name":"Syria","code":"sy","capital":"Damascus","flag_emoji":"🇸🇾","rarity_score":28,"colors":["red","white","black","green"],"continent":"Asia"},
-  {"name":"Taiwan","code":"tw","capital":"Taipei","flag_emoji":"🇹🇼","rarity_score":22,"colors":["red","blue","white"],"continent":"Asia"},
-  {"name":"Tajikistan","code":"tj","capital":"Dushanbe","flag_emoji":"🇹🇯","rarity_score":60,"colors":["red","white","green"],"continent":"Asia"},
-  {"name":"Tanzania","code":"tz","capital":"Dodoma","flag_emoji":"🇹🇿","rarity_score":35,"colors":["green","yellow","black","blue"],"continent":"Africa"},
-  {"name":"Thailand","code":"th","capital":"Bangkok","flag_emoji":"🇹🇭","rarity_score":12,"colors":["red","white","blue"],"continent":"Asia"},
-  {"name":"Timor-Leste","code":"tl","capital":"Dili","flag_emoji":"🇹🇱","rarity_score":72,"colors":["red","yellow","black","white"],"continent":"Asia"},
-  {"name":"Togo","code":"tg","capital":"Lomé","flag_emoji":"🇹🇬","rarity_score":55,"colors":["green","yellow","red","white"],"continent":"Africa"},
-  {"name":"Tonga","code":"to","capital":"Nukuʻalofa","flag_emoji":"🇹🇴","rarity_score":78,"colors":["red","white"],"continent":"Oceania"},
-  {"name":"Trinidad and Tobago","code":"tt","capital":"Port of Spain","flag_emoji":"🇹🇹","rarity_score":45,"colors":["red","black","white"],"continent":"Americas"},
-  {"name":"Tunisia","code":"tn","capital":"Tunis","flag_emoji":"🇹🇳","rarity_score":22,"colors":["red","white"],"continent":"Africa"},
-  {"name":"Turkey","code":"tr","capital":"Ankara","flag_emoji":"🇹🇷","rarity_score":10,"colors":["red","white"],"continent":"Asia"},
-  {"name":"Turkmenistan","code":"tm","capital":"Ashgabat","flag_emoji":"🇹🇲","rarity_score":72,"colors":["green","white","red"],"continent":"Asia"},
-  {"name":"Tuvalu","code":"tv","capital":"Funafuti","flag_emoji":"🇹🇻","rarity_score":95,"colors":["blue","yellow","red","white"],"continent":"Oceania"},
-  {"name":"Uganda","code":"ug","capital":"Kampala","flag_emoji":"🇺🇬","rarity_score":40,"colors":["black","yellow","red"],"continent":"Africa"},
-  {"name":"Ukraine","code":"ua","capital":"Kyiv","flag_emoji":"🇺🇦","rarity_score":15,"colors":["blue","yellow"],"continent":"Europe"},
-  {"name":"United Arab Emirates","code":"ae","capital":"Abu Dhabi","flag_emoji":"🇦🇪","rarity_score":20,"colors":["green","white","red","black"],"continent":"Asia"},
-  {"name":"United Kingdom","code":"gb","capital":"London","flag_emoji":"🇬🇧","rarity_score":3,"colors":["blue","red","white"],"continent":"Europe"},
-  {"name":"United States","code":"us","capital":"Washington D.C.","flag_emoji":"🇺🇸","rarity_score":2,"colors":["red","white","blue"],"continent":"Americas"},
-  {"name":"Uruguay","code":"uy","capital":"Montevideo","flag_emoji":"🇺🇾","rarity_score":28,"colors":["white","blue","yellow"],"continent":"Americas"},
-  {"name":"Uzbekistan","code":"uz","capital":"Tashkent","flag_emoji":"🇺🇿","rarity_score":55,"colors":["blue","white","green"],"continent":"Asia"},
-  {"name":"Vanuatu","code":"vu","capital":"Port Vila","flag_emoji":"🇻🇺","rarity_score":80,"colors":["red","green","black","yellow"],"continent":"Oceania"},
-  {"name":"Vatican City","code":"va","capital":"Vatican City","flag_emoji":"🇻🇦","rarity_score":78,"colors":["yellow","white"],"continent":"Europe"},
-  {"name":"Venezuela","code":"ve","capital":"Caracas","flag_emoji":"🇻🇪","rarity_score":18,"colors":["yellow","blue","red"],"continent":"Americas"},
-  {"name":"Vietnam","code":"vn","capital":"Hanoi","flag_emoji":"🇻🇳","rarity_score":15,"colors":["red","yellow"],"continent":"Asia"},
-  {"name":"Yemen","code":"ye","capital":"Sana'a","flag_emoji":"🇾🇪","rarity_score":35,"colors":["red","white","black"],"continent":"Asia"},
-  {"name":"Zambia","code":"zm","capital":"Lusaka","flag_emoji":"🇿🇲","rarity_score":50,"colors":["green","red","black","orange"],"continent":"Africa"},
-  {"name":"Zimbabwe","code":"zw","capital":"Harare","flag_emoji":"🇿🇼","rarity_score":42,"colors":["green","yellow","red","black","white"],"continent":"Africa"}
+  {
+    "name": "Afghanistan",
+    "code": "af",
+    "capital": "Kabul",
+    "flag_emoji": "\ud83c\udde6\ud83c\uddeb",
+    "rarity_score": 35,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Albania",
+    "code": "al",
+    "capital": "Tirana",
+    "flag_emoji": "\ud83c\udde6\ud83c\uddf1",
+    "rarity_score": 30,
+    "colors": [
+      "black",
+      "red"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Algeria",
+    "code": "dz",
+    "capital": "Algiers",
+    "flag_emoji": "\ud83c\udde9\ud83c\uddff",
+    "rarity_score": 20,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Andorra",
+    "code": "ad",
+    "capital": "Andorra la Vella",
+    "flag_emoji": "\ud83c\udde6\ud83c\udde9",
+    "rarity_score": 55,
+    "colors": [
+      "blue",
+      "orange",
+      "red",
+      "yellow"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Angola",
+    "code": "ao",
+    "capital": "Luanda",
+    "flag_emoji": "\ud83c\udde6\ud83c\uddf4",
+    "rarity_score": 40,
+    "colors": [
+      "black",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "code": "ag",
+    "capital": "Saint John's",
+    "flag_emoji": "\ud83c\udde6\ud83c\uddec",
+    "rarity_score": 72,
+    "colors": [
+      "black",
+      "blue",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Argentina",
+    "code": "ar",
+    "capital": "Buenos Aires",
+    "flag_emoji": "\ud83c\udde6\ud83c\uddf7",
+    "rarity_score": 10,
+    "colors": [
+      "orange",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Armenia",
+    "code": "am",
+    "capital": "Yerevan",
+    "flag_emoji": "\ud83c\udde6\ud83c\uddf2",
+    "rarity_score": 30,
+    "colors": [
+      "blue",
+      "orange",
+      "red"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Australia",
+    "code": "au",
+    "capital": "Canberra",
+    "flag_emoji": "\ud83c\udde6\ud83c\uddfa",
+    "rarity_score": 5,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Austria",
+    "code": "at",
+    "capital": "Vienna",
+    "flag_emoji": "\ud83c\udde6\ud83c\uddf9",
+    "rarity_score": 8,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Azerbaijan",
+    "code": "az",
+    "capital": "Baku",
+    "flag_emoji": "\ud83c\udde6\ud83c\uddff",
+    "rarity_score": 35,
+    "colors": [
+      "blue",
+      "brown",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Bahamas",
+    "code": "bs",
+    "capital": "Nassau",
+    "flag_emoji": "\ud83c\udde7\ud83c\uddf8",
+    "rarity_score": 45,
+    "colors": [
+      "black",
+      "blue",
+      "orange"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Bahrain",
+    "code": "bh",
+    "capital": "Manama",
+    "flag_emoji": "\ud83c\udde7\ud83c\udded",
+    "rarity_score": 40,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Bangladesh",
+    "code": "bd",
+    "capital": "Dhaka",
+    "flag_emoji": "\ud83c\udde7\ud83c\udde9",
+    "rarity_score": 15,
+    "colors": [
+      "black",
+      "red"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Barbados",
+    "code": "bb",
+    "capital": "Bridgetown",
+    "flag_emoji": "\ud83c\udde7\ud83c\udde7",
+    "rarity_score": 50,
+    "colors": [
+      "black",
+      "orange"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Belarus",
+    "code": "by",
+    "capital": "Minsk",
+    "flag_emoji": "\ud83c\udde7\ud83c\uddfe",
+    "rarity_score": 25,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Belgium",
+    "code": "be",
+    "capital": "Brussels",
+    "flag_emoji": "\ud83c\udde7\ud83c\uddea",
+    "rarity_score": 8,
+    "colors": [
+      "black",
+      "red",
+      "yellow"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Belize",
+    "code": "bz",
+    "capital": "Belmopan",
+    "flag_emoji": "\ud83c\udde7\ud83c\uddff",
+    "rarity_score": 60,
+    "colors": [
+      "brown",
+      "purple",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Benin",
+    "code": "bj",
+    "capital": "Porto-Novo",
+    "flag_emoji": "\ud83c\udde7\ud83c\uddef",
+    "rarity_score": 55,
+    "colors": [
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Bhutan",
+    "code": "bt",
+    "capital": "Thimphu",
+    "flag_emoji": "\ud83c\udde7\ud83c\uddf9",
+    "rarity_score": 70,
+    "colors": [
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Bolivia",
+    "code": "bo",
+    "capital": "Sucre",
+    "flag_emoji": "\ud83c\udde7\ud83c\uddf4",
+    "rarity_score": 22,
+    "colors": [
+      "black",
+      "red",
+      "yellow"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "code": "ba",
+    "capital": "Sarajevo",
+    "flag_emoji": "\ud83c\udde7\ud83c\udde6",
+    "rarity_score": 40,
+    "colors": [
+      "blue",
+      "orange",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Botswana",
+    "code": "bw",
+    "capital": "Gaborone",
+    "flag_emoji": "\ud83c\udde7\ud83c\uddfc",
+    "rarity_score": 50,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Brazil",
+    "code": "br",
+    "capital": "Bras\u00edlia",
+    "flag_emoji": "\ud83c\udde7\ud83c\uddf7",
+    "rarity_score": 5,
+    "colors": [
+      "black",
+      "green",
+      "white",
+      "yellow"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Brunei",
+    "code": "bn",
+    "capital": "Bandar Seri Begawan",
+    "flag_emoji": "\ud83c\udde7\ud83c\uddf3",
+    "rarity_score": 65,
+    "colors": [
+      "black",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Bulgaria",
+    "code": "bg",
+    "capital": "Sofia",
+    "flag_emoji": "\ud83c\udde7\ud83c\uddec",
+    "rarity_score": 20,
+    "colors": [
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Burkina Faso",
+    "code": "bf",
+    "capital": "Ouagadougou",
+    "flag_emoji": "\ud83c\udde7\ud83c\uddeb",
+    "rarity_score": 60,
+    "colors": [
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Burundi",
+    "code": "bi",
+    "capital": "Gitega",
+    "flag_emoji": "\ud83c\udde7\ud83c\uddee",
+    "rarity_score": 65,
+    "colors": [
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Cabo Verde",
+    "code": "cv",
+    "capital": "Praia",
+    "flag_emoji": "\ud83c\udde8\ud83c\uddfb",
+    "rarity_score": 70,
+    "colors": [
+      "blue",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Cambodia",
+    "code": "kh",
+    "capital": "Phnom Penh",
+    "flag_emoji": "\ud83c\uddf0\ud83c\udded",
+    "rarity_score": 35,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Cameroon",
+    "code": "cm",
+    "capital": "Yaound\u00e9",
+    "flag_emoji": "\ud83c\udde8\ud83c\uddf2",
+    "rarity_score": 30,
+    "colors": [
+      "black",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Canada",
+    "code": "ca",
+    "capital": "Ottawa",
+    "flag_emoji": "\ud83c\udde8\ud83c\udde6",
+    "rarity_score": 3,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Central African Republic",
+    "code": "cf",
+    "capital": "Bangui",
+    "flag_emoji": "\ud83c\udde8\ud83c\uddeb",
+    "rarity_score": 70,
+    "colors": [
+      "blue",
+      "green",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Chad",
+    "code": "td",
+    "capital": "N'Djamena",
+    "flag_emoji": "\ud83c\uddf9\ud83c\udde9",
+    "rarity_score": 55,
+    "colors": [
+      "black",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Chile",
+    "code": "cl",
+    "capital": "Santiago",
+    "flag_emoji": "\ud83c\udde8\ud83c\uddf1",
+    "rarity_score": 15,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "China",
+    "code": "cn",
+    "capital": "Beijing",
+    "flag_emoji": "\ud83c\udde8\ud83c\uddf3",
+    "rarity_score": 5,
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Colombia",
+    "code": "co",
+    "capital": "Bogot\u00e1",
+    "flag_emoji": "\ud83c\udde8\ud83c\uddf4",
+    "rarity_score": 18,
+    "colors": [
+      "blue",
+      "orange",
+      "red"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Comoros",
+    "code": "km",
+    "capital": "Moroni",
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddf2",
+    "rarity_score": 78,
+    "colors": [
+      "blue",
+      "brown",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Congo (DRC)",
+    "code": "cd",
+    "capital": "Kinshasa",
+    "flag_emoji": "\ud83c\udde8\ud83c\udde9",
+    "rarity_score": 45,
+    "colors": [
+      "blue",
+      "red",
+      "yellow"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Congo (Republic)",
+    "code": "cg",
+    "capital": "Brazzaville",
+    "flag_emoji": "\ud83c\udde8\ud83c\uddec",
+    "rarity_score": 55,
+    "colors": [
+      "green",
+      "red",
+      "yellow"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Costa Rica",
+    "code": "cr",
+    "capital": "San Jos\u00e9",
+    "flag_emoji": "\ud83c\udde8\ud83c\uddf7",
+    "rarity_score": 20,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Croatia",
+    "code": "hr",
+    "capital": "Zagreb",
+    "flag_emoji": "\ud83c\udded\ud83c\uddf7",
+    "rarity_score": 22,
+    "colors": [
+      "blue",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Cuba",
+    "code": "cu",
+    "capital": "Havana",
+    "flag_emoji": "\ud83c\udde8\ud83c\uddfa",
+    "rarity_score": 15,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Cyprus",
+    "code": "cy",
+    "capital": "Nicosia",
+    "flag_emoji": "\ud83c\udde8\ud83c\uddfe",
+    "rarity_score": 45,
+    "colors": [
+      "brown",
+      "orange",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Czech Republic",
+    "code": "cz",
+    "capital": "Prague",
+    "flag_emoji": "\ud83c\udde8\ud83c\uddff",
+    "rarity_score": 18,
+    "colors": [
+      "purple",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Denmark",
+    "code": "dk",
+    "capital": "Copenhagen",
+    "flag_emoji": "\ud83c\udde9\ud83c\uddf0",
+    "rarity_score": 8,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Djibouti",
+    "code": "dj",
+    "capital": "Djibouti",
+    "flag_emoji": "\ud83c\udde9\ud83c\uddef",
+    "rarity_score": 72,
+    "colors": [
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Dominica",
+    "code": "dm",
+    "capital": "Roseau",
+    "flag_emoji": "\ud83c\udde9\ud83c\uddf2",
+    "rarity_score": 80,
+    "colors": [
+      "black",
+      "orange",
+      "purple",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Dominican Republic",
+    "code": "do",
+    "capital": "Santo Domingo",
+    "flag_emoji": "\ud83c\udde9\ud83c\uddf4",
+    "rarity_score": 35,
+    "colors": [
+      "black",
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Ecuador",
+    "code": "ec",
+    "capital": "Quito",
+    "flag_emoji": "\ud83c\uddea\ud83c\udde8",
+    "rarity_score": 22,
+    "colors": [
+      "blue",
+      "brown",
+      "red",
+      "yellow"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Egypt",
+    "code": "eg",
+    "capital": "Cairo",
+    "flag_emoji": "\ud83c\uddea\ud83c\uddec",
+    "rarity_score": 12,
+    "colors": [
+      "black",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "El Salvador",
+    "code": "sv",
+    "capital": "San Salvador",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddfb",
+    "rarity_score": 35,
+    "colors": [
+      "blue",
+      "green",
+      "orange",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "code": "gq",
+    "capital": "Malabo",
+    "flag_emoji": "\ud83c\uddec\ud83c\uddf6",
+    "rarity_score": 75,
+    "colors": [
+      "blue",
+      "brown",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Eritrea",
+    "code": "er",
+    "capital": "Asmara",
+    "flag_emoji": "\ud83c\uddea\ud83c\uddf7",
+    "rarity_score": 68,
+    "colors": [
+      "blue",
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Estonia",
+    "code": "ee",
+    "capital": "Tallinn",
+    "flag_emoji": "\ud83c\uddea\ud83c\uddea",
+    "rarity_score": 30,
+    "colors": [
+      "black",
+      "blue",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Eswatini",
+    "code": "sz",
+    "capital": "Mbabane",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddff",
+    "rarity_score": 72,
+    "colors": [
+      "black",
+      "brown",
+      "purple",
+      "white",
+      "yellow"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Ethiopia",
+    "code": "et",
+    "capital": "Addis Ababa",
+    "flag_emoji": "\ud83c\uddea\ud83c\uddf9",
+    "rarity_score": 20,
+    "colors": [
+      "blue",
+      "green",
+      "red",
+      "yellow"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Fiji",
+    "code": "fj",
+    "capital": "Suva",
+    "flag_emoji": "\ud83c\uddeb\ud83c\uddef",
+    "rarity_score": 50,
+    "colors": [
+      "black",
+      "green",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Finland",
+    "code": "fi",
+    "capital": "Helsinki",
+    "flag_emoji": "\ud83c\uddeb\ud83c\uddee",
+    "rarity_score": 10,
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "France",
+    "code": "fr",
+    "capital": "Paris",
+    "flag_emoji": "\ud83c\uddeb\ud83c\uddf7",
+    "rarity_score": 3,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Gabon",
+    "code": "ga",
+    "capital": "Libreville",
+    "flag_emoji": "\ud83c\uddec\ud83c\udde6",
+    "rarity_score": 55,
+    "colors": [
+      "blue",
+      "green",
+      "orange"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Gambia",
+    "code": "gm",
+    "capital": "Banjul",
+    "flag_emoji": "\ud83c\uddec\ud83c\uddf2",
+    "rarity_score": 60,
+    "colors": [
+      "blue",
+      "brown",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Georgia",
+    "code": "ge",
+    "capital": "Tbilisi",
+    "flag_emoji": "\ud83c\uddec\ud83c\uddea",
+    "rarity_score": 35,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Germany",
+    "code": "de",
+    "capital": "Berlin",
+    "flag_emoji": "\ud83c\udde9\ud83c\uddea",
+    "rarity_score": 4,
+    "colors": [
+      "black",
+      "orange",
+      "red"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Ghana",
+    "code": "gh",
+    "capital": "Accra",
+    "flag_emoji": "\ud83c\uddec\ud83c\udded",
+    "rarity_score": 22,
+    "colors": [
+      "black",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Greece",
+    "code": "gr",
+    "capital": "Athens",
+    "flag_emoji": "\ud83c\uddec\ud83c\uddf7",
+    "rarity_score": 10,
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Grenada",
+    "code": "gd",
+    "capital": "Saint George's",
+    "flag_emoji": "\ud83c\uddec\ud83c\udde9",
+    "rarity_score": 70,
+    "colors": [
+      "black",
+      "orange",
+      "red"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Guatemala",
+    "code": "gt",
+    "capital": "Guatemala City",
+    "flag_emoji": "\ud83c\uddec\ud83c\uddf9",
+    "rarity_score": 30,
+    "colors": [
+      "blue",
+      "brown",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Guinea",
+    "code": "gn",
+    "capital": "Conakry",
+    "flag_emoji": "\ud83c\uddec\ud83c\uddf3",
+    "rarity_score": 50,
+    "colors": [
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "code": "gw",
+    "capital": "Bissau",
+    "flag_emoji": "\ud83c\uddec\ud83c\uddfc",
+    "rarity_score": 72,
+    "colors": [
+      "black",
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Guyana",
+    "code": "gy",
+    "capital": "Georgetown",
+    "flag_emoji": "\ud83c\uddec\ud83c\uddfe",
+    "rarity_score": 55,
+    "colors": [
+      "green",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Haiti",
+    "code": "ht",
+    "capital": "Port-au-Prince",
+    "flag_emoji": "\ud83c\udded\ud83c\uddf9",
+    "rarity_score": 35,
+    "colors": [
+      "black",
+      "blue",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Honduras",
+    "code": "hn",
+    "capital": "Tegucigalpa",
+    "flag_emoji": "\ud83c\udded\ud83c\uddf3",
+    "rarity_score": 35,
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Hungary",
+    "code": "hu",
+    "capital": "Budapest",
+    "flag_emoji": "\ud83c\udded\ud83c\uddfa",
+    "rarity_score": 15,
+    "colors": [
+      "brown",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Iceland",
+    "code": "is",
+    "capital": "Reykjavik",
+    "flag_emoji": "\ud83c\uddee\ud83c\uddf8",
+    "rarity_score": 28,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "India",
+    "code": "in",
+    "capital": "New Delhi",
+    "flag_emoji": "\ud83c\uddee\ud83c\uddf3",
+    "rarity_score": 5,
+    "colors": [
+      "blue",
+      "green",
+      "orange",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Indonesia",
+    "code": "id",
+    "capital": "Jakarta",
+    "flag_emoji": "\ud83c\uddee\ud83c\udde9",
+    "rarity_score": 8,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Iran",
+    "code": "ir",
+    "capital": "Tehran",
+    "flag_emoji": "\ud83c\uddee\ud83c\uddf7",
+    "rarity_score": 15,
+    "colors": [
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Iraq",
+    "code": "iq",
+    "capital": "Baghdad",
+    "flag_emoji": "\ud83c\uddee\ud83c\uddf6",
+    "rarity_score": 18,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Ireland",
+    "code": "ie",
+    "capital": "Dublin",
+    "flag_emoji": "\ud83c\uddee\ud83c\uddea",
+    "rarity_score": 10,
+    "colors": [
+      "green",
+      "orange",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Israel",
+    "code": "il",
+    "capital": "Jerusalem",
+    "flag_emoji": "\ud83c\uddee\ud83c\uddf1",
+    "rarity_score": 15,
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Italy",
+    "code": "it",
+    "capital": "Rome",
+    "flag_emoji": "\ud83c\uddee\ud83c\uddf9",
+    "rarity_score": 5,
+    "colors": [
+      "brown",
+      "green",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Jamaica",
+    "code": "jm",
+    "capital": "Kingston",
+    "flag_emoji": "\ud83c\uddef\ud83c\uddf2",
+    "rarity_score": 25,
+    "colors": [
+      "black",
+      "green",
+      "orange"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Japan",
+    "code": "jp",
+    "capital": "Tokyo",
+    "flag_emoji": "\ud83c\uddef\ud83c\uddf5",
+    "rarity_score": 5,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Jordan",
+    "code": "jo",
+    "capital": "Amman",
+    "flag_emoji": "\ud83c\uddef\ud83c\uddf4",
+    "rarity_score": 28,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Kazakhstan",
+    "code": "kz",
+    "capital": "Astana",
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddff",
+    "rarity_score": 35,
+    "colors": [
+      "blue",
+      "orange"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Kenya",
+    "code": "ke",
+    "capital": "Nairobi",
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddea",
+    "rarity_score": 22,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Kiribati",
+    "code": "ki",
+    "capital": "South Tarawa",
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddee",
+    "rarity_score": 90,
+    "colors": [
+      "orange",
+      "purple",
+      "red",
+      "white"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Kuwait",
+    "code": "kw",
+    "capital": "Kuwait City",
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddfc",
+    "rarity_score": 35,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "code": "kg",
+    "capital": "Bishkek",
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddec",
+    "rarity_score": 60,
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Laos",
+    "code": "la",
+    "capital": "Vientiane",
+    "flag_emoji": "\ud83c\uddf1\ud83c\udde6",
+    "rarity_score": 45,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Latvia",
+    "code": "lv",
+    "capital": "Riga",
+    "flag_emoji": "\ud83c\uddf1\ud83c\uddfb",
+    "rarity_score": 30,
+    "colors": [
+      "brown",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Lebanon",
+    "code": "lb",
+    "capital": "Beirut",
+    "flag_emoji": "\ud83c\uddf1\ud83c\udde7",
+    "rarity_score": 25,
+    "colors": [
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Lesotho",
+    "code": "ls",
+    "capital": "Maseru",
+    "flag_emoji": "\ud83c\uddf1\ud83c\uddf8",
+    "rarity_score": 70,
+    "colors": [
+      "black",
+      "blue",
+      "green",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Liberia",
+    "code": "lr",
+    "capital": "Monrovia",
+    "flag_emoji": "\ud83c\uddf1\ud83c\uddf7",
+    "rarity_score": 45,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Libya",
+    "code": "ly",
+    "capital": "Tripoli",
+    "flag_emoji": "\ud83c\uddf1\ud83c\uddfe",
+    "rarity_score": 35,
+    "colors": [
+      "black",
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Liechtenstein",
+    "code": "li",
+    "capital": "Vaduz",
+    "flag_emoji": "\ud83c\uddf1\ud83c\uddee",
+    "rarity_score": 80,
+    "colors": [
+      "black",
+      "red",
+      "yellow"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Lithuania",
+    "code": "lt",
+    "capital": "Vilnius",
+    "flag_emoji": "\ud83c\uddf1\ud83c\uddf9",
+    "rarity_score": 28,
+    "colors": [
+      "black",
+      "brown",
+      "orange"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Luxembourg",
+    "code": "lu",
+    "capital": "Luxembourg City",
+    "flag_emoji": "\ud83c\uddf1\ud83c\uddfa",
+    "rarity_score": 40,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Madagascar",
+    "code": "mg",
+    "capital": "Antananarivo",
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddec",
+    "rarity_score": 50,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Malawi",
+    "code": "mw",
+    "capital": "Lilongwe",
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddfc",
+    "rarity_score": 55,
+    "colors": [
+      "black",
+      "green",
+      "red"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Malaysia",
+    "code": "my",
+    "capital": "Kuala Lumpur",
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddfe",
+    "rarity_score": 18,
+    "colors": [
+      "black",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Maldives",
+    "code": "mv",
+    "capital": "Mal\u00e9",
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddfb",
+    "rarity_score": 55,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Mali",
+    "code": "ml",
+    "capital": "Bamako",
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddf1",
+    "rarity_score": 40,
+    "colors": [
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Malta",
+    "code": "mt",
+    "capital": "Valletta",
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddf9",
+    "rarity_score": 45,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Marshall Islands",
+    "code": "mh",
+    "capital": "Majuro",
+    "flag_emoji": "\ud83c\uddf2\ud83c\udded",
+    "rarity_score": 88,
+    "colors": [
+      "blue",
+      "orange",
+      "white"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Mauritania",
+    "code": "mr",
+    "capital": "Nouakchott",
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddf7",
+    "rarity_score": 65,
+    "colors": [
+      "green",
+      "red",
+      "yellow"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Mauritius",
+    "code": "mu",
+    "capital": "Port Louis",
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddfa",
+    "rarity_score": 60,
+    "colors": [
+      "green",
+      "purple",
+      "red",
+      "yellow"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Mexico",
+    "code": "mx",
+    "capital": "Mexico City",
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddfd",
+    "rarity_score": 5,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Micronesia",
+    "code": "fm",
+    "capital": "Palikir",
+    "flag_emoji": "\ud83c\uddeb\ud83c\uddf2",
+    "rarity_score": 85,
+    "colors": [
+      "white"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Moldova",
+    "code": "md",
+    "capital": "Chi\u0219in\u0103u",
+    "flag_emoji": "\ud83c\uddf2\ud83c\udde9",
+    "rarity_score": 45,
+    "colors": [
+      "blue",
+      "brown",
+      "orange",
+      "red"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Monaco",
+    "code": "mc",
+    "capital": "Monaco",
+    "flag_emoji": "\ud83c\uddf2\ud83c\udde8",
+    "rarity_score": 40,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Mongolia",
+    "code": "mn",
+    "capital": "Ulaanbaatar",
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddf3",
+    "rarity_score": 50,
+    "colors": [
+      "blue",
+      "red",
+      "yellow"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Montenegro",
+    "code": "me",
+    "capital": "Podgorica",
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddea",
+    "rarity_score": 48,
+    "colors": [
+      "brown",
+      "orange",
+      "purple",
+      "red"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Morocco",
+    "code": "ma",
+    "capital": "Rabat",
+    "flag_emoji": "\ud83c\uddf2\ud83c\udde6",
+    "rarity_score": 18,
+    "colors": [
+      "black",
+      "brown"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Mozambique",
+    "code": "mz",
+    "capital": "Maputo",
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddff",
+    "rarity_score": 60,
+    "colors": [
+      "black",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Myanmar",
+    "code": "mm",
+    "capital": "Naypyidaw",
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddf2",
+    "rarity_score": 35,
+    "colors": [
+      "green",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Namibia",
+    "code": "na",
+    "capital": "Windhoek",
+    "flag_emoji": "\ud83c\uddf3\ud83c\udde6",
+    "rarity_score": 45,
+    "colors": [
+      "blue",
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Nauru",
+    "code": "nr",
+    "capital": "Yaren",
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddf7",
+    "rarity_score": 92,
+    "colors": [
+      "black",
+      "orange",
+      "white"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Nepal",
+    "code": "np",
+    "capital": "Kathmandu",
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddf5",
+    "rarity_score": 55,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Netherlands",
+    "code": "nl",
+    "capital": "Amsterdam",
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddf1",
+    "rarity_score": 8,
+    "colors": [
+      "brown",
+      "purple",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "New Zealand",
+    "code": "nz",
+    "capital": "Wellington",
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddff",
+    "rarity_score": 12,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Nicaragua",
+    "code": "ni",
+    "capital": "Managua",
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddee",
+    "rarity_score": 40,
+    "colors": [
+      "blue",
+      "orange",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Niger",
+    "code": "ne",
+    "capital": "Niamey",
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddea",
+    "rarity_score": 55,
+    "colors": [
+      "brown",
+      "green",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Nigeria",
+    "code": "ng",
+    "capital": "Abuja",
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddec",
+    "rarity_score": 12,
+    "colors": [
+      "green",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "North Korea",
+    "code": "kp",
+    "capital": "Pyongyang",
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddf5",
+    "rarity_score": 45,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "North Macedonia",
+    "code": "mk",
+    "capital": "Skopje",
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddf0",
+    "rarity_score": 55,
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Norway",
+    "code": "no",
+    "capital": "Oslo",
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddf4",
+    "rarity_score": 8,
+    "colors": [
+      "black",
+      "brown",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Oman",
+    "code": "om",
+    "capital": "Muscat",
+    "flag_emoji": "\ud83c\uddf4\ud83c\uddf2",
+    "rarity_score": 40,
+    "colors": [
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Pakistan",
+    "code": "pk",
+    "capital": "Islamabad",
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddf0",
+    "rarity_score": 12,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Palau",
+    "code": "pw",
+    "capital": "Ngerulmud",
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddfc",
+    "rarity_score": 82,
+    "colors": [
+      "blue",
+      "yellow"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Palestine",
+    "code": "ps",
+    "capital": "Ramallah",
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddf8",
+    "rarity_score": 30,
+    "colors": [
+      "black",
+      "brown",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Panama",
+    "code": "pa",
+    "capital": "Panama City",
+    "flag_emoji": "\ud83c\uddf5\ud83c\udde6",
+    "rarity_score": 28,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Papua New Guinea",
+    "code": "pg",
+    "capital": "Port Moresby",
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddec",
+    "rarity_score": 55,
+    "colors": [
+      "black",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Paraguay",
+    "code": "py",
+    "capital": "Asunci\u00f3n",
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddfe",
+    "rarity_score": 40,
+    "colors": [
+      "blue",
+      "green",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Peru",
+    "code": "pe",
+    "capital": "Lima",
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddea",
+    "rarity_score": 15,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Philippines",
+    "code": "ph",
+    "capital": "Manila",
+    "flag_emoji": "\ud83c\uddf5\ud83c\udded",
+    "rarity_score": 18,
+    "colors": [
+      "blue",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Poland",
+    "code": "pl",
+    "capital": "Warsaw",
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddf1",
+    "rarity_score": 10,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Portugal",
+    "code": "pt",
+    "capital": "Lisbon",
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddf9",
+    "rarity_score": 10,
+    "colors": [
+      "black",
+      "blue",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Qatar",
+    "code": "qa",
+    "capital": "Doha",
+    "flag_emoji": "\ud83c\uddf6\ud83c\udde6",
+    "rarity_score": 35,
+    "colors": [
+      "brown",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Romania",
+    "code": "ro",
+    "capital": "Bucharest",
+    "flag_emoji": "\ud83c\uddf7\ud83c\uddf4",
+    "rarity_score": 15,
+    "colors": [
+      "black",
+      "orange",
+      "red"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Russia",
+    "code": "ru",
+    "capital": "Moscow",
+    "flag_emoji": "\ud83c\uddf7\ud83c\uddfa",
+    "rarity_score": 5,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Rwanda",
+    "code": "rw",
+    "capital": "Kigali",
+    "flag_emoji": "\ud83c\uddf7\ud83c\uddfc",
+    "rarity_score": 60,
+    "colors": [
+      "blue",
+      "brown",
+      "orange"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "code": "kn",
+    "capital": "Basseterre",
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddf3",
+    "rarity_score": 80,
+    "colors": [
+      "black",
+      "green",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Saint Lucia",
+    "code": "lc",
+    "capital": "Castries",
+    "flag_emoji": "\ud83c\uddf1\ud83c\udde8",
+    "rarity_score": 72,
+    "colors": [
+      "black",
+      "orange",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "code": "vc",
+    "capital": "Kingstown",
+    "flag_emoji": "\ud83c\uddfb\ud83c\udde8",
+    "rarity_score": 75,
+    "colors": [
+      "black",
+      "orange"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Samoa",
+    "code": "ws",
+    "capital": "Apia",
+    "flag_emoji": "\ud83c\uddfc\ud83c\uddf8",
+    "rarity_score": 75,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "San Marino",
+    "code": "sm",
+    "capital": "San Marino",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddf2",
+    "rarity_score": 70,
+    "colors": [
+      "brown",
+      "orange",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "code": "st",
+    "capital": "S\u00e3o Tom\u00e9",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddf9",
+    "rarity_score": 82,
+    "colors": [
+      "black",
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Saudi Arabia",
+    "code": "sa",
+    "capital": "Riyadh",
+    "flag_emoji": "\ud83c\uddf8\ud83c\udde6",
+    "rarity_score": 20,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Senegal",
+    "code": "sn",
+    "capital": "Dakar",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddf3",
+    "rarity_score": 35,
+    "colors": [
+      "green",
+      "red",
+      "yellow"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Serbia",
+    "code": "rs",
+    "capital": "Belgrade",
+    "flag_emoji": "\ud83c\uddf7\ud83c\uddf8",
+    "rarity_score": 28,
+    "colors": [
+      "brown",
+      "orange",
+      "purple",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Seychelles",
+    "code": "sc",
+    "capital": "Victoria",
+    "flag_emoji": "\ud83c\uddf8\ud83c\udde8",
+    "rarity_score": 78,
+    "colors": [
+      "black",
+      "blue",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Sierra Leone",
+    "code": "sl",
+    "capital": "Freetown",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddf1",
+    "rarity_score": 60,
+    "colors": [
+      "blue",
+      "green",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Singapore",
+    "code": "sg",
+    "capital": "Singapore",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddec",
+    "rarity_score": 30,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Slovakia",
+    "code": "sk",
+    "capital": "Bratislava",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddf0",
+    "rarity_score": 28,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Slovenia",
+    "code": "si",
+    "capital": "Ljubljana",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddee",
+    "rarity_score": 30,
+    "colors": [
+      "blue",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Solomon Islands",
+    "code": "sb",
+    "capital": "Honiara",
+    "flag_emoji": "\ud83c\uddf8\ud83c\udde7",
+    "rarity_score": 85,
+    "colors": [
+      "black",
+      "blue",
+      "orange",
+      "white"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Somalia",
+    "code": "so",
+    "capital": "Mogadishu",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddf4",
+    "rarity_score": 40,
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "South Africa",
+    "code": "za",
+    "capital": "Pretoria",
+    "flag_emoji": "\ud83c\uddff\ud83c\udde6",
+    "rarity_score": 18,
+    "colors": [
+      "black",
+      "blue",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "South Korea",
+    "code": "kr",
+    "capital": "Seoul",
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddf7",
+    "rarity_score": 10,
+    "colors": [
+      "black",
+      "blue",
+      "brown",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "South Sudan",
+    "code": "ss",
+    "capital": "Juba",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddf8",
+    "rarity_score": 50,
+    "colors": [
+      "black",
+      "blue",
+      "green",
+      "red",
+      "yellow"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Spain",
+    "code": "es",
+    "capital": "Madrid",
+    "flag_emoji": "\ud83c\uddea\ud83c\uddf8",
+    "rarity_score": 5,
+    "colors": [
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Sri Lanka",
+    "code": "lk",
+    "capital": "Colombo",
+    "flag_emoji": "\ud83c\uddf1\ud83c\uddf0",
+    "rarity_score": 35,
+    "colors": [
+      "black",
+      "brown",
+      "orange"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Sudan",
+    "code": "sd",
+    "capital": "Khartoum",
+    "flag_emoji": "\ud83c\uddf8\ud83c\udde9",
+    "rarity_score": 40,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Suriname",
+    "code": "sr",
+    "capital": "Paramaribo",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddf7",
+    "rarity_score": 60,
+    "colors": [
+      "brown",
+      "orange",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Sweden",
+    "code": "se",
+    "capital": "Stockholm",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddea",
+    "rarity_score": 8,
+    "colors": [
+      "blue",
+      "orange"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Switzerland",
+    "code": "ch",
+    "capital": "Bern",
+    "flag_emoji": "\ud83c\udde8\ud83c\udded",
+    "rarity_score": 10,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Syria",
+    "code": "sy",
+    "capital": "Damascus",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddfe",
+    "rarity_score": 28,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Taiwan",
+    "code": "tw",
+    "capital": "Taipei",
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddfc",
+    "rarity_score": 22,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Tajikistan",
+    "code": "tj",
+    "capital": "Dushanbe",
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddef",
+    "rarity_score": 60,
+    "colors": [
+      "black",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Tanzania",
+    "code": "tz",
+    "capital": "Dodoma",
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddff",
+    "rarity_score": 35,
+    "colors": [
+      "black",
+      "blue",
+      "green",
+      "orange"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Thailand",
+    "code": "th",
+    "capital": "Bangkok",
+    "flag_emoji": "\ud83c\uddf9\ud83c\udded",
+    "rarity_score": 12,
+    "colors": [
+      "black",
+      "brown",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Timor-Leste",
+    "code": "tl",
+    "capital": "Dili",
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddf1",
+    "rarity_score": 72,
+    "colors": [
+      "black",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Togo",
+    "code": "tg",
+    "capital": "Lom\u00e9",
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddec",
+    "rarity_score": 55,
+    "colors": [
+      "black",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Tonga",
+    "code": "to",
+    "capital": "Nuku\u02bbalofa",
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddf4",
+    "rarity_score": 78,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "code": "tt",
+    "capital": "Port of Spain",
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddf9",
+    "rarity_score": 45,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Tunisia",
+    "code": "tn",
+    "capital": "Tunis",
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddf3",
+    "rarity_score": 22,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Turkey",
+    "code": "tr",
+    "capital": "Ankara",
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddf7",
+    "rarity_score": 10,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Turkmenistan",
+    "code": "tm",
+    "capital": "Ashgabat",
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddf2",
+    "rarity_score": 72,
+    "colors": [
+      "green",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Tuvalu",
+    "code": "tv",
+    "capital": "Funafuti",
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddfb",
+    "rarity_score": 95,
+    "colors": [
+      "black",
+      "blue",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Uganda",
+    "code": "ug",
+    "capital": "Kampala",
+    "flag_emoji": "\ud83c\uddfa\ud83c\uddec",
+    "rarity_score": 40,
+    "colors": [
+      "black",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Ukraine",
+    "code": "ua",
+    "capital": "Kyiv",
+    "flag_emoji": "\ud83c\uddfa\ud83c\udde6",
+    "rarity_score": 15,
+    "colors": [
+      "blue",
+      "yellow"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "United Arab Emirates",
+    "code": "ae",
+    "capital": "Abu Dhabi",
+    "flag_emoji": "\ud83c\udde6\ud83c\uddea",
+    "rarity_score": 20,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "United Kingdom",
+    "code": "gb",
+    "capital": "London",
+    "flag_emoji": "\ud83c\uddec\ud83c\udde7",
+    "rarity_score": 3,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "United States",
+    "code": "us",
+    "capital": "Washington D.C.",
+    "flag_emoji": "\ud83c\uddfa\ud83c\uddf8",
+    "rarity_score": 2,
+    "colors": [
+      "brown",
+      "purple",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Uruguay",
+    "code": "uy",
+    "capital": "Montevideo",
+    "flag_emoji": "\ud83c\uddfa\ud83c\uddfe",
+    "rarity_score": 28,
+    "colors": [
+      "blue",
+      "brown",
+      "orange",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Uzbekistan",
+    "code": "uz",
+    "capital": "Tashkent",
+    "flag_emoji": "\ud83c\uddfa\ud83c\uddff",
+    "rarity_score": 55,
+    "colors": [
+      "blue",
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Vanuatu",
+    "code": "vu",
+    "capital": "Port Vila",
+    "flag_emoji": "\ud83c\uddfb\ud83c\uddfa",
+    "rarity_score": 80,
+    "colors": [
+      "black",
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Vatican City",
+    "code": "va",
+    "capital": "Vatican City",
+    "flag_emoji": "\ud83c\uddfb\ud83c\udde6",
+    "rarity_score": 78,
+    "colors": [
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Venezuela",
+    "code": "ve",
+    "capital": "Caracas",
+    "flag_emoji": "\ud83c\uddfb\ud83c\uddea",
+    "rarity_score": 18,
+    "colors": [
+      "black",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Vietnam",
+    "code": "vn",
+    "capital": "Hanoi",
+    "flag_emoji": "\ud83c\uddfb\ud83c\uddf3",
+    "rarity_score": 15,
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Yemen",
+    "code": "ye",
+    "capital": "Sana'a",
+    "flag_emoji": "\ud83c\uddfe\ud83c\uddea",
+    "rarity_score": 35,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Zambia",
+    "code": "zm",
+    "capital": "Lusaka",
+    "flag_emoji": "\ud83c\uddff\ud83c\uddf2",
+    "rarity_score": 50,
+    "colors": [
+      "black",
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Zimbabwe",
+    "code": "zw",
+    "capital": "Harare",
+    "flag_emoji": "\ud83c\uddff\ud83c\uddfc",
+    "rarity_score": 42,
+    "colors": [
+      "black",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  }
 ]

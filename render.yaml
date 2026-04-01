@@ -1,0 +1,37 @@
+services:
+  # Backend Web Service
+  - type: web
+    name: guess-api
+    runtime: docker
+    plan: free # Can be 'free' or 'starter'
+    envVars:
+      - key: MONGO_URI
+        sync: false # Set privately on Render dashboard
+      - key: DB_NAME
+        value: guesswhat
+      - key: JWT_SECRET
+        sync: false # Set privately on Render dashboard
+      - key: HOST
+        value: "0.0.0.0"
+      - key: PORT
+        value: "8080"
+    healthCheckPath: /api/leaderboard # Simple public endpoint for health check
+    dockerContext: ./backend
+    dockerfile: Dockerfile
+
+  # Frontend Static Site
+  - type: static
+    name: guess-frontend
+    runtime: static
+    buildCommand: npm install && npm run build
+    publishDir: dist
+    baseDir: frontend
+    envVars:
+      - key: VITE_API_URL
+        value: https://guess-api.folkhart.com/api
+      - key: VITE_WS_URL
+        value: wss://guess-api.folkhart.com/ws
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html

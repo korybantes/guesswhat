@@ -3,1750 +3,2569 @@
     "name": "Afghanistan",
     "code": "af",
     "capital": "Kabul",
-    "rarity": 15.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde6\ud83c\uddeb",
+    "rarity_score": 35,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Albania",
     "code": "al",
     "capital": "Tirana",
-    "rarity": 58.0,
-    "color": "black-red"
+    "flag_emoji": "\ud83c\udde6\ud83c\uddf1",
+    "rarity_score": 30,
+    "colors": [
+      "black",
+      "red"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Algeria",
     "code": "dz",
     "capital": "Algiers",
-    "rarity": 6.0,
-    "color": "red-white"
-  },
-  {
-    "name": "American Samoa",
-    "code": "as",
-    "capital": "Pago Pago",
-    "rarity": 99.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde9\ud83c\uddff",
+    "rarity_score": 20,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Andorra",
     "code": "ad",
     "capital": "Andorra la Vella",
-    "rarity": 98.0,
-    "color": "red-yellow"
+    "flag_emoji": "\ud83c\udde6\ud83c\udde9",
+    "rarity_score": 55,
+    "colors": [
+      "blue",
+      "orange",
+      "red",
+      "yellow"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Angola",
     "code": "ao",
     "capital": "Luanda",
-    "rarity": 5.0,
-    "color": "multicolor"
-  },
-  {
-    "name": "Anguilla",
-    "code": "ai",
-    "capital": "The Valley",
-    "rarity": 91.0,
-    "color": "red-white"
-  },
-  {
-    "name": "Antarctica",
-    "code": "aq",
-    "capital": "Unknown",
-    "rarity": 5.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\udde6\ud83c\uddf4",
+    "rarity_score": 40,
+    "colors": [
+      "black",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Antigua and Barbuda",
     "code": "ag",
     "capital": "Saint John's",
-    "rarity": 92.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\udde6\ud83c\uddec",
+    "rarity_score": 72,
+    "colors": [
+      "black",
+      "blue",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Argentina",
     "code": "ar",
     "capital": "Buenos Aires",
-    "rarity": 5.0,
-    "color": "orange-white"
+    "flag_emoji": "\ud83c\udde6\ud83c\uddf7",
+    "rarity_score": 10,
+    "colors": [
+      "orange",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Armenia",
     "code": "am",
     "capital": "Yerevan",
-    "rarity": 53.0,
-    "color": "multicolor"
-  },
-  {
-    "name": "Aruba",
-    "code": "aw",
-    "capital": "Oranjestad",
-    "rarity": 90.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\udde6\ud83c\uddf2",
+    "rarity_score": 30,
+    "colors": [
+      "blue",
+      "orange",
+      "red"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Australia",
     "code": "au",
     "capital": "Canberra",
-    "rarity": 9.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\udde6\ud83c\uddfa",
+    "rarity_score": 5,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Oceania"
   },
   {
     "name": "Austria",
     "code": "at",
     "capital": "Vienna",
-    "rarity": 61.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde6\ud83c\uddf9",
+    "rarity_score": 8,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Azerbaijan",
     "code": "az",
     "capital": "Baku",
-    "rarity": 50.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\udde6\ud83c\uddff",
+    "rarity_score": 35,
+    "colors": [
+      "blue",
+      "brown",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Bahamas",
     "code": "bs",
     "capital": "Nassau",
-    "rarity": 53.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\udde7\ud83c\uddf8",
+    "rarity_score": 45,
+    "colors": [
+      "black",
+      "blue",
+      "orange"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Bahrain",
     "code": "bh",
     "capital": "Manama",
-    "rarity": 75.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde7\ud83c\udded",
+    "rarity_score": 40,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Bangladesh",
     "code": "bd",
     "capital": "Dhaka",
-    "rarity": 40.0,
-    "color": "black-red"
+    "flag_emoji": "\ud83c\udde7\ud83c\udde9",
+    "rarity_score": 15,
+    "colors": [
+      "black",
+      "red"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Barbados",
     "code": "bb",
     "capital": "Bridgetown",
-    "rarity": 90.0,
-    "color": "black-orange"
+    "flag_emoji": "\ud83c\udde7\ud83c\udde7",
+    "rarity_score": 50,
+    "colors": [
+      "black",
+      "orange"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Belarus",
     "code": "by",
     "capital": "Minsk",
-    "rarity": 30.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde7\ud83c\uddfe",
+    "rarity_score": 25,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Belgium",
     "code": "be",
     "capital": "Brussels",
-    "rarity": 58.0,
-    "color": "red-yellow"
+    "flag_emoji": "\ud83c\udde7\ud83c\uddea",
+    "rarity_score": 8,
+    "colors": [
+      "black",
+      "red",
+      "yellow"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Belize",
     "code": "bz",
     "capital": "Belmopan",
-    "rarity": 56.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde7\ud83c\uddff",
+    "rarity_score": 60,
+    "colors": [
+      "brown",
+      "purple",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Benin",
     "code": "bj",
     "capital": "Porto-Novo",
-    "rarity": 32.0,
-    "color": "multicolor"
-  },
-  {
-    "name": "Bermuda",
-    "code": "bm",
-    "capital": "Hamilton",
-    "rarity": 94.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde7\ud83c\uddef",
+    "rarity_score": 55,
+    "colors": [
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Bhutan",
     "code": "bt",
     "capital": "Thimphu",
-    "rarity": 64.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde7\ud83c\uddf9",
+    "rarity_score": 70,
+    "colors": [
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Bolivia",
     "code": "bo",
     "capital": "Sucre",
-    "rarity": 6.0,
-    "color": "red-yellow"
+    "flag_emoji": "\ud83c\udde7\ud83c\uddf4",
+    "rarity_score": 22,
+    "colors": [
+      "black",
+      "red",
+      "yellow"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Bosnia and Herzegovina",
     "code": "ba",
     "capital": "Sarajevo",
-    "rarity": 59.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\udde7\ud83c\udde6",
+    "rarity_score": 40,
+    "colors": [
+      "blue",
+      "orange",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Botswana",
     "code": "bw",
     "capital": "Gaborone",
-    "rarity": 5.0,
-    "color": "black-white"
-  },
-  {
-    "name": "Bouvet Island",
-    "code": "bv",
-    "capital": "Unknown",
-    "rarity": 99.0,
-    "color": "red-yellow"
+    "flag_emoji": "\ud83c\udde7\ud83c\uddfc",
+    "rarity_score": 50,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Brazil",
     "code": "br",
     "capital": "Bras\u00edlia",
-    "rarity": 12.0,
-    "color": "green-yellow"
-  },
-  {
-    "name": "British Indian Ocean Territory",
-    "code": "io",
-    "capital": "Diego Garcia",
-    "rarity": 90.0,
-    "color": "red-white"
-  },
-  {
-    "name": "British Virgin Islands",
-    "code": "vg",
-    "capital": "Road Town",
-    "rarity": 91.0,
-    "color": "black-red"
+    "flag_emoji": "\ud83c\udde7\ud83c\uddf7",
+    "rarity_score": 5,
+    "colors": [
+      "black",
+      "green",
+      "white",
+      "yellow"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Brunei",
     "code": "bn",
     "capital": "Bandar Seri Begawan",
-    "rarity": 75.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde7\ud83c\uddf3",
+    "rarity_score": 65,
+    "colors": [
+      "black",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Bulgaria",
     "code": "bg",
     "capital": "Sofia",
-    "rarity": 49.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde7\ud83c\uddec",
+    "rarity_score": 20,
+    "colors": [
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Burkina Faso",
     "code": "bf",
     "capital": "Ouagadougou",
-    "rarity": 37.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\udde7\ud83c\uddeb",
+    "rarity_score": 60,
+    "colors": [
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Burundi",
     "code": "bi",
     "capital": "Gitega",
-    "rarity": 64.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde7\ud83c\uddee",
+    "rarity_score": 65,
+    "colors": [
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Cabo Verde",
+    "code": "cv",
+    "capital": "Praia",
+    "flag_emoji": "\ud83c\udde8\ud83c\uddfb",
+    "rarity_score": 70,
+    "colors": [
+      "blue",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Cambodia",
     "code": "kh",
     "capital": "Phnom Penh",
-    "rarity": 45.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddf0\ud83c\udded",
+    "rarity_score": 35,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Cameroon",
     "code": "cm",
     "capital": "Yaound\u00e9",
-    "rarity": 32.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\udde8\ud83c\uddf2",
+    "rarity_score": 30,
+    "colors": [
+      "black",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Canada",
     "code": "ca",
     "capital": "Ottawa",
-    "rarity": 15.0,
-    "color": "red-white"
-  },
-  {
-    "name": "Cape Verde",
-    "code": "cv",
-    "capital": "Praia",
-    "rarity": 83.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Caribbean Netherlands",
-    "code": "bq",
-    "capital": "Kralendijk",
-    "rarity": 98.0,
-    "color": "red-white"
-  },
-  {
-    "name": "Cayman Islands",
-    "code": "ky",
-    "capital": "George Town",
-    "rarity": 94.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\udde8\ud83c\udde6",
+    "rarity_score": 3,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Central African Republic",
     "code": "cf",
     "capital": "Bangui",
-    "rarity": 9.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\udde8\ud83c\uddeb",
+    "rarity_score": 70,
+    "colors": [
+      "blue",
+      "green",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Chad",
     "code": "td",
     "capital": "N'Djamena",
-    "rarity": 5.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddf9\ud83c\udde9",
+    "rarity_score": 55,
+    "colors": [
+      "black",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Chile",
     "code": "cl",
     "capital": "Santiago",
-    "rarity": 7.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\udde8\ud83c\uddf1",
+    "rarity_score": 15,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "China",
     "code": "cn",
     "capital": "Beijing",
-    "rarity": 6.0,
-    "color": "red-yellow"
-  },
-  {
-    "name": "Christmas Island",
-    "code": "cx",
-    "capital": "Flying Fish Cove",
-    "rarity": 95.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Cocos (Keeling) Islands",
-    "code": "cc",
-    "capital": "West Island",
-    "rarity": 94.0,
-    "color": "green-yellow"
+    "flag_emoji": "\ud83c\udde8\ud83c\uddf3",
+    "rarity_score": 5,
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Colombia",
     "code": "co",
     "capital": "Bogot\u00e1",
-    "rarity": 13.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\udde8\ud83c\uddf4",
+    "rarity_score": 18,
+    "colors": [
+      "blue",
+      "orange",
+      "red"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Comoros",
     "code": "km",
     "capital": "Moroni",
-    "rarity": 72.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddf2",
+    "rarity_score": 78,
+    "colors": [
+      "blue",
+      "brown",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
   },
   {
-    "name": "Congo",
+    "name": "Congo (DRC)",
+    "code": "cd",
+    "capital": "Kinshasa",
+    "flag_emoji": "\ud83c\udde8\ud83c\udde9",
+    "rarity_score": 45,
+    "colors": [
+      "blue",
+      "red",
+      "yellow"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Congo (Republic)",
     "code": "cg",
     "capital": "Brazzaville",
-    "rarity": 30.0,
-    "color": "green-yellow"
-  },
-  {
-    "name": "Cook Islands",
-    "code": "ck",
-    "capital": "Avarua",
-    "rarity": 96.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde8\ud83c\uddec",
+    "rarity_score": 55,
+    "colors": [
+      "green",
+      "red",
+      "yellow"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Costa Rica",
     "code": "cr",
     "capital": "San Jos\u00e9",
-    "rarity": 50.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde8\ud83c\uddf7",
+    "rarity_score": 20,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Croatia",
     "code": "hr",
     "capital": "Zagreb",
-    "rarity": 64.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\udded\ud83c\uddf7",
+    "rarity_score": 22,
+    "colors": [
+      "blue",
+      "purple",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Cuba",
     "code": "cu",
     "capital": "Havana",
-    "rarity": 34.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Cura\u00e7ao",
-    "code": "cw",
-    "capital": "Willemstad",
-    "rarity": 94.0,
-    "color": "black-yellow"
+    "flag_emoji": "\ud83c\udde8\ud83c\uddfa",
+    "rarity_score": 15,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Cyprus",
     "code": "cy",
     "capital": "Nicosia",
-    "rarity": 81.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\udde8\ud83c\uddfe",
+    "rarity_score": 45,
+    "colors": [
+      "brown",
+      "orange",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
-    "name": "Czechia",
+    "name": "Czech Republic",
     "code": "cz",
     "capital": "Prague",
-    "rarity": 55.0,
-    "color": "red-white"
-  },
-  {
-    "name": "DR Congo",
-    "code": "cd",
-    "capital": "Kinshasa",
-    "rarity": 23.0,
-    "color": "red-yellow"
+    "flag_emoji": "\ud83c\udde8\ud83c\uddff",
+    "rarity_score": 18,
+    "colors": [
+      "purple",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Denmark",
     "code": "dk",
     "capital": "Copenhagen",
-    "rarity": 64.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde9\ud83c\uddf0",
+    "rarity_score": 8,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Djibouti",
     "code": "dj",
     "capital": "Djibouti",
-    "rarity": 50.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde9\ud83c\uddef",
+    "rarity_score": 72,
+    "colors": [
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Dominica",
     "code": "dm",
     "capital": "Roseau",
-    "rarity": 81.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde9\ud83c\uddf2",
+    "rarity_score": 80,
+    "colors": [
+      "black",
+      "orange",
+      "purple",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Dominican Republic",
     "code": "do",
     "capital": "Santo Domingo",
-    "rarity": 61.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde9\ud83c\uddf4",
+    "rarity_score": 35,
+    "colors": [
+      "black",
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Ecuador",
     "code": "ec",
     "capital": "Quito",
-    "rarity": 31.0,
-    "color": "green-yellow"
+    "flag_emoji": "\ud83c\uddea\ud83c\udde8",
+    "rarity_score": 22,
+    "colors": [
+      "blue",
+      "brown",
+      "red",
+      "yellow"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Egypt",
     "code": "eg",
     "capital": "Cairo",
-    "rarity": 15.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddea\ud83c\uddec",
+    "rarity_score": 12,
+    "colors": [
+      "black",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "El Salvador",
     "code": "sv",
     "capital": "San Salvador",
-    "rarity": 51.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddfb",
+    "rarity_score": 35,
+    "colors": [
+      "blue",
+      "green",
+      "orange",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Equatorial Guinea",
     "code": "gq",
     "capital": "Malabo",
-    "rarity": 61.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddec\ud83c\uddf6",
+    "rarity_score": 75,
+    "colors": [
+      "blue",
+      "brown",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Eritrea",
     "code": "er",
     "capital": "Asmara",
-    "rarity": 30.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddea\ud83c\uddf7",
+    "rarity_score": 68,
+    "colors": [
+      "blue",
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Estonia",
     "code": "ee",
     "capital": "Tallinn",
-    "rarity": 57.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddea\ud83c\uddea",
+    "rarity_score": 30,
+    "colors": [
+      "black",
+      "blue",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Eswatini",
     "code": "sz",
-    "capital": "Lobamba",
-    "rarity": 54.0,
-    "color": "red-white"
+    "capital": "Mbabane",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddff",
+    "rarity_score": 72,
+    "colors": [
+      "black",
+      "brown",
+      "purple",
+      "white",
+      "yellow"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Ethiopia",
     "code": "et",
     "capital": "Addis Ababa",
-    "rarity": 5.0,
-    "color": "green-yellow"
-  },
-  {
-    "name": "Falkland Islands",
-    "code": "fk",
-    "capital": "Stanley",
-    "rarity": 63.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Faroe Islands",
-    "code": "fo",
-    "capital": "T\u00f3rshavn",
-    "rarity": 83.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddea\ud83c\uddf9",
+    "rarity_score": 20,
+    "colors": [
+      "blue",
+      "green",
+      "red",
+      "yellow"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Fiji",
     "code": "fj",
     "capital": "Suva",
-    "rarity": 62.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddeb\ud83c\uddef",
+    "rarity_score": 50,
+    "colors": [
+      "black",
+      "green",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Oceania"
   },
   {
     "name": "Finland",
     "code": "fi",
     "capital": "Helsinki",
-    "rarity": 34.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddeb\ud83c\uddee",
+    "rarity_score": 10,
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "France",
     "code": "fr",
     "capital": "Paris",
-    "rarity": 20.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "French Guiana",
-    "code": "gf",
-    "capital": "Cayenne",
-    "rarity": 64.0,
-    "color": "green-yellow"
-  },
-  {
-    "name": "French Polynesia",
-    "code": "pf",
-    "capital": "Papeet\u0113",
-    "rarity": 77.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "French Southern and Antarctic Lands",
-    "code": "tf",
-    "capital": "Port-aux-Fran\u00e7ais",
-    "rarity": 77.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddeb\ud83c\uddf7",
+    "rarity_score": 3,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Gabon",
     "code": "ga",
     "capital": "Libreville",
-    "rarity": 38.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddec\ud83c\udde6",
+    "rarity_score": 55,
+    "colors": [
+      "blue",
+      "green",
+      "orange"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Gambia",
     "code": "gm",
     "capital": "Banjul",
-    "rarity": 59.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddec\ud83c\uddf2",
+    "rarity_score": 60,
+    "colors": [
+      "blue",
+      "brown",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Georgia",
     "code": "ge",
     "capital": "Tbilisi",
-    "rarity": 50.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddec\ud83c\uddea",
+    "rarity_score": 35,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Germany",
     "code": "de",
     "capital": "Berlin",
-    "rarity": 44.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\udde9\ud83c\uddea",
+    "rarity_score": 4,
+    "colors": [
+      "black",
+      "orange",
+      "red"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Ghana",
     "code": "gh",
     "capital": "Accra",
-    "rarity": 43.0,
-    "color": "multicolor"
-  },
-  {
-    "name": "Gibraltar",
-    "code": "gi",
-    "capital": "Gibraltar",
-    "rarity": 96.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddec\ud83c\udded",
+    "rarity_score": 22,
+    "colors": [
+      "black",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Greece",
     "code": "gr",
     "capital": "Athens",
-    "rarity": 40.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Greenland",
-    "code": "gl",
-    "capital": "Nuuk",
-    "rarity": 11.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddec\ud83c\uddf7",
+    "rarity_score": 10,
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Grenada",
     "code": "gd",
-    "capital": "St. George's",
-    "rarity": 94.0,
-    "color": "multicolor"
-  },
-  {
-    "name": "Guadeloupe",
-    "code": "gp",
-    "capital": "Basse-Terre",
-    "rarity": 78.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Guam",
-    "code": "gu",
-    "capital": "Hag\u00e5t\u00f1a",
-    "rarity": 79.0,
-    "color": "blue-white"
+    "capital": "Saint George's",
+    "flag_emoji": "\ud83c\uddec\ud83c\udde9",
+    "rarity_score": 70,
+    "colors": [
+      "black",
+      "orange",
+      "red"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Guatemala",
     "code": "gt",
     "capital": "Guatemala City",
-    "rarity": 39.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Guernsey",
-    "code": "gg",
-    "capital": "St. Peter Port",
-    "rarity": 98.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddec\ud83c\uddf9",
+    "rarity_score": 30,
+    "colors": [
+      "blue",
+      "brown",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Guinea",
     "code": "gn",
     "capital": "Conakry",
-    "rarity": 47.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddec\ud83c\uddf3",
+    "rarity_score": 50,
+    "colors": [
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Guinea-Bissau",
     "code": "gw",
     "capital": "Bissau",
-    "rarity": 55.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddec\ud83c\uddfc",
+    "rarity_score": 72,
+    "colors": [
+      "black",
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Guyana",
     "code": "gy",
     "capital": "Georgetown",
-    "rarity": 39.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddec\ud83c\uddfe",
+    "rarity_score": 55,
+    "colors": [
+      "green",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Haiti",
     "code": "ht",
     "capital": "Port-au-Prince",
-    "rarity": 60.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Heard Island and McDonald Islands",
-    "code": "hm",
-    "capital": "Unknown",
-    "rarity": 92.0,
-    "color": "black-yellow"
+    "flag_emoji": "\ud83c\udded\ud83c\uddf9",
+    "rarity_score": 35,
+    "colors": [
+      "black",
+      "blue",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Honduras",
     "code": "hn",
     "capital": "Tegucigalpa",
-    "rarity": 42.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Hong Kong",
-    "code": "hk",
-    "capital": "City of Victoria",
-    "rarity": 74.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udded\ud83c\uddf3",
+    "rarity_score": 35,
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Hungary",
     "code": "hu",
     "capital": "Budapest",
-    "rarity": 58.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udded\ud83c\uddfa",
+    "rarity_score": 15,
+    "colors": [
+      "brown",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Iceland",
     "code": "is",
     "capital": "Reykjavik",
-    "rarity": 30.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddee\ud83c\uddf8",
+    "rarity_score": 28,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "India",
     "code": "in",
     "capital": "New Delhi",
-    "rarity": 15.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddee\ud83c\uddf3",
+    "rarity_score": 5,
+    "colors": [
+      "blue",
+      "green",
+      "orange",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Indonesia",
     "code": "id",
     "capital": "Jakarta",
-    "rarity": 14.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddee\ud83c\udde9",
+    "rarity_score": 8,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Iran",
     "code": "ir",
     "capital": "Tehran",
-    "rarity": 20.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddee\ud83c\uddf7",
+    "rarity_score": 15,
+    "colors": [
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Iraq",
     "code": "iq",
     "capital": "Baghdad",
-    "rarity": 47.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddee\ud83c\uddf6",
+    "rarity_score": 18,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Ireland",
     "code": "ie",
     "capital": "Dublin",
-    "rarity": 63.0,
-    "color": "multicolor"
-  },
-  {
-    "name": "Isle of Man",
-    "code": "im",
-    "capital": "Douglas",
-    "rarity": 82.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddee\ud83c\uddea",
+    "rarity_score": 10,
+    "colors": [
+      "green",
+      "orange",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Israel",
     "code": "il",
     "capital": "Jerusalem",
-    "rarity": 60.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddee\ud83c\uddf1",
+    "rarity_score": 15,
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Italy",
     "code": "it",
     "capital": "Rome",
-    "rarity": 46.0,
-    "color": "red-white"
-  },
-  {
-    "name": "Ivory Coast",
-    "code": "ci",
-    "capital": "Yamoussoukro",
-    "rarity": 33.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddee\ud83c\uddf9",
+    "rarity_score": 5,
+    "colors": [
+      "brown",
+      "green",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Jamaica",
     "code": "jm",
     "capital": "Kingston",
-    "rarity": 61.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddef\ud83c\uddf2",
+    "rarity_score": 25,
+    "colors": [
+      "black",
+      "green",
+      "orange"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Japan",
     "code": "jp",
     "capital": "Tokyo",
-    "rarity": 40.0,
-    "color": "red-white"
-  },
-  {
-    "name": "Jersey",
-    "code": "je",
-    "capital": "Saint Helier",
-    "rarity": 96.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddef\ud83c\uddf5",
+    "rarity_score": 5,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Jordan",
     "code": "jo",
     "capital": "Amman",
-    "rarity": 52.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddef\ud83c\uddf4",
+    "rarity_score": 28,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Kazakhstan",
     "code": "kz",
     "capital": "Astana",
-    "rarity": 5.0,
-    "color": "blue-orange"
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddff",
+    "rarity_score": 35,
+    "colors": [
+      "blue",
+      "orange"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Kenya",
     "code": "ke",
     "capital": "Nairobi",
-    "rarity": 12.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddea",
+    "rarity_score": 22,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Kiribati",
     "code": "ki",
     "capital": "South Tarawa",
-    "rarity": 81.0,
-    "color": "red-white"
-  },
-  {
-    "name": "Kosovo",
-    "code": "xk",
-    "capital": "Pristina",
-    "rarity": 58.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddee",
+    "rarity_score": 90,
+    "colors": [
+      "orange",
+      "purple",
+      "red",
+      "white"
+    ],
+    "continent": "Oceania"
   },
   {
     "name": "Kuwait",
     "code": "kw",
     "capital": "Kuwait City",
-    "rarity": 68.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddfc",
+    "rarity_score": 35,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Kyrgyzstan",
     "code": "kg",
     "capital": "Bishkek",
-    "rarity": 41.0,
-    "color": "red-yellow"
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddec",
+    "rarity_score": 60,
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Laos",
     "code": "la",
     "capital": "Vientiane",
-    "rarity": 30.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf1\ud83c\udde6",
+    "rarity_score": 45,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Latvia",
     "code": "lv",
     "capital": "Riga",
-    "rarity": 69.0,
-    "color": "purple-white"
+    "flag_emoji": "\ud83c\uddf1\ud83c\uddfb",
+    "rarity_score": 30,
+    "colors": [
+      "brown",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Lebanon",
     "code": "lb",
     "capital": "Beirut",
-    "rarity": 62.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf1\ud83c\udde7",
+    "rarity_score": 25,
+    "colors": [
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Lesotho",
     "code": "ls",
     "capital": "Maseru",
-    "rarity": 65.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddf1\ud83c\uddf8",
+    "rarity_score": 70,
+    "colors": [
+      "black",
+      "blue",
+      "green",
+      "white"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Liberia",
     "code": "lr",
     "capital": "Monrovia",
-    "rarity": 39.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf1\ud83c\uddf7",
+    "rarity_score": 45,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Libya",
     "code": "ly",
     "capital": "Tripoli",
-    "rarity": 5.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf1\ud83c\uddfe",
+    "rarity_score": 35,
+    "colors": [
+      "black",
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Liechtenstein",
     "code": "li",
     "capital": "Vaduz",
-    "rarity": 90.0,
-    "color": "red-yellow"
+    "flag_emoji": "\ud83c\uddf1\ud83c\uddee",
+    "rarity_score": 80,
+    "colors": [
+      "black",
+      "red",
+      "yellow"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Lithuania",
     "code": "lt",
     "capital": "Vilnius",
-    "rarity": 50.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddf1\ud83c\uddf9",
+    "rarity_score": 28,
+    "colors": [
+      "black",
+      "brown",
+      "orange"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Luxembourg",
     "code": "lu",
-    "capital": "Luxembourg",
-    "rarity": 76.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Macau",
-    "code": "mo",
-    "capital": "Unknown",
-    "rarity": 90.0,
-    "color": "black-yellow"
+    "capital": "Luxembourg City",
+    "flag_emoji": "\ud83c\uddf1\ud83c\uddfa",
+    "rarity_score": 40,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Madagascar",
     "code": "mg",
     "capital": "Antananarivo",
-    "rarity": 6.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddec",
+    "rarity_score": 50,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Malawi",
     "code": "mw",
     "capital": "Lilongwe",
-    "rarity": 34.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddfc",
+    "rarity_score": 55,
+    "colors": [
+      "black",
+      "green",
+      "red"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Malaysia",
     "code": "my",
     "capital": "Kuala Lumpur",
-    "rarity": 33.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddfe",
+    "rarity_score": 18,
+    "colors": [
+      "black",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Maldives",
     "code": "mv",
     "capital": "Mal\u00e9",
-    "rarity": 90.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddfb",
+    "rarity_score": 55,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Mali",
     "code": "ml",
     "capital": "Bamako",
-    "rarity": 17.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddf1",
+    "rarity_score": 40,
+    "colors": [
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Malta",
     "code": "mt",
     "capital": "Valletta",
-    "rarity": 96.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddf9",
+    "rarity_score": 45,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Marshall Islands",
     "code": "mh",
     "capital": "Majuro",
-    "rarity": 91.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Martinique",
-    "code": "mq",
-    "capital": "Fort-de-France",
-    "rarity": 78.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddf2\ud83c\udded",
+    "rarity_score": 88,
+    "colors": [
+      "blue",
+      "orange",
+      "white"
+    ],
+    "continent": "Oceania"
   },
   {
     "name": "Mauritania",
     "code": "mr",
     "capital": "Nouakchott",
-    "rarity": 5.0,
-    "color": "green-yellow"
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddf7",
+    "rarity_score": 65,
+    "colors": [
+      "green",
+      "red",
+      "yellow"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Mauritius",
     "code": "mu",
     "capital": "Port Louis",
-    "rarity": 70.0,
-    "color": "green-yellow"
-  },
-  {
-    "name": "Mayotte",
-    "code": "yt",
-    "capital": "Mamoudzou",
-    "rarity": 94.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddfa",
+    "rarity_score": 60,
+    "colors": [
+      "green",
+      "purple",
+      "red",
+      "yellow"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Mexico",
     "code": "mx",
     "capital": "Mexico City",
-    "rarity": 20.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddfd",
+    "rarity_score": 5,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Micronesia",
     "code": "fm",
     "capital": "Palikir",
-    "rarity": 72.0,
-    "color": "white"
+    "flag_emoji": "\ud83c\uddeb\ud83c\uddf2",
+    "rarity_score": 85,
+    "colors": [
+      "white"
+    ],
+    "continent": "Oceania"
   },
   {
     "name": "Moldova",
     "code": "md",
     "capital": "Chi\u0219in\u0103u",
-    "rarity": 56.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddf2\ud83c\udde9",
+    "rarity_score": 45,
+    "colors": [
+      "blue",
+      "brown",
+      "orange",
+      "red"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Monaco",
     "code": "mc",
     "capital": "Monaco",
-    "rarity": 92.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf2\ud83c\udde8",
+    "rarity_score": 40,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Mongolia",
     "code": "mn",
-    "capital": "Ulan Bator",
-    "rarity": 15.0,
-    "color": "red-yellow"
+    "capital": "Ulaanbaatar",
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddf3",
+    "rarity_score": 50,
+    "colors": [
+      "blue",
+      "red",
+      "yellow"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Montenegro",
     "code": "me",
     "capital": "Podgorica",
-    "rarity": 62.0,
-    "color": "multicolor"
-  },
-  {
-    "name": "Montserrat",
-    "code": "ms",
-    "capital": "Plymouth",
-    "rarity": 92.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddea",
+    "rarity_score": 48,
+    "colors": [
+      "brown",
+      "orange",
+      "purple",
+      "red"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Morocco",
     "code": "ma",
     "capital": "Rabat",
-    "rarity": 40.0,
-    "color": "black-red"
+    "flag_emoji": "\ud83c\uddf2\ud83c\udde6",
+    "rarity_score": 18,
+    "colors": [
+      "black",
+      "brown"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Mozambique",
     "code": "mz",
     "capital": "Maputo",
-    "rarity": 15.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddff",
+    "rarity_score": 60,
+    "colors": [
+      "black",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Myanmar",
     "code": "mm",
     "capital": "Naypyidaw",
-    "rarity": 23.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddf2",
+    "rarity_score": 35,
+    "colors": [
+      "green",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Namibia",
     "code": "na",
     "capital": "Windhoek",
-    "rarity": 20.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddf3\ud83c\udde6",
+    "rarity_score": 45,
+    "colors": [
+      "blue",
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Nauru",
     "code": "nr",
     "capital": "Yaren",
-    "rarity": 91.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddf7",
+    "rarity_score": 92,
+    "colors": [
+      "black",
+      "orange",
+      "white"
+    ],
+    "continent": "Oceania"
   },
   {
     "name": "Nepal",
     "code": "np",
     "capital": "Kathmandu",
-    "rarity": 31.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddf5",
+    "rarity_score": 55,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Netherlands",
     "code": "nl",
     "capital": "Amsterdam",
-    "rarity": 60.0,
-    "color": "red-white"
-  },
-  {
-    "name": "New Caledonia",
-    "code": "nc",
-    "capital": "Noum\u00e9a",
-    "rarity": 65.0,
-    "color": "green-yellow"
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddf1",
+    "rarity_score": 8,
+    "colors": [
+      "brown",
+      "purple",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "New Zealand",
     "code": "nz",
     "capital": "Wellington",
-    "rarity": 37.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddff",
+    "rarity_score": 12,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Oceania"
   },
   {
     "name": "Nicaragua",
     "code": "ni",
     "capital": "Managua",
-    "rarity": 43.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddee",
+    "rarity_score": 40,
+    "colors": [
+      "blue",
+      "orange",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Niger",
     "code": "ne",
     "capital": "Niamey",
-    "rarity": 5.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddea",
+    "rarity_score": 55,
+    "colors": [
+      "brown",
+      "green",
+      "white"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Nigeria",
     "code": "ng",
     "capital": "Abuja",
-    "rarity": 13.0,
-    "color": "green-white"
-  },
-  {
-    "name": "Niue",
-    "code": "nu",
-    "capital": "Alofi",
-    "rarity": 90.0,
-    "color": "red-white"
-  },
-  {
-    "name": "Norfolk Island",
-    "code": "nf",
-    "capital": "Kingston",
-    "rarity": 96.0,
-    "color": "black-white"
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddec",
+    "rarity_score": 12,
+    "colors": [
+      "green",
+      "white"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "North Korea",
     "code": "kp",
     "capital": "Pyongyang",
-    "rarity": 48.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddf5",
+    "rarity_score": 45,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "North Macedonia",
     "code": "mk",
     "capital": "Skopje",
-    "rarity": 63.0,
-    "color": "red-yellow"
-  },
-  {
-    "name": "Northern Mariana Islands",
-    "code": "mp",
-    "capital": "Saipan",
-    "rarity": 94.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddf2\ud83c\uddf0",
+    "rarity_score": 55,
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Norway",
     "code": "no",
     "capital": "Oslo",
-    "rarity": 32.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf3\ud83c\uddf4",
+    "rarity_score": 8,
+    "colors": [
+      "black",
+      "brown",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Oman",
     "code": "om",
     "capital": "Muscat",
-    "rarity": 30.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf4\ud83c\uddf2",
+    "rarity_score": 40,
+    "colors": [
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Pakistan",
     "code": "pk",
     "capital": "Islamabad",
-    "rarity": 17.0,
-    "color": "black-white"
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddf0",
+    "rarity_score": 12,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Palau",
     "code": "pw",
     "capital": "Ngerulmud",
-    "rarity": 99.0,
-    "color": "blue-yellow"
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddfc",
+    "rarity_score": 82,
+    "colors": [
+      "blue",
+      "yellow"
+    ],
+    "continent": "Oceania"
   },
   {
     "name": "Palestine",
     "code": "ps",
     "capital": "Ramallah",
-    "rarity": 70.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddf8",
+    "rarity_score": 30,
+    "colors": [
+      "black",
+      "brown",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Panama",
     "code": "pa",
     "capital": "Panama City",
-    "rarity": 67.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf5\ud83c\udde6",
+    "rarity_score": 28,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Papua New Guinea",
     "code": "pg",
     "capital": "Port Moresby",
-    "rarity": 30.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddec",
+    "rarity_score": 55,
+    "colors": [
+      "black",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Oceania"
   },
   {
     "name": "Paraguay",
     "code": "py",
     "capital": "Asunci\u00f3n",
-    "rarity": 42.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddfe",
+    "rarity_score": 40,
+    "colors": [
+      "blue",
+      "green",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Peru",
     "code": "pe",
     "capital": "Lima",
-    "rarity": 21.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddea",
+    "rarity_score": 15,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Philippines",
     "code": "ph",
     "capital": "Manila",
-    "rarity": 43.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Pitcairn Islands",
-    "code": "pn",
-    "capital": "Adamstown",
-    "rarity": 97.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddf5\ud83c\udded",
+    "rarity_score": 18,
+    "colors": [
+      "blue",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Poland",
     "code": "pl",
     "capital": "Warsaw",
-    "rarity": 49.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddf1",
+    "rarity_score": 10,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Portugal",
     "code": "pt",
     "capital": "Lisbon",
-    "rarity": 60.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Puerto Rico",
-    "code": "pr",
-    "capital": "San Juan",
-    "rarity": 80.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddf5\ud83c\uddf9",
+    "rarity_score": 10,
+    "colors": [
+      "black",
+      "blue",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Qatar",
     "code": "qa",
     "capital": "Doha",
-    "rarity": 56.0,
-    "color": "purple-white"
+    "flag_emoji": "\ud83c\uddf6\ud83c\udde6",
+    "rarity_score": 35,
+    "colors": [
+      "brown",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Romania",
     "code": "ro",
     "capital": "Bucharest",
-    "rarity": 41.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddf7\ud83c\uddf4",
+    "rarity_score": 15,
+    "colors": [
+      "black",
+      "orange",
+      "red"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Russia",
     "code": "ru",
     "capital": "Moscow",
-    "rarity": 7.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddf7\ud83c\uddfa",
+    "rarity_score": 5,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Rwanda",
     "code": "rw",
     "capital": "Kigali",
-    "rarity": 68.0,
-    "color": "multicolor"
-  },
-  {
-    "name": "R\u00e9union",
-    "code": "re",
-    "capital": "Saint-Denis",
-    "rarity": 81.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Saint Barth\u00e9lemy",
-    "code": "bl",
-    "capital": "Gustavia",
-    "rarity": 91.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Saint Helena, Ascension and Tristan da Cunha",
-    "code": "sh",
-    "capital": "Jamestown",
-    "rarity": 94.0,
-    "color": "red-yellow"
+    "flag_emoji": "\ud83c\uddf7\ud83c\uddfc",
+    "rarity_score": 60,
+    "colors": [
+      "blue",
+      "brown",
+      "orange"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Saint Kitts and Nevis",
     "code": "kn",
     "capital": "Basseterre",
-    "rarity": 91.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddf3",
+    "rarity_score": 80,
+    "colors": [
+      "black",
+      "green",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Saint Lucia",
     "code": "lc",
     "capital": "Castries",
-    "rarity": 86.0,
-    "color": "multicolor"
-  },
-  {
-    "name": "Saint Martin",
-    "code": "mf",
-    "capital": "Marigot",
-    "rarity": 93.0,
-    "color": "black-yellow"
-  },
-  {
-    "name": "Saint Pierre and Miquelon",
-    "code": "pm",
-    "capital": "Saint-Pierre",
-    "rarity": 92.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddf1\ud83c\udde8",
+    "rarity_score": 72,
+    "colors": [
+      "black",
+      "orange",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Saint Vincent and the Grenadines",
     "code": "vc",
     "capital": "Kingstown",
-    "rarity": 99.0,
-    "color": "black-orange"
+    "flag_emoji": "\ud83c\uddfb\ud83c\udde8",
+    "rarity_score": 75,
+    "colors": [
+      "black",
+      "orange"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Samoa",
     "code": "ws",
     "capital": "Apia",
-    "rarity": 72.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddfc\ud83c\uddf8",
+    "rarity_score": 75,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Oceania"
   },
   {
     "name": "San Marino",
     "code": "sm",
-    "capital": "City of San Marino",
-    "rarity": 91.0,
-    "color": "multicolor"
-  },
-  {
-    "name": "Saudi Arabia",
-    "code": "sa",
-    "capital": "Riyadh",
-    "rarity": 15.0,
-    "color": "black-white"
-  },
-  {
-    "name": "Senegal",
-    "code": "sn",
-    "capital": "Dakar",
-    "rarity": 32.0,
-    "color": "green-yellow"
-  },
-  {
-    "name": "Serbia",
-    "code": "rs",
-    "capital": "Belgrade",
-    "rarity": 51.0,
-    "color": "red-white"
-  },
-  {
-    "name": "Seychelles",
-    "code": "sc",
-    "capital": "Victoria",
-    "rarity": 92.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Sierra Leone",
-    "code": "sl",
-    "capital": "Freetown",
-    "rarity": 50.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Singapore",
-    "code": "sg",
-    "capital": "Singapore",
-    "rarity": 80.0,
-    "color": "red-white"
-  },
-  {
-    "name": "Sint Maarten",
-    "code": "sx",
-    "capital": "Philipsburg",
-    "rarity": 94.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Slovakia",
-    "code": "sk",
-    "capital": "Bratislava",
-    "rarity": 67.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Slovenia",
-    "code": "si",
-    "capital": "Ljubljana",
-    "rarity": 63.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Solomon Islands",
-    "code": "sb",
-    "capital": "Honiara",
-    "rarity": 66.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Somalia",
-    "code": "so",
-    "capital": "Mogadishu",
-    "rarity": 22.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "South Africa",
-    "code": "za",
-    "capital": "Pretoria",
-    "rarity": 22.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "South Georgia",
-    "code": "gs",
-    "capital": "King Edward Point",
-    "rarity": 73.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "South Korea",
-    "code": "kr",
-    "capital": "Seoul",
-    "rarity": 40.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "South Sudan",
-    "code": "ss",
-    "capital": "Juba",
-    "rarity": 10.0,
-    "color": "green-yellow"
-  },
-  {
-    "name": "Spain",
-    "code": "es",
-    "capital": "Madrid",
-    "rarity": 17.0,
-    "color": "red-white"
-  },
-  {
-    "name": "Sri Lanka",
-    "code": "lk",
-    "capital": "Colombo",
-    "rarity": 60.0,
-    "color": "multicolor"
-  },
-  {
-    "name": "Sudan",
-    "code": "sd",
-    "capital": "Khartoum",
-    "rarity": 13.0,
-    "color": "red-white"
-  },
-  {
-    "name": "Suriname",
-    "code": "sr",
-    "capital": "Paramaribo",
-    "rarity": 30.0,
-    "color": "red-white"
-  },
-  {
-    "name": "Svalbard and Jan Mayen",
-    "code": "sj",
-    "capital": "Longyearbyen",
-    "rarity": 99.0,
-    "color": "black-yellow"
-  },
-  {
-    "name": "Sweden",
-    "code": "se",
-    "capital": "Stockholm",
-    "rarity": 45.0,
-    "color": "blue-orange"
-  },
-  {
-    "name": "Switzerland",
-    "code": "ch",
-    "capital": "Bern",
-    "rarity": 54.0,
-    "color": "red-white"
-  },
-  {
-    "name": "Syria",
-    "code": "sy",
-    "capital": "Damascus",
-    "rarity": 30.0,
-    "color": "red-white"
+    "capital": "San Marino",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddf2",
+    "rarity_score": 70,
+    "colors": [
+      "brown",
+      "orange",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
     "code": "st",
     "capital": "S\u00e3o Tom\u00e9",
-    "rarity": 74.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddf9",
+    "rarity_score": 82,
+    "colors": [
+      "black",
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Saudi Arabia",
+    "code": "sa",
+    "capital": "Riyadh",
+    "flag_emoji": "\ud83c\uddf8\ud83c\udde6",
+    "rarity_score": 20,
+    "colors": [
+      "black",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Senegal",
+    "code": "sn",
+    "capital": "Dakar",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddf3",
+    "rarity_score": 35,
+    "colors": [
+      "green",
+      "red",
+      "yellow"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Serbia",
+    "code": "rs",
+    "capital": "Belgrade",
+    "flag_emoji": "\ud83c\uddf7\ud83c\uddf8",
+    "rarity_score": 28,
+    "colors": [
+      "brown",
+      "orange",
+      "purple",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Seychelles",
+    "code": "sc",
+    "capital": "Victoria",
+    "flag_emoji": "\ud83c\uddf8\ud83c\udde8",
+    "rarity_score": 78,
+    "colors": [
+      "black",
+      "blue",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Sierra Leone",
+    "code": "sl",
+    "capital": "Freetown",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddf1",
+    "rarity_score": 60,
+    "colors": [
+      "blue",
+      "green",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Singapore",
+    "code": "sg",
+    "capital": "Singapore",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddec",
+    "rarity_score": 30,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Slovakia",
+    "code": "sk",
+    "capital": "Bratislava",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddf0",
+    "rarity_score": 28,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Slovenia",
+    "code": "si",
+    "capital": "Ljubljana",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddee",
+    "rarity_score": 30,
+    "colors": [
+      "blue",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Solomon Islands",
+    "code": "sb",
+    "capital": "Honiara",
+    "flag_emoji": "\ud83c\uddf8\ud83c\udde7",
+    "rarity_score": 85,
+    "colors": [
+      "black",
+      "blue",
+      "orange",
+      "white"
+    ],
+    "continent": "Oceania"
+  },
+  {
+    "name": "Somalia",
+    "code": "so",
+    "capital": "Mogadishu",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddf4",
+    "rarity_score": 40,
+    "colors": [
+      "blue",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "South Africa",
+    "code": "za",
+    "capital": "Pretoria",
+    "flag_emoji": "\ud83c\uddff\ud83c\udde6",
+    "rarity_score": 18,
+    "colors": [
+      "black",
+      "blue",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "South Korea",
+    "code": "kr",
+    "capital": "Seoul",
+    "flag_emoji": "\ud83c\uddf0\ud83c\uddf7",
+    "rarity_score": 10,
+    "colors": [
+      "black",
+      "blue",
+      "brown",
+      "white"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "South Sudan",
+    "code": "ss",
+    "capital": "Juba",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddf8",
+    "rarity_score": 50,
+    "colors": [
+      "black",
+      "blue",
+      "green",
+      "red",
+      "yellow"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Spain",
+    "code": "es",
+    "capital": "Madrid",
+    "flag_emoji": "\ud83c\uddea\ud83c\uddf8",
+    "rarity_score": 5,
+    "colors": [
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Sri Lanka",
+    "code": "lk",
+    "capital": "Colombo",
+    "flag_emoji": "\ud83c\uddf1\ud83c\uddf0",
+    "rarity_score": 35,
+    "colors": [
+      "black",
+      "brown",
+      "orange"
+    ],
+    "continent": "Asia"
+  },
+  {
+    "name": "Sudan",
+    "code": "sd",
+    "capital": "Khartoum",
+    "flag_emoji": "\ud83c\uddf8\ud83c\udde9",
+    "rarity_score": 40,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Suriname",
+    "code": "sr",
+    "capital": "Paramaribo",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddf7",
+    "rarity_score": 60,
+    "colors": [
+      "brown",
+      "orange",
+      "white"
+    ],
+    "continent": "Americas"
+  },
+  {
+    "name": "Sweden",
+    "code": "se",
+    "capital": "Stockholm",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddea",
+    "rarity_score": 8,
+    "colors": [
+      "blue",
+      "orange"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Switzerland",
+    "code": "ch",
+    "capital": "Bern",
+    "flag_emoji": "\ud83c\udde8\ud83c\udded",
+    "rarity_score": 10,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
+  },
+  {
+    "name": "Syria",
+    "code": "sy",
+    "capital": "Damascus",
+    "flag_emoji": "\ud83c\uddf8\ud83c\uddfe",
+    "rarity_score": 28,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Taiwan",
     "code": "tw",
     "capital": "Taipei",
-    "rarity": 63.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddfc",
+    "rarity_score": 22,
+    "colors": [
+      "blue",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Tajikistan",
     "code": "tj",
     "capital": "Dushanbe",
-    "rarity": 30.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddef",
+    "rarity_score": 60,
+    "colors": [
+      "black",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Tanzania",
     "code": "tz",
     "capital": "Dodoma",
-    "rarity": 12.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddff",
+    "rarity_score": 35,
+    "colors": [
+      "black",
+      "blue",
+      "green",
+      "orange"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Thailand",
     "code": "th",
     "capital": "Bangkok",
-    "rarity": 5.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddf9\ud83c\udded",
+    "rarity_score": 12,
+    "colors": [
+      "black",
+      "brown",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Timor-Leste",
     "code": "tl",
     "capital": "Dili",
-    "rarity": 64.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddf1",
+    "rarity_score": 72,
+    "colors": [
+      "black",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Togo",
     "code": "tg",
     "capital": "Lom\u00e9",
-    "rarity": 55.0,
-    "color": "red-white"
-  },
-  {
-    "name": "Tokelau",
-    "code": "tk",
-    "capital": "Fakaofo",
-    "rarity": 92.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddec",
+    "rarity_score": 55,
+    "colors": [
+      "black",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Tonga",
     "code": "to",
-    "capital": "Nuku'alofa",
-    "rarity": 77.0,
-    "color": "red-white"
+    "capital": "Nuku\u02bbalofa",
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddf4",
+    "rarity_score": 78,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Oceania"
   },
   {
     "name": "Trinidad and Tobago",
     "code": "tt",
     "capital": "Port of Spain",
-    "rarity": 80.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddf9",
+    "rarity_score": 45,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Tunisia",
     "code": "tn",
     "capital": "Tunis",
-    "rarity": 40.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddf3",
+    "rarity_score": 22,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
+  },
+  {
+    "name": "Turkey",
+    "code": "tr",
+    "capital": "Ankara",
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddf7",
+    "rarity_score": 10,
+    "colors": [
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Turkmenistan",
     "code": "tm",
     "capital": "Ashgabat",
-    "rarity": 30.0,
-    "color": "red-white"
-  },
-  {
-    "name": "Turks and Caicos Islands",
-    "code": "tc",
-    "capital": "Cockburn Town",
-    "rarity": 78.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddf2",
+    "rarity_score": 72,
+    "colors": [
+      "green",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Tuvalu",
     "code": "tv",
     "capital": "Funafuti",
-    "rarity": 96.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "T\u00fcrkiye",
-    "code": "tr",
-    "capital": "Ankara",
-    "rarity": 7.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddf9\ud83c\uddfb",
+    "rarity_score": 95,
+    "colors": [
+      "black",
+      "blue",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Oceania"
   },
   {
     "name": "Uganda",
     "code": "ug",
     "capital": "Kampala",
-    "rarity": 40.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddfa\ud83c\uddec",
+    "rarity_score": 40,
+    "colors": [
+      "black",
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Ukraine",
     "code": "ua",
     "capital": "Kyiv",
-    "rarity": 5.0,
-    "color": "blue-yellow"
+    "flag_emoji": "\ud83c\uddfa\ud83c\udde6",
+    "rarity_score": 15,
+    "colors": [
+      "blue",
+      "yellow"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "United Arab Emirates",
     "code": "ae",
     "capital": "Abu Dhabi",
-    "rarity": 50.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\udde6\ud83c\uddea",
+    "rarity_score": 20,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "United Kingdom",
     "code": "gb",
     "capital": "London",
-    "rarity": 30.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddec\ud83c\udde7",
+    "rarity_score": 3,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "United States",
     "code": "us",
     "capital": "Washington D.C.",
-    "rarity": 15.0,
-    "color": "purple-white"
-  },
-  {
-    "name": "United States Minor Outlying Islands",
-    "code": "um",
-    "capital": "Unknown",
-    "rarity": 94.2,
-    "color": "red-yellow"
-  },
-  {
-    "name": "United States Virgin Islands",
-    "code": "vi",
-    "capital": "Charlotte Amalie",
-    "rarity": 97.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddfa\ud83c\uddf8",
+    "rarity_score": 2,
+    "colors": [
+      "brown",
+      "purple",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Uruguay",
     "code": "uy",
     "capital": "Montevideo",
-    "rarity": 44.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddfa\ud83c\uddfe",
+    "rarity_score": 28,
+    "colors": [
+      "blue",
+      "brown",
+      "orange",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Uzbekistan",
     "code": "uz",
     "capital": "Tashkent",
-    "rarity": 30.0,
-    "color": "blue-white"
+    "flag_emoji": "\ud83c\uddfa\ud83c\uddff",
+    "rarity_score": 55,
+    "colors": [
+      "blue",
+      "green",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Vanuatu",
     "code": "vu",
     "capital": "Port Vila",
-    "rarity": 59.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddfb\ud83c\uddfa",
+    "rarity_score": 80,
+    "colors": [
+      "black",
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Oceania"
   },
   {
     "name": "Vatican City",
     "code": "va",
     "capital": "Vatican City",
-    "rarity": 90.4,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddfb\ud83c\udde6",
+    "rarity_score": 78,
+    "colors": [
+      "red",
+      "white",
+      "yellow"
+    ],
+    "continent": "Europe"
   },
   {
     "name": "Venezuela",
     "code": "ve",
     "capital": "Caracas",
-    "rarity": 10.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddfb\ud83c\uddea",
+    "rarity_score": 18,
+    "colors": [
+      "black",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Americas"
   },
   {
     "name": "Vietnam",
     "code": "vn",
     "capital": "Hanoi",
-    "rarity": 42.0,
-    "color": "red-yellow"
-  },
-  {
-    "name": "Wallis and Futuna",
-    "code": "wf",
-    "capital": "Mata-Utu",
-    "rarity": 92.0,
-    "color": "blue-white"
-  },
-  {
-    "name": "Western Sahara",
-    "code": "eh",
-    "capital": "El Aai\u00fan",
-    "rarity": 30.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddfb\ud83c\uddf3",
+    "rarity_score": 15,
+    "colors": [
+      "red",
+      "yellow"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Yemen",
     "code": "ye",
     "capital": "Sana'a",
-    "rarity": 13.0,
-    "color": "red-white"
+    "flag_emoji": "\ud83c\uddfe\ud83c\uddea",
+    "rarity_score": 35,
+    "colors": [
+      "black",
+      "red",
+      "white"
+    ],
+    "continent": "Asia"
   },
   {
     "name": "Zambia",
     "code": "zm",
     "capital": "Lusaka",
-    "rarity": 17.0,
-    "color": "multicolor"
+    "flag_emoji": "\ud83c\uddff\ud83c\uddf2",
+    "rarity_score": 50,
+    "colors": [
+      "black",
+      "green",
+      "orange",
+      "red"
+    ],
+    "continent": "Africa"
   },
   {
     "name": "Zimbabwe",
     "code": "zw",
     "capital": "Harare",
-    "rarity": 47.0,
-    "color": "red-white"
-  },
-  {
-    "name": "\u00c5land Islands",
-    "code": "ax",
-    "capital": "Mariehamn",
-    "rarity": 70.0,
-    "color": "red-yellow"
+    "flag_emoji": "\ud83c\uddff\ud83c\uddfc",
+    "rarity_score": 42,
+    "colors": [
+      "black",
+      "orange",
+      "red",
+      "white"
+    ],
+    "continent": "Africa"
   }
 ]
