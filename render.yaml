@@ -17,7 +17,7 @@ services:
         value: "8080"
     healthCheckPath: /api/leaderboard # Simple public endpoint for health check
     dockerContext: ./backend
-    dockerfile: Dockerfile
+    dockerfilePath: Dockerfile
 
   # Frontend Static Site
   - type: web
@@ -25,7 +25,7 @@ services:
     runtime: static
     buildCommand: npm install && npm run build
     staticPublishPath: dist
-    baseDir: frontend
+    rootDir: frontend
     envVars:
       - key: VITE_API_URL
         value: https://guess-api.folkhart.com/api
