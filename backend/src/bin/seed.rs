@@ -6,6 +6,8 @@ use futures::TryStreamExt;
 pub mod db;
 #[path = "../models/mod.rs"]
 pub mod models;
+#[path = "../games/mod.rs"]
+pub mod games;
 
 use db::DbClient;
 use models::Country;
