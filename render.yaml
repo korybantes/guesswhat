@@ -20,9 +20,8 @@ services:
     dockerfile: Dockerfile
 
   # Frontend Static Site
-  - type: static
+  - type: static_site
     name: guess-frontend
-    runtime: static
     buildCommand: npm install && npm run build
     publishDir: dist
     baseDir: frontend
