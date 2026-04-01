@@ -20,10 +20,11 @@ services:
     dockerfile: Dockerfile
 
   # Frontend Static Site
-  - type: static_site
+  - type: web
     name: guess-frontend
+    runtime: static
     buildCommand: npm install && npm run build
-    publishDir: dist
+    staticPublishPath: dist
     baseDir: frontend
     envVars:
       - key: VITE_API_URL
