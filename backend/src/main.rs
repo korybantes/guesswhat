@@ -4,7 +4,7 @@ use actix_cors::Cors;
 use std::sync::Arc;
 use tokio::sync::RwLock;
 
-mod config;
+
 mod models;
 mod db;
 mod routes;

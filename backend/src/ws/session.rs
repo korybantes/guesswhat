@@ -4,6 +4,7 @@ use futures_util::StreamExt;
 use std::sync::Arc;
 use tokio::sync::RwLock;
 use uuid::Uuid;
+use rand::Rng;
 
 use crate::SharedRoomManager;
 use crate::db::DbClient;
