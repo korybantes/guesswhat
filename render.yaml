@@ -15,9 +15,9 @@ services:
         value: "0.0.0.0"
       - key: PORT
         value: "8080"
-    healthCheckPath: /api/leaderboard # Simple public endpoint for health check
+    healthCheckPath: /api/leaderboard
     dockerContext: ./backend
-    dockerfilePath: Dockerfile
+    dockerfilePath: ./backend/Dockerfile
 
   # Frontend Static Site
   - type: web
