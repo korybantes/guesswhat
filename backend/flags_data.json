@@ -1,0 +1,1752 @@
+[
+  {
+    "name": "Afghanistan",
+    "code": "af",
+    "capital": "Kabul",
+    "rarity": 15.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Albania",
+    "code": "al",
+    "capital": "Tirana",
+    "rarity": 58.0,
+    "color": "black-red"
+  },
+  {
+    "name": "Algeria",
+    "code": "dz",
+    "capital": "Algiers",
+    "rarity": 6.0,
+    "color": "red-white"
+  },
+  {
+    "name": "American Samoa",
+    "code": "as",
+    "capital": "Pago Pago",
+    "rarity": 99.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Andorra",
+    "code": "ad",
+    "capital": "Andorra la Vella",
+    "rarity": 98.0,
+    "color": "red-yellow"
+  },
+  {
+    "name": "Angola",
+    "code": "ao",
+    "capital": "Luanda",
+    "rarity": 5.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Anguilla",
+    "code": "ai",
+    "capital": "The Valley",
+    "rarity": 91.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Antarctica",
+    "code": "aq",
+    "capital": "Unknown",
+    "rarity": 5.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "code": "ag",
+    "capital": "Saint John's",
+    "rarity": 92.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Argentina",
+    "code": "ar",
+    "capital": "Buenos Aires",
+    "rarity": 5.0,
+    "color": "orange-white"
+  },
+  {
+    "name": "Armenia",
+    "code": "am",
+    "capital": "Yerevan",
+    "rarity": 53.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Aruba",
+    "code": "aw",
+    "capital": "Oranjestad",
+    "rarity": 90.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Australia",
+    "code": "au",
+    "capital": "Canberra",
+    "rarity": 9.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Austria",
+    "code": "at",
+    "capital": "Vienna",
+    "rarity": 61.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Azerbaijan",
+    "code": "az",
+    "capital": "Baku",
+    "rarity": 50.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Bahamas",
+    "code": "bs",
+    "capital": "Nassau",
+    "rarity": 53.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Bahrain",
+    "code": "bh",
+    "capital": "Manama",
+    "rarity": 75.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Bangladesh",
+    "code": "bd",
+    "capital": "Dhaka",
+    "rarity": 40.0,
+    "color": "black-red"
+  },
+  {
+    "name": "Barbados",
+    "code": "bb",
+    "capital": "Bridgetown",
+    "rarity": 90.0,
+    "color": "black-orange"
+  },
+  {
+    "name": "Belarus",
+    "code": "by",
+    "capital": "Minsk",
+    "rarity": 30.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Belgium",
+    "code": "be",
+    "capital": "Brussels",
+    "rarity": 58.0,
+    "color": "red-yellow"
+  },
+  {
+    "name": "Belize",
+    "code": "bz",
+    "capital": "Belmopan",
+    "rarity": 56.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Benin",
+    "code": "bj",
+    "capital": "Porto-Novo",
+    "rarity": 32.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Bermuda",
+    "code": "bm",
+    "capital": "Hamilton",
+    "rarity": 94.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Bhutan",
+    "code": "bt",
+    "capital": "Thimphu",
+    "rarity": 64.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Bolivia",
+    "code": "bo",
+    "capital": "Sucre",
+    "rarity": 6.0,
+    "color": "red-yellow"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "code": "ba",
+    "capital": "Sarajevo",
+    "rarity": 59.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Botswana",
+    "code": "bw",
+    "capital": "Gaborone",
+    "rarity": 5.0,
+    "color": "black-white"
+  },
+  {
+    "name": "Bouvet Island",
+    "code": "bv",
+    "capital": "Unknown",
+    "rarity": 99.0,
+    "color": "red-yellow"
+  },
+  {
+    "name": "Brazil",
+    "code": "br",
+    "capital": "Bras\u00edlia",
+    "rarity": 12.0,
+    "color": "green-yellow"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "code": "io",
+    "capital": "Diego Garcia",
+    "rarity": 90.0,
+    "color": "red-white"
+  },
+  {
+    "name": "British Virgin Islands",
+    "code": "vg",
+    "capital": "Road Town",
+    "rarity": 91.0,
+    "color": "black-red"
+  },
+  {
+    "name": "Brunei",
+    "code": "bn",
+    "capital": "Bandar Seri Begawan",
+    "rarity": 75.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Bulgaria",
+    "code": "bg",
+    "capital": "Sofia",
+    "rarity": 49.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Burkina Faso",
+    "code": "bf",
+    "capital": "Ouagadougou",
+    "rarity": 37.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Burundi",
+    "code": "bi",
+    "capital": "Gitega",
+    "rarity": 64.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Cambodia",
+    "code": "kh",
+    "capital": "Phnom Penh",
+    "rarity": 45.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Cameroon",
+    "code": "cm",
+    "capital": "Yaound\u00e9",
+    "rarity": 32.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Canada",
+    "code": "ca",
+    "capital": "Ottawa",
+    "rarity": 15.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Cape Verde",
+    "code": "cv",
+    "capital": "Praia",
+    "rarity": 83.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Caribbean Netherlands",
+    "code": "bq",
+    "capital": "Kralendijk",
+    "rarity": 98.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Cayman Islands",
+    "code": "ky",
+    "capital": "George Town",
+    "rarity": 94.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Central African Republic",
+    "code": "cf",
+    "capital": "Bangui",
+    "rarity": 9.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Chad",
+    "code": "td",
+    "capital": "N'Djamena",
+    "rarity": 5.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Chile",
+    "code": "cl",
+    "capital": "Santiago",
+    "rarity": 7.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "China",
+    "code": "cn",
+    "capital": "Beijing",
+    "rarity": 6.0,
+    "color": "red-yellow"
+  },
+  {
+    "name": "Christmas Island",
+    "code": "cx",
+    "capital": "Flying Fish Cove",
+    "rarity": 95.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "code": "cc",
+    "capital": "West Island",
+    "rarity": 94.0,
+    "color": "green-yellow"
+  },
+  {
+    "name": "Colombia",
+    "code": "co",
+    "capital": "Bogot\u00e1",
+    "rarity": 13.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Comoros",
+    "code": "km",
+    "capital": "Moroni",
+    "rarity": 72.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Congo",
+    "code": "cg",
+    "capital": "Brazzaville",
+    "rarity": 30.0,
+    "color": "green-yellow"
+  },
+  {
+    "name": "Cook Islands",
+    "code": "ck",
+    "capital": "Avarua",
+    "rarity": 96.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Costa Rica",
+    "code": "cr",
+    "capital": "San Jos\u00e9",
+    "rarity": 50.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Croatia",
+    "code": "hr",
+    "capital": "Zagreb",
+    "rarity": 64.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Cuba",
+    "code": "cu",
+    "capital": "Havana",
+    "rarity": 34.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Cura\u00e7ao",
+    "code": "cw",
+    "capital": "Willemstad",
+    "rarity": 94.0,
+    "color": "black-yellow"
+  },
+  {
+    "name": "Cyprus",
+    "code": "cy",
+    "capital": "Nicosia",
+    "rarity": 81.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Czechia",
+    "code": "cz",
+    "capital": "Prague",
+    "rarity": 55.0,
+    "color": "red-white"
+  },
+  {
+    "name": "DR Congo",
+    "code": "cd",
+    "capital": "Kinshasa",
+    "rarity": 23.0,
+    "color": "red-yellow"
+  },
+  {
+    "name": "Denmark",
+    "code": "dk",
+    "capital": "Copenhagen",
+    "rarity": 64.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Djibouti",
+    "code": "dj",
+    "capital": "Djibouti",
+    "rarity": 50.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Dominica",
+    "code": "dm",
+    "capital": "Roseau",
+    "rarity": 81.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Dominican Republic",
+    "code": "do",
+    "capital": "Santo Domingo",
+    "rarity": 61.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Ecuador",
+    "code": "ec",
+    "capital": "Quito",
+    "rarity": 31.0,
+    "color": "green-yellow"
+  },
+  {
+    "name": "Egypt",
+    "code": "eg",
+    "capital": "Cairo",
+    "rarity": 15.0,
+    "color": "red-white"
+  },
+  {
+    "name": "El Salvador",
+    "code": "sv",
+    "capital": "San Salvador",
+    "rarity": 51.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "code": "gq",
+    "capital": "Malabo",
+    "rarity": 61.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Eritrea",
+    "code": "er",
+    "capital": "Asmara",
+    "rarity": 30.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Estonia",
+    "code": "ee",
+    "capital": "Tallinn",
+    "rarity": 57.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Eswatini",
+    "code": "sz",
+    "capital": "Lobamba",
+    "rarity": 54.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Ethiopia",
+    "code": "et",
+    "capital": "Addis Ababa",
+    "rarity": 5.0,
+    "color": "green-yellow"
+  },
+  {
+    "name": "Falkland Islands",
+    "code": "fk",
+    "capital": "Stanley",
+    "rarity": 63.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Faroe Islands",
+    "code": "fo",
+    "capital": "T\u00f3rshavn",
+    "rarity": 83.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Fiji",
+    "code": "fj",
+    "capital": "Suva",
+    "rarity": 62.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Finland",
+    "code": "fi",
+    "capital": "Helsinki",
+    "rarity": 34.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "France",
+    "code": "fr",
+    "capital": "Paris",
+    "rarity": 20.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "French Guiana",
+    "code": "gf",
+    "capital": "Cayenne",
+    "rarity": 64.0,
+    "color": "green-yellow"
+  },
+  {
+    "name": "French Polynesia",
+    "code": "pf",
+    "capital": "Papeet\u0113",
+    "rarity": 77.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "French Southern and Antarctic Lands",
+    "code": "tf",
+    "capital": "Port-aux-Fran\u00e7ais",
+    "rarity": 77.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Gabon",
+    "code": "ga",
+    "capital": "Libreville",
+    "rarity": 38.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Gambia",
+    "code": "gm",
+    "capital": "Banjul",
+    "rarity": 59.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Georgia",
+    "code": "ge",
+    "capital": "Tbilisi",
+    "rarity": 50.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Germany",
+    "code": "de",
+    "capital": "Berlin",
+    "rarity": 44.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Ghana",
+    "code": "gh",
+    "capital": "Accra",
+    "rarity": 43.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Gibraltar",
+    "code": "gi",
+    "capital": "Gibraltar",
+    "rarity": 96.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Greece",
+    "code": "gr",
+    "capital": "Athens",
+    "rarity": 40.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Greenland",
+    "code": "gl",
+    "capital": "Nuuk",
+    "rarity": 11.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Grenada",
+    "code": "gd",
+    "capital": "St. George's",
+    "rarity": 94.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Guadeloupe",
+    "code": "gp",
+    "capital": "Basse-Terre",
+    "rarity": 78.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Guam",
+    "code": "gu",
+    "capital": "Hag\u00e5t\u00f1a",
+    "rarity": 79.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Guatemala",
+    "code": "gt",
+    "capital": "Guatemala City",
+    "rarity": 39.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Guernsey",
+    "code": "gg",
+    "capital": "St. Peter Port",
+    "rarity": 98.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Guinea",
+    "code": "gn",
+    "capital": "Conakry",
+    "rarity": 47.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "code": "gw",
+    "capital": "Bissau",
+    "rarity": 55.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Guyana",
+    "code": "gy",
+    "capital": "Georgetown",
+    "rarity": 39.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Haiti",
+    "code": "ht",
+    "capital": "Port-au-Prince",
+    "rarity": 60.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "code": "hm",
+    "capital": "Unknown",
+    "rarity": 92.0,
+    "color": "black-yellow"
+  },
+  {
+    "name": "Honduras",
+    "code": "hn",
+    "capital": "Tegucigalpa",
+    "rarity": 42.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Hong Kong",
+    "code": "hk",
+    "capital": "City of Victoria",
+    "rarity": 74.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Hungary",
+    "code": "hu",
+    "capital": "Budapest",
+    "rarity": 58.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Iceland",
+    "code": "is",
+    "capital": "Reykjavik",
+    "rarity": 30.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "India",
+    "code": "in",
+    "capital": "New Delhi",
+    "rarity": 15.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Indonesia",
+    "code": "id",
+    "capital": "Jakarta",
+    "rarity": 14.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Iran",
+    "code": "ir",
+    "capital": "Tehran",
+    "rarity": 20.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Iraq",
+    "code": "iq",
+    "capital": "Baghdad",
+    "rarity": 47.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Ireland",
+    "code": "ie",
+    "capital": "Dublin",
+    "rarity": 63.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Isle of Man",
+    "code": "im",
+    "capital": "Douglas",
+    "rarity": 82.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Israel",
+    "code": "il",
+    "capital": "Jerusalem",
+    "rarity": 60.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Italy",
+    "code": "it",
+    "capital": "Rome",
+    "rarity": 46.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Ivory Coast",
+    "code": "ci",
+    "capital": "Yamoussoukro",
+    "rarity": 33.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Jamaica",
+    "code": "jm",
+    "capital": "Kingston",
+    "rarity": 61.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Japan",
+    "code": "jp",
+    "capital": "Tokyo",
+    "rarity": 40.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Jersey",
+    "code": "je",
+    "capital": "Saint Helier",
+    "rarity": 96.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Jordan",
+    "code": "jo",
+    "capital": "Amman",
+    "rarity": 52.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Kazakhstan",
+    "code": "kz",
+    "capital": "Astana",
+    "rarity": 5.0,
+    "color": "blue-orange"
+  },
+  {
+    "name": "Kenya",
+    "code": "ke",
+    "capital": "Nairobi",
+    "rarity": 12.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Kiribati",
+    "code": "ki",
+    "capital": "South Tarawa",
+    "rarity": 81.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Kosovo",
+    "code": "xk",
+    "capital": "Pristina",
+    "rarity": 58.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Kuwait",
+    "code": "kw",
+    "capital": "Kuwait City",
+    "rarity": 68.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "code": "kg",
+    "capital": "Bishkek",
+    "rarity": 41.0,
+    "color": "red-yellow"
+  },
+  {
+    "name": "Laos",
+    "code": "la",
+    "capital": "Vientiane",
+    "rarity": 30.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Latvia",
+    "code": "lv",
+    "capital": "Riga",
+    "rarity": 69.0,
+    "color": "purple-white"
+  },
+  {
+    "name": "Lebanon",
+    "code": "lb",
+    "capital": "Beirut",
+    "rarity": 62.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Lesotho",
+    "code": "ls",
+    "capital": "Maseru",
+    "rarity": 65.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Liberia",
+    "code": "lr",
+    "capital": "Monrovia",
+    "rarity": 39.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Libya",
+    "code": "ly",
+    "capital": "Tripoli",
+    "rarity": 5.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Liechtenstein",
+    "code": "li",
+    "capital": "Vaduz",
+    "rarity": 90.0,
+    "color": "red-yellow"
+  },
+  {
+    "name": "Lithuania",
+    "code": "lt",
+    "capital": "Vilnius",
+    "rarity": 50.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Luxembourg",
+    "code": "lu",
+    "capital": "Luxembourg",
+    "rarity": 76.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Macau",
+    "code": "mo",
+    "capital": "Unknown",
+    "rarity": 90.0,
+    "color": "black-yellow"
+  },
+  {
+    "name": "Madagascar",
+    "code": "mg",
+    "capital": "Antananarivo",
+    "rarity": 6.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Malawi",
+    "code": "mw",
+    "capital": "Lilongwe",
+    "rarity": 34.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Malaysia",
+    "code": "my",
+    "capital": "Kuala Lumpur",
+    "rarity": 33.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Maldives",
+    "code": "mv",
+    "capital": "Mal\u00e9",
+    "rarity": 90.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Mali",
+    "code": "ml",
+    "capital": "Bamako",
+    "rarity": 17.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Malta",
+    "code": "mt",
+    "capital": "Valletta",
+    "rarity": 96.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Marshall Islands",
+    "code": "mh",
+    "capital": "Majuro",
+    "rarity": 91.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Martinique",
+    "code": "mq",
+    "capital": "Fort-de-France",
+    "rarity": 78.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Mauritania",
+    "code": "mr",
+    "capital": "Nouakchott",
+    "rarity": 5.0,
+    "color": "green-yellow"
+  },
+  {
+    "name": "Mauritius",
+    "code": "mu",
+    "capital": "Port Louis",
+    "rarity": 70.0,
+    "color": "green-yellow"
+  },
+  {
+    "name": "Mayotte",
+    "code": "yt",
+    "capital": "Mamoudzou",
+    "rarity": 94.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Mexico",
+    "code": "mx",
+    "capital": "Mexico City",
+    "rarity": 20.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Micronesia",
+    "code": "fm",
+    "capital": "Palikir",
+    "rarity": 72.0,
+    "color": "white"
+  },
+  {
+    "name": "Moldova",
+    "code": "md",
+    "capital": "Chi\u0219in\u0103u",
+    "rarity": 56.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Monaco",
+    "code": "mc",
+    "capital": "Monaco",
+    "rarity": 92.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Mongolia",
+    "code": "mn",
+    "capital": "Ulan Bator",
+    "rarity": 15.0,
+    "color": "red-yellow"
+  },
+  {
+    "name": "Montenegro",
+    "code": "me",
+    "capital": "Podgorica",
+    "rarity": 62.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Montserrat",
+    "code": "ms",
+    "capital": "Plymouth",
+    "rarity": 92.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Morocco",
+    "code": "ma",
+    "capital": "Rabat",
+    "rarity": 40.0,
+    "color": "black-red"
+  },
+  {
+    "name": "Mozambique",
+    "code": "mz",
+    "capital": "Maputo",
+    "rarity": 15.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Myanmar",
+    "code": "mm",
+    "capital": "Naypyidaw",
+    "rarity": 23.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Namibia",
+    "code": "na",
+    "capital": "Windhoek",
+    "rarity": 20.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Nauru",
+    "code": "nr",
+    "capital": "Yaren",
+    "rarity": 91.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Nepal",
+    "code": "np",
+    "capital": "Kathmandu",
+    "rarity": 31.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Netherlands",
+    "code": "nl",
+    "capital": "Amsterdam",
+    "rarity": 60.0,
+    "color": "red-white"
+  },
+  {
+    "name": "New Caledonia",
+    "code": "nc",
+    "capital": "Noum\u00e9a",
+    "rarity": 65.0,
+    "color": "green-yellow"
+  },
+  {
+    "name": "New Zealand",
+    "code": "nz",
+    "capital": "Wellington",
+    "rarity": 37.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Nicaragua",
+    "code": "ni",
+    "capital": "Managua",
+    "rarity": 43.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Niger",
+    "code": "ne",
+    "capital": "Niamey",
+    "rarity": 5.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Nigeria",
+    "code": "ng",
+    "capital": "Abuja",
+    "rarity": 13.0,
+    "color": "green-white"
+  },
+  {
+    "name": "Niue",
+    "code": "nu",
+    "capital": "Alofi",
+    "rarity": 90.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Norfolk Island",
+    "code": "nf",
+    "capital": "Kingston",
+    "rarity": 96.0,
+    "color": "black-white"
+  },
+  {
+    "name": "North Korea",
+    "code": "kp",
+    "capital": "Pyongyang",
+    "rarity": 48.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "North Macedonia",
+    "code": "mk",
+    "capital": "Skopje",
+    "rarity": 63.0,
+    "color": "red-yellow"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "code": "mp",
+    "capital": "Saipan",
+    "rarity": 94.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Norway",
+    "code": "no",
+    "capital": "Oslo",
+    "rarity": 32.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Oman",
+    "code": "om",
+    "capital": "Muscat",
+    "rarity": 30.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Pakistan",
+    "code": "pk",
+    "capital": "Islamabad",
+    "rarity": 17.0,
+    "color": "black-white"
+  },
+  {
+    "name": "Palau",
+    "code": "pw",
+    "capital": "Ngerulmud",
+    "rarity": 99.0,
+    "color": "blue-yellow"
+  },
+  {
+    "name": "Palestine",
+    "code": "ps",
+    "capital": "Ramallah",
+    "rarity": 70.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Panama",
+    "code": "pa",
+    "capital": "Panama City",
+    "rarity": 67.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Papua New Guinea",
+    "code": "pg",
+    "capital": "Port Moresby",
+    "rarity": 30.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Paraguay",
+    "code": "py",
+    "capital": "Asunci\u00f3n",
+    "rarity": 42.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Peru",
+    "code": "pe",
+    "capital": "Lima",
+    "rarity": 21.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Philippines",
+    "code": "ph",
+    "capital": "Manila",
+    "rarity": 43.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Pitcairn Islands",
+    "code": "pn",
+    "capital": "Adamstown",
+    "rarity": 97.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Poland",
+    "code": "pl",
+    "capital": "Warsaw",
+    "rarity": 49.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Portugal",
+    "code": "pt",
+    "capital": "Lisbon",
+    "rarity": 60.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Puerto Rico",
+    "code": "pr",
+    "capital": "San Juan",
+    "rarity": 80.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Qatar",
+    "code": "qa",
+    "capital": "Doha",
+    "rarity": 56.0,
+    "color": "purple-white"
+  },
+  {
+    "name": "Romania",
+    "code": "ro",
+    "capital": "Bucharest",
+    "rarity": 41.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Russia",
+    "code": "ru",
+    "capital": "Moscow",
+    "rarity": 7.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Rwanda",
+    "code": "rw",
+    "capital": "Kigali",
+    "rarity": 68.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "R\u00e9union",
+    "code": "re",
+    "capital": "Saint-Denis",
+    "rarity": 81.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Saint Barth\u00e9lemy",
+    "code": "bl",
+    "capital": "Gustavia",
+    "rarity": 91.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "code": "sh",
+    "capital": "Jamestown",
+    "rarity": 94.0,
+    "color": "red-yellow"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "code": "kn",
+    "capital": "Basseterre",
+    "rarity": 91.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Saint Lucia",
+    "code": "lc",
+    "capital": "Castries",
+    "rarity": 86.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Saint Martin",
+    "code": "mf",
+    "capital": "Marigot",
+    "rarity": 93.0,
+    "color": "black-yellow"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "code": "pm",
+    "capital": "Saint-Pierre",
+    "rarity": 92.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "code": "vc",
+    "capital": "Kingstown",
+    "rarity": 99.0,
+    "color": "black-orange"
+  },
+  {
+    "name": "Samoa",
+    "code": "ws",
+    "capital": "Apia",
+    "rarity": 72.0,
+    "color": "red-white"
+  },
+  {
+    "name": "San Marino",
+    "code": "sm",
+    "capital": "City of San Marino",
+    "rarity": 91.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Saudi Arabia",
+    "code": "sa",
+    "capital": "Riyadh",
+    "rarity": 15.0,
+    "color": "black-white"
+  },
+  {
+    "name": "Senegal",
+    "code": "sn",
+    "capital": "Dakar",
+    "rarity": 32.0,
+    "color": "green-yellow"
+  },
+  {
+    "name": "Serbia",
+    "code": "rs",
+    "capital": "Belgrade",
+    "rarity": 51.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Seychelles",
+    "code": "sc",
+    "capital": "Victoria",
+    "rarity": 92.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Sierra Leone",
+    "code": "sl",
+    "capital": "Freetown",
+    "rarity": 50.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Singapore",
+    "code": "sg",
+    "capital": "Singapore",
+    "rarity": 80.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Sint Maarten",
+    "code": "sx",
+    "capital": "Philipsburg",
+    "rarity": 94.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Slovakia",
+    "code": "sk",
+    "capital": "Bratislava",
+    "rarity": 67.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Slovenia",
+    "code": "si",
+    "capital": "Ljubljana",
+    "rarity": 63.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Solomon Islands",
+    "code": "sb",
+    "capital": "Honiara",
+    "rarity": 66.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Somalia",
+    "code": "so",
+    "capital": "Mogadishu",
+    "rarity": 22.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "South Africa",
+    "code": "za",
+    "capital": "Pretoria",
+    "rarity": 22.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "South Georgia",
+    "code": "gs",
+    "capital": "King Edward Point",
+    "rarity": 73.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "South Korea",
+    "code": "kr",
+    "capital": "Seoul",
+    "rarity": 40.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "South Sudan",
+    "code": "ss",
+    "capital": "Juba",
+    "rarity": 10.0,
+    "color": "green-yellow"
+  },
+  {
+    "name": "Spain",
+    "code": "es",
+    "capital": "Madrid",
+    "rarity": 17.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Sri Lanka",
+    "code": "lk",
+    "capital": "Colombo",
+    "rarity": 60.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Sudan",
+    "code": "sd",
+    "capital": "Khartoum",
+    "rarity": 13.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Suriname",
+    "code": "sr",
+    "capital": "Paramaribo",
+    "rarity": 30.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "code": "sj",
+    "capital": "Longyearbyen",
+    "rarity": 99.0,
+    "color": "black-yellow"
+  },
+  {
+    "name": "Sweden",
+    "code": "se",
+    "capital": "Stockholm",
+    "rarity": 45.0,
+    "color": "blue-orange"
+  },
+  {
+    "name": "Switzerland",
+    "code": "ch",
+    "capital": "Bern",
+    "rarity": 54.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Syria",
+    "code": "sy",
+    "capital": "Damascus",
+    "rarity": 30.0,
+    "color": "red-white"
+  },
+  {
+    "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "code": "st",
+    "capital": "S\u00e3o Tom\u00e9",
+    "rarity": 74.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Taiwan",
+    "code": "tw",
+    "capital": "Taipei",
+    "rarity": 63.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Tajikistan",
+    "code": "tj",
+    "capital": "Dushanbe",
+    "rarity": 30.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Tanzania",
+    "code": "tz",
+    "capital": "Dodoma",
+    "rarity": 12.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Thailand",
+    "code": "th",
+    "capital": "Bangkok",
+    "rarity": 5.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Timor-Leste",
+    "code": "tl",
+    "capital": "Dili",
+    "rarity": 64.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Togo",
+    "code": "tg",
+    "capital": "Lom\u00e9",
+    "rarity": 55.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Tokelau",
+    "code": "tk",
+    "capital": "Fakaofo",
+    "rarity": 92.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Tonga",
+    "code": "to",
+    "capital": "Nuku'alofa",
+    "rarity": 77.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "code": "tt",
+    "capital": "Port of Spain",
+    "rarity": 80.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Tunisia",
+    "code": "tn",
+    "capital": "Tunis",
+    "rarity": 40.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Turkmenistan",
+    "code": "tm",
+    "capital": "Ashgabat",
+    "rarity": 30.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "code": "tc",
+    "capital": "Cockburn Town",
+    "rarity": 78.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Tuvalu",
+    "code": "tv",
+    "capital": "Funafuti",
+    "rarity": 96.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "T\u00fcrkiye",
+    "code": "tr",
+    "capital": "Ankara",
+    "rarity": 7.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Uganda",
+    "code": "ug",
+    "capital": "Kampala",
+    "rarity": 40.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Ukraine",
+    "code": "ua",
+    "capital": "Kyiv",
+    "rarity": 5.0,
+    "color": "blue-yellow"
+  },
+  {
+    "name": "United Arab Emirates",
+    "code": "ae",
+    "capital": "Abu Dhabi",
+    "rarity": 50.0,
+    "color": "red-white"
+  },
+  {
+    "name": "United Kingdom",
+    "code": "gb",
+    "capital": "London",
+    "rarity": 30.0,
+    "color": "red-white"
+  },
+  {
+    "name": "United States",
+    "code": "us",
+    "capital": "Washington D.C.",
+    "rarity": 15.0,
+    "color": "purple-white"
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "code": "um",
+    "capital": "Unknown",
+    "rarity": 94.2,
+    "color": "red-yellow"
+  },
+  {
+    "name": "United States Virgin Islands",
+    "code": "vi",
+    "capital": "Charlotte Amalie",
+    "rarity": 97.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Uruguay",
+    "code": "uy",
+    "capital": "Montevideo",
+    "rarity": 44.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Uzbekistan",
+    "code": "uz",
+    "capital": "Tashkent",
+    "rarity": 30.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Vanuatu",
+    "code": "vu",
+    "capital": "Port Vila",
+    "rarity": 59.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Vatican City",
+    "code": "va",
+    "capital": "Vatican City",
+    "rarity": 90.4,
+    "color": "red-white"
+  },
+  {
+    "name": "Venezuela",
+    "code": "ve",
+    "capital": "Caracas",
+    "rarity": 10.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Vietnam",
+    "code": "vn",
+    "capital": "Hanoi",
+    "rarity": 42.0,
+    "color": "red-yellow"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "code": "wf",
+    "capital": "Mata-Utu",
+    "rarity": 92.0,
+    "color": "blue-white"
+  },
+  {
+    "name": "Western Sahara",
+    "code": "eh",
+    "capital": "El Aai\u00fan",
+    "rarity": 30.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Yemen",
+    "code": "ye",
+    "capital": "Sana'a",
+    "rarity": 13.0,
+    "color": "red-white"
+  },
+  {
+    "name": "Zambia",
+    "code": "zm",
+    "capital": "Lusaka",
+    "rarity": 17.0,
+    "color": "multicolor"
+  },
+  {
+    "name": "Zimbabwe",
+    "code": "zw",
+    "capital": "Harare",
+    "rarity": 47.0,
+    "color": "red-white"
+  },
+  {
+    "name": "\u00c5land Islands",
+    "code": "ax",
+    "capital": "Mariehamn",
+    "rarity": 70.0,
+    "color": "red-yellow"
+  }
+]
