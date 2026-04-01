@@ -2,9 +2,13 @@ use dotenv::dotenv;
 use mongodb::bson::doc;
 use futures::TryStreamExt;
 
-// Include the DB module from the main crate
-include!("../db/mod.rs");
-include!("../models/mod.rs");
+#[path = "../db/mod.rs"]
+pub mod db;
+#[path = "../models/mod.rs"]
+pub mod models;
+
+use db::DbClient;
+use models::Country;
 
 #[tokio::main]
 async fn main() -> anyhow::Result<()> {

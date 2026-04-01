@@ -262,12 +262,10 @@ async fn run_game(room_id: String, rm: Arc<tokio::sync::RwLock<crate::ws::RoomMa
         use mongodb::bson::doc;
         use futures::TryStreamExt;
         let col = db.countries();
-        col.find(doc! {}).await
-            .map(|cursor| async move {
-                cursor.try_collect::<Vec<_>>().await.unwrap_or_default()
-            })
-            .unwrap_or_else(|_| Box::pin(async { vec![] }))
-            .await
+        match col.find(doc! {}).await {
+            Ok(cursor) => cursor.try_collect::<Vec<_>>().await.unwrap_or_default(),
+            Err(_) => vec![],
+        }
     };
 
     if countries.is_empty() {
@@ -343,9 +341,11 @@ async fn run_game(room_id: String, rm: Arc<tokio::sync::RwLock<crate::ws::RoomMa
             // Check if all answered
             let all_answered = {
                 let rm = rm.read().await;
-                rm.get_room(&room_id)
-                    .map(|r| r.all_answered())
-                    .unwrap_or(true)
+                if let Some(r) = rm.get_room(&room_id) {
+                    r.all_answered()
+                } else {
+                    true
+                }
             };
             if all_answered { break; }
         }

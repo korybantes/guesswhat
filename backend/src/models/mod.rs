@@ -2,6 +2,8 @@ use serde::{Deserialize, Serialize};
 use mongodb::bson::oid::ObjectId;
 use chrono::{DateTime, Utc};
 
+pub mod room;
+
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct User {
     #[serde(rename = "_id", skip_serializing_if = "Option::is_none")]
