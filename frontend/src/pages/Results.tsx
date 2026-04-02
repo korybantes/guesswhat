@@ -1,6 +1,17 @@
+import { useEffect, useRef } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { useGameStore } from '@/store/gameStore';
 import { Button } from '@/components/ui/button';
+import confetti from 'canvas-confetti';
+import {
+  Crown,
+  RotateCcw,
+  Home,
+  Trophy,
+  Swords,
+  TrendingUp,
+} from 'lucide-react';
+import { cn } from '@/lib/utils';
 
 const MEDALS = ['🥇', '🥈', '🥉'];
 
@@ -8,6 +19,7 @@ export default function Results() {
   const { roomId } = useParams<{ roomId: string }>();
   const navigate = useNavigate();
   const { finalLeaderboard, myPlayerId, room } = useGameStore();
+  const confettiDone = useRef(false);
 
   const leaderboard = finalLeaderboard.length > 0
     ? finalLeaderboard
@@ -24,75 +36,190 @@ export default function Results() {
   const myResult = leaderboard.find((e) => e.player_id === myPlayerId);
   const myRank = leaderboard.findIndex((e) => e.player_id === myPlayerId) + 1;
   const winner = leaderboard[0];
+  const isWinner = winner?.player_id === myPlayerId;
+
+  // Fire confetti for winner
+  useEffect(() => {
+    if (isWinner && !confettiDone.current) {
+      confettiDone.current = true;
+      const duration = 3000;
+      const end = Date.now() + duration;
+
+      const frame = () => {
+        confetti({
+          particleCount: 3,
+          angle: 60,
+          spread: 55,
+          origin: { x: 0 },
+          colors: ['#00f0ff', '#7c3aed', '#fbbf24'],
+        });
+        confetti({
+          particleCount: 3,
+          angle: 120,
+          spread: 55,
+          origin: { x: 1 },
+          colors: ['#00f0ff', '#7c3aed', '#fbbf24'],
+        });
+        if (Date.now() < end) requestAnimationFrame(frame);
+      };
+      frame();
+    }
+  }, [isWinner]);
 
   return (
-    <div className="min-h-screen bg-[#0a0c14] text-white font-sans flex flex-col items-center justify-center px-6 py-12">
-      <div className="w-full max-w-md space-y-8">
-        {/* Winner announcement */}
-        {winner && (
-          <div className="text-center space-y-2">
-            <div className="text-5xl">🏆</div>
-            <h1 className="text-2xl font-bold text-white">
-              {winner.player_id === myPlayerId ? 'You won!' : `${winner.username} wins!`}
-            </h1>
-            <p className="text-slate-400 text-sm">Game over — final standings</p>
-          </div>
-        )}
+    <div className="min-h-screen text-white game-grid-bg scanlines flex flex-col items-center justify-center px-6 py-12 relative overflow-hidden">
+      {/* Background glows */}
+      <div className="absolute top-1/4 left-1/3 w-[500px] h-[500px] bg-cyan-500/5 rounded-full blur-[150px] pointer-events-none" />
+      <div className="absolute bottom-1/4 right-1/3 w-[400px] h-[400px] bg-purple-500/5 rounded-full blur-[120px] pointer-events-none" />
 
-        {/* My result card */}
-        {myResult && (
-          <div className="bg-teal-500/10 border border-teal-500/30 rounded-xl p-5 text-center">
-            <div className="text-xs text-teal-400 uppercase tracking-widest mb-2">Your Score</div>
-            <div className="text-4xl font-bold font-mono text-white">{myResult.total_score}</div>
-            <div className="text-sm text-slate-400 mt-1">
-              #{myRank} out of {leaderboard.length}
-            </div>
+      <div className="w-full max-w-lg space-y-8 relative z-10">
+        {/* ═══ GAME OVER HEADER ═══ */}
+        <div className="text-center space-y-4 victory-entrance">
+          <div className="text-[10px] font-bold text-slate-500 tracking-[0.3em] uppercase" style={{ fontFamily: 'var(--font-display)' }}>
+            MATCH COMPLETE
           </div>
-        )}
 
-        {/* Full leaderboard */}
-        <div className="space-y-2">
-          <div className="text-xs text-slate-500 uppercase tracking-widest text-center mb-4">Leaderboard</div>
-          {leaderboard.map((entry, i) => (
-            <div
-              key={entry.player_id}
-              className={`flex items-center gap-3 p-4 rounded-xl border transition-all ${entry.player_id === myPlayerId ? 'border-teal-500/40 bg-teal-500/8' : 'border-white/8 bg-white/4'}`}
-            >
-              <div className="w-8 text-center">
-                {i < 3 ? (
-                  <span className="text-xl">{MEDALS[i]}</span>
+          {winner && (
+            <>
+              <div className="relative inline-block">
+                <div className="text-6xl mb-2">🏆</div>
+                {/* Glow behind trophy */}
+                <div className="absolute inset-0 w-full h-full bg-amber-500/10 rounded-full blur-[40px] pointer-events-none" />
+              </div>
+              <h1
+                className="text-3xl sm:text-4xl font-bold tracking-wider"
+                style={{ fontFamily: 'var(--font-display)' }}
+              >
+                {isWinner ? (
+                  <span className="text-cyber">VICTORY!</span>
                 ) : (
-                  <span className="text-slate-500 text-sm font-mono">#{i + 1}</span>
+                  <span className="text-white">{winner.username} <span className="text-cyan-400">WINS</span></span>
                 )}
-              </div>
-              <div className="flex-1">
-                <div className="text-sm font-medium text-white">
-                  {entry.username}
-                  {entry.player_id === myPlayerId && (
-                    <span className="text-teal-400 ml-2 text-xs">(you)</span>
-                  )}
-                </div>
-              </div>
-              <div className="text-lg font-mono font-bold text-white">{entry.total_score}</div>
-            </div>
-          ))}
+              </h1>
+              <p className="text-sm text-slate-500">
+                {isWinner ? 'Dominant performance. The leaderboard bows.' : 'Better luck next time. Study your flags.'}
+              </p>
+            </>
+          )}
         </div>
 
-        {/* Actions */}
-        <div className="flex flex-col gap-3">
-          <Button
-            className="w-full bg-teal-600 hover:bg-teal-500 text-white border-0 h-11"
+        {/* ═══ YOUR STATS ═══ */}
+        {myResult && (
+          <div className="panel-glow p-6 corner-accents slide-up text-center" style={{ animationDelay: '0.3s' }}>
+            <div className="text-[9px] font-bold text-cyan-400 tracking-[0.2em] uppercase mb-3">YOUR PERFORMANCE</div>
+            <div className="flex items-center justify-center gap-8">
+              <div>
+                <div className="text-4xl font-bold text-white" style={{ fontFamily: 'var(--font-mono)' }}>
+                  {myResult.total_score}
+                </div>
+                <div className="text-[9px] font-bold text-slate-600 tracking-wider mt-1">TOTAL PTS</div>
+              </div>
+              <div className="w-px h-12 bg-white/[0.06]" />
+              <div>
+                <div className="text-4xl font-bold" style={{ fontFamily: 'var(--font-mono)' }}>
+                  {myRank <= 3 ? (
+                    <span className={cn(
+                      myRank === 1 ? 'text-amber-400' : myRank === 2 ? 'text-slate-300' : 'text-orange-400'
+                    )}>#{myRank}</span>
+                  ) : (
+                    <span className="text-slate-400">#{myRank}</span>
+                  )}
+                </div>
+                <div className="text-[9px] font-bold text-slate-600 tracking-wider mt-1">RANK</div>
+              </div>
+            </div>
+            {/* XP bar */}
+            <div className="mt-4">
+              <div className="flex justify-between mb-1">
+                <span className="text-[9px] font-bold text-slate-600 tracking-wider">XP EARNED</span>
+                <span className="text-[9px] font-bold text-cyan-400" style={{ fontFamily: 'var(--font-mono)' }}>+{myResult.total_score * 10} XP</span>
+              </div>
+              <div className="xp-bar">
+                <div className="xp-bar-fill" style={{ width: `${Math.min((myResult.total_score / (leaderboard[0]?.total_score || 1)) * 100, 100)}%` }} />
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* ═══ FULL LEADERBOARD ═══ */}
+        <div className="space-y-2 slide-up" style={{ animationDelay: '0.5s' }}>
+          <div className="flex items-center gap-3 mb-4">
+            <Trophy className="w-4 h-4 text-slate-600" />
+            <span className="text-[9px] font-bold text-slate-500 tracking-[0.2em] uppercase">FINAL STANDINGS</span>
+            <div className="flex-1 h-px bg-white/[0.06]" />
+          </div>
+
+          <div className="stagger-children">
+            {leaderboard.map((entry, i) => (
+              <div
+                key={entry.player_id}
+                className={cn(
+                  "flex items-center gap-3 p-3.5 rounded-xl border transition-all mb-2 slide-up",
+                  entry.player_id === myPlayerId
+                    ? 'border-cyan-500/20 bg-cyan-500/[0.04]'
+                    : 'border-white/[0.06] bg-white/[0.02]',
+                  i === 0 && "border-amber-500/20 bg-amber-500/[0.03]"
+                )}
+              >
+                <div className="w-8 text-center flex-shrink-0">
+                  {i < 3 ? (
+                    <span className="text-xl">{MEDALS[i]}</span>
+                  ) : (
+                    <span className="text-slate-600 text-sm font-bold" style={{ fontFamily: 'var(--font-mono)' }}>#{i + 1}</span>
+                  )}
+                </div>
+
+                <div className={cn(
+                  "w-9 h-9 rounded-lg flex items-center justify-center border text-sm font-bold flex-shrink-0",
+                  i === 0
+                    ? "bg-amber-500/10 border-amber-500/20 text-amber-400"
+                    : entry.player_id === myPlayerId
+                      ? "bg-cyan-500/10 border-cyan-500/20 text-cyan-400"
+                      : "bg-white/[0.03] border-white/[0.06] text-slate-400"
+                )}>
+                  {entry.username[0]?.toUpperCase()}
+                </div>
+
+                <div className="flex-1 min-w-0">
+                  <div className="text-sm font-bold text-white truncate">
+                    {entry.username}
+                    {entry.player_id === myPlayerId && (
+                      <span className="text-cyan-400 ml-1.5 text-[10px]">YOU</span>
+                    )}
+                  </div>
+                  {i === 0 && (
+                    <div className="flex items-center gap-1 mt-0.5">
+                      <Crown className="w-3 h-3 text-amber-400" />
+                      <span className="text-[9px] font-bold text-amber-400 tracking-wider">CHAMPION</span>
+                    </div>
+                  )}
+                </div>
+
+                <div className="text-right flex-shrink-0">
+                  <div className="text-lg font-bold text-white" style={{ fontFamily: 'var(--font-mono)' }}>
+                    {entry.total_score}
+                  </div>
+                  <div className="text-[9px] font-bold text-slate-600">PTS</div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* ═══ ACTIONS ═══ */}
+        <div className="flex gap-3 slide-up" style={{ animationDelay: '0.7s' }}>
+          <button
+            className="flex-1 h-12 rounded-xl bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-bold btn-cta flex items-center justify-center gap-2 text-sm"
             onClick={() => navigate(`/lobby/${roomId}`)}
           >
-            Play Again
-          </Button>
-          <Button
-            variant="ghost"
-            className="w-full text-slate-400 hover:text-white"
+            <RotateCcw className="w-4 h-4" /> PLAY AGAIN
+          </button>
+          <button
+            className="flex-1 h-12 rounded-xl bg-white/[0.04] border border-white/[0.06] hover:bg-white/[0.06] text-white font-bold flex items-center justify-center gap-2 text-sm transition-all"
             onClick={() => navigate('/')}
           >
-            Back to Home
-          </Button>
+            <Home className="w-4 h-4" /> LOBBY
+          </button>
         </div>
       </div>
     </div>

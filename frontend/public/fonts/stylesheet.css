@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Wolfskin';
+    src: url('WolfskinRegular.woff2') format('woff2'),
+        url('WolfskinRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jungle Adventurer';
+    src: url('JungleAdventurerRegular.woff2') format('woff2'),
+        url('JungleAdventurerRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

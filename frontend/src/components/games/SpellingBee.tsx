@@ -1,7 +1,7 @@
 import { useState, useRef } from 'react';
 import { useGameStore } from '@/store/gameStore';
 import { Input } from '@/components/ui/input';
-import { Button } from '@/components/ui/button';
+import { cn } from '@/lib/utils';
 
 interface Props {
   question: {
@@ -30,27 +30,25 @@ export default function SpellingBee({ question, onAnswer, hasAnswered, phase, co
   const isCorrect = correctAnswer !== null &&
     value.trim().toLowerCase() === correctAnswer.toLowerCase();
 
-  const inputBorder = phase === 'result'
-    ? isCorrect ? 'border-green-400/60' : 'border-red-400/40'
-    : hasAnswered ? 'border-teal-500/50' : 'border-white/10';
-
   return (
-    <div className="w-full max-w-lg space-y-8 text-center">
+    <div className="w-full max-w-xl mx-auto space-y-6 text-center">
       <div>
-        <p className="text-xs text-slate-500 uppercase tracking-widest mb-2">Spelling Bee</p>
-        <p className="text-slate-400 text-sm">Type the name of this country</p>
+        <div className="text-[10px] font-bold text-slate-600 tracking-[0.2em] uppercase mb-2">SPELLING BEE</div>
+        <p className="text-slate-500 text-sm">Type the exact name of this country</p>
       </div>
 
       {/* Flag */}
       <div className="flex justify-center">
-        <img
-          src={question.flag_url}
-          alt="Country flag"
-          className="w-64 h-40 object-cover rounded-xl shadow-2xl shadow-black/60 border border-white/10"
-        />
+        <div className="flag-display w-64 h-40">
+          <img
+            src={question.flag_url}
+            alt="Country flag"
+            className="w-full h-full"
+          />
+        </div>
       </div>
 
-      {/* Input */}
+      {/* Input area */}
       <div className="flex gap-2">
         <Input
           ref={inputRef}
@@ -59,34 +57,57 @@ export default function SpellingBee({ question, onAnswer, hasAnswered, phase, co
           onKeyDown={(e: React.KeyboardEvent<HTMLInputElement>) => e.key === 'Enter' && handleSubmit()}
           placeholder="Type country name..."
           disabled={hasAnswered || phase === 'result'}
-          className={`flex-1 bg-white/5 text-white placeholder:text-slate-600 ${inputBorder} focus:ring-teal-500/30 text-center text-lg font-medium h-12`}
+          className={cn(
+            "flex-1 h-12 rounded-xl text-center text-lg font-bold bg-white/[0.03] border placeholder:text-slate-700 transition-all",
+            phase === 'result'
+              ? isCorrect
+                ? 'border-green-500/40 text-green-400'
+                : 'border-red-500/30 text-red-400'
+              : hasAnswered
+                ? 'border-cyan-500/30 text-cyan-400'
+                : 'border-white/[0.08] text-white focus:border-cyan-500/40'
+          )}
+          style={{ fontFamily: 'var(--font-mono)' }}
           autoFocus
         />
-        <Button
+        <button
           onClick={handleSubmit}
           disabled={hasAnswered || phase === 'result' || !value.trim()}
-          className="bg-teal-600 hover:bg-teal-500 text-white border-0 px-6 h-12"
+          className="px-6 h-12 rounded-xl bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-bold btn-cta disabled:opacity-30 disabled:cursor-not-allowed"
         >
-          Submit
-        </Button>
+          SUBMIT
+        </button>
       </div>
 
       {/* Result feedback */}
       {phase === 'result' && correctAnswer && (
-        <div className="text-center space-y-1">
+        <div className={cn(
+          "panel p-4 text-center",
+          isCorrect ? "border-green-500/20 bg-green-500/[0.04]" : "border-red-500/20 bg-red-500/[0.04]"
+        )}>
           {isCorrect ? (
-            <p className="text-green-400 font-medium">✓ Perfect spelling!</p>
+            <div className="flex items-center justify-center gap-2">
+              <span className="text-green-400 text-lg">✓</span>
+              <span className="text-green-400 font-bold">Perfect spelling!</span>
+            </div>
           ) : (
-            <div>
-              <p className="text-red-400 text-sm">Your answer: <span className="font-mono">{value || '—'}</span></p>
-              <p className="text-green-400 text-sm">Correct: <span className="font-mono font-bold">{correctAnswer}</span></p>
+            <div className="space-y-1">
+              <div className="text-sm text-slate-400">
+                Your answer: <span className="text-red-400 font-bold" style={{ fontFamily: 'var(--font-mono)' }}>{value || '—'}</span>
+              </div>
+              <div className="text-sm text-slate-400">
+                Correct: <span className="text-green-400 font-bold" style={{ fontFamily: 'var(--font-mono)' }}>{correctAnswer}</span>
+              </div>
             </div>
           )}
         </div>
       )}
 
       {hasAnswered && phase === 'active' && (
-        <p className="text-slate-500 text-sm animate-pulse">Answer submitted! Waiting for others...</p>
+        <div className="flex items-center justify-center gap-2 py-3 text-sm text-cyan-500/60">
+          <div className="w-4 h-4 border-2 border-cyan-500/30 border-t-cyan-500 rounded-full animate-spin" />
+          <span className="font-bold text-xs tracking-wider">WAITING FOR OTHERS...</span>
+        </div>
       )}
     </div>
   );

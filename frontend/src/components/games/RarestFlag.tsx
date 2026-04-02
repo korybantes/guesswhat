@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { useGameStore } from '@/store/gameStore';
-import { Badge } from '@/components/ui/badge';
+import { cn } from '@/lib/utils';
 
 interface FlagChoice {
   id: number;
@@ -22,11 +22,11 @@ interface Props {
   correctAnswer: string | null;
 }
 
-const RARITY = (score: number) => {
-  if (score >= 80) return { label: 'Legendary', pct: `${score.toFixed(1)}%`, cls: 'text-yellow-400 bg-yellow-400/10 border-yellow-400/30' };
-  if (score >= 60) return { label: 'Epic', pct: `${score.toFixed(1)}%`, cls: 'text-purple-400 bg-purple-400/10 border-purple-400/30' };
-  if (score >= 40) return { label: 'Rare', pct: `${score.toFixed(1)}%`, cls: 'text-blue-400 bg-blue-400/10 border-blue-400/30' };
-  return { label: 'Common', pct: `${score.toFixed(1)}%`, cls: 'text-slate-400 bg-slate-400/10 border-slate-400/30' };
+const RARITY_COLOR = (score: number) => {
+  if (score >= 80) return { label: 'LEGENDARY', color: 'text-amber-400', bg: 'bg-amber-500/10', border: 'border-amber-500/20' };
+  if (score >= 60) return { label: 'EPIC', color: 'text-purple-400', bg: 'bg-purple-500/10', border: 'border-purple-500/20' };
+  if (score >= 40) return { label: 'RARE', color: 'text-blue-400', bg: 'bg-blue-500/10', border: 'border-blue-500/20' };
+  return { label: 'COMMON', color: 'text-slate-400', bg: 'bg-slate-500/10', border: 'border-slate-500/20' };
 };
 
 export default function RarestFlag({ question, onVote, hasAnswered, phase, correctAnswer }: Props) {
@@ -52,52 +52,65 @@ export default function RarestFlag({ question, onVote, hasAnswered, phase, corre
     return 'idle';
   };
 
-  const containerClass: Record<string, string> = {
-    correct: 'border-green-400/60 bg-green-400/8',
-    wrong: 'border-red-400/50 bg-red-400/6',
-    selected: 'border-teal-400/60 bg-teal-500/8',
-    neutral: 'border-white/8 bg-white/4 opacity-60',
-    idle: 'border-white/10 bg-white/5 hover:border-teal-500/40 hover:bg-teal-500/6 cursor-pointer',
-  };
-
   return (
-    <div className="w-full max-w-2xl space-y-6 text-center">
+    <div className="w-full max-w-2xl mx-auto space-y-6 text-center">
       <div>
-        <p className="text-xs text-slate-500 uppercase tracking-widest mb-2">Pick the rarest flag</p>
-        <h2 className="text-2xl font-bold text-white">{question.category}</h2>
-        <p className="text-slate-400 text-sm mt-2">Which flag is the hardest to guess in the world?</p>
+        <div className="text-[10px] font-bold text-slate-600 tracking-[0.2em] uppercase mb-2">PICK THE RAREST FLAG</div>
+        <h2 className="text-xl font-bold text-white tracking-wider" style={{ fontFamily: 'var(--font-display)' }}>
+          {question.category}
+        </h2>
+        <p className="text-slate-500 text-sm mt-1">Which flag is the hardest to recognize?</p>
       </div>
 
-      <div className="grid grid-cols-3 gap-4">
+      <div className="grid grid-cols-3 gap-3">
         {question.choices.map((choice) => {
           const state = getCardState(choice);
-          const rarity = RARITY(choice.rarity_score);
+          const rarity = RARITY_COLOR(choice.rarity_score);
 
           return (
             <button
               key={choice.id}
               onClick={() => handleVote(choice.id)}
-              className={`rounded-xl border p-3 text-left transition-all duration-150 ${containerClass[state]}`}
+              className={cn(
+                "rounded-xl border p-3 text-left transition-all group",
+                state === 'correct' && 'border-green-500/40 bg-green-500/[0.06]',
+                state === 'wrong' && 'border-red-500/40 bg-red-500/[0.05]',
+                state === 'selected' && 'border-cyan-500/40 bg-cyan-500/[0.06]',
+                state === 'neutral' && 'border-white/[0.06] bg-white/[0.02] opacity-50',
+                state === 'idle' && 'border-white/[0.08] bg-white/[0.02] hover:border-cyan-500/30 hover:bg-cyan-500/[0.03] cursor-pointer',
+              )}
               disabled={hasAnswered || phase === 'result'}
             >
-              <img
-                src={choice.flag_url}
-                alt={choice.country_name}
-                className="w-full aspect-video object-cover rounded-lg mb-3"
-              />
-              <div className="text-sm font-medium text-white mb-1.5">
+              <div className="flag-display aspect-video mb-3">
+                <img
+                  src={choice.flag_url}
+                  alt={choice.country_name}
+                  className="w-full h-full object-cover"
+                />
+              </div>
+
+              <div className="text-sm font-bold text-white mb-1.5">
                 {phase === 'result' ? choice.country_name : '???'}
               </div>
-              <Badge className={`${rarity.cls} border text-xs`}>
-                {rarity.label} · {rarity.pct}
-              </Badge>
+
+              {phase === 'result' && (
+                <div className={cn("inline-flex items-center gap-1.5 px-2 py-1 rounded text-[9px] font-bold border", rarity.bg, rarity.border)}>
+                  <span className={rarity.color}>{rarity.label}</span>
+                  <span className="text-slate-600" style={{ fontFamily: 'var(--font-mono)' }}>{choice.rarity_score.toFixed(0)}%</span>
+                </div>
+              )}
+
+              {state === 'correct' && <div className="text-green-400 text-xs font-bold mt-1">✓ RAREST</div>}
             </button>
           );
         })}
       </div>
 
       {hasAnswered && phase === 'active' && (
-        <p className="text-slate-500 text-sm animate-pulse">Voted! Waiting for others...</p>
+        <div className="flex items-center justify-center gap-2 py-3 text-sm text-cyan-500/60">
+          <div className="w-4 h-4 border-2 border-cyan-500/30 border-t-cyan-500 rounded-full animate-spin" />
+          <span className="font-bold text-xs tracking-wider">WAITING FOR OTHERS...</span>
+        </div>
       )}
     </div>
   );
