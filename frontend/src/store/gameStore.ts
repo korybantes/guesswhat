@@ -172,13 +172,35 @@ export const useGameStore = create<GameState>((set) => ({
   correctAnswer: null,
 
   setRoundStart: (round, totalRounds, timerSecs, question) =>
-    set({ currentRound: round, totalRounds, timerSecs, currentQuestion: question, hasAnswered: false, roundScores: [], correctAnswer: null }),
+    set((state) => ({
+      currentRound: round,
+      totalRounds,
+      timerSecs,
+      currentQuestion: question,
+      hasAnswered: false,
+      roundScores: [],
+      correctAnswer: null,
+      countdown: null,
+      room: state.room ? { ...state.room, phase: 'round_active' as GamePhase } : null
+    })),
   setRoundEnd: (correctAnswer, scores) =>
-    set({ correctAnswer, roundScores: scores }),
+    set((state) => ({ 
+      correctAnswer, 
+      roundScores: scores,
+      room: state.room ? { ...state.room, phase: 'round_end' as GamePhase } : null
+    })),
   setGameOver: (leaderboard) =>
-    set({ finalLeaderboard: leaderboard }),
+    set((state) => ({ 
+      finalLeaderboard: leaderboard,
+      room: state.room ? { ...state.room, phase: 'game_over' as GamePhase } : null
+    })),
   setHasAnswered: () => set({ hasAnswered: true }),
-  setCountdown: (n) => set({ countdown: n }),
+  setCountdown: (n) => set((state) => ({ 
+    countdown: n,
+    room: state.room && n !== null && state.room.phase === 'lobby' 
+      ? { ...state.room, phase: 'starting' as GamePhase } 
+      : state.room
+  })),
 
   // Chat
   chatMessages: [],
