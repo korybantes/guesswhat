@@ -16,6 +16,13 @@ export interface Player {
   answered_this_round: boolean;
 }
 
+export interface ChatMessage {
+  player_id: string;
+  username: string;
+  message: string;
+  timestamp_ms: number;
+}
+
 export interface RoomSettings {
   game_mode: GameMode;
   rounds: number;
@@ -110,6 +117,10 @@ interface GameState {
   connectionStatus: ConnectionStatus;
   setConnectionStatus: (s: ConnectionStatus) => void;
 
+  // Chat
+  chatMessages: ChatMessage[];
+  addChatMessage: (msg: ChatMessage) => void;
+
   // Correct answer revealed at round end
   correctAnswer: string | null;
 }
@@ -168,6 +179,12 @@ export const useGameStore = create<GameState>((set) => ({
     set({ finalLeaderboard: leaderboard }),
   setHasAnswered: () => set({ hasAnswered: true }),
   setCountdown: (n) => set({ countdown: n }),
+
+  // Chat
+  chatMessages: [],
+  addChatMessage: (msg) => set((state) => ({ 
+    chatMessages: [...state.chatMessages, msg].slice(-100) // Keep last 100
+  })),
 
   // WS
   connectionStatus: 'disconnected',

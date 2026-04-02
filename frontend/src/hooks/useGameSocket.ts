@@ -16,7 +16,8 @@ type ServerMsg =
   | { type: 'COUNTDOWN'; seconds: number }
   | { type: 'ANSWER_ACK'; player_id: string }
   | { type: 'ERROR'; message: string }
-  | { type: 'PONG' };
+  | { type: 'PONG' }
+  | { type: 'CHAT_MESSAGE'; player_id: string; username: string; message: string; timestamp_ms: number };
 
 let globalWs: WebSocket | null = null;
 let globalRoomId: string | null = null;
@@ -26,7 +27,7 @@ export function useGameSocket(roomId: string | null) {
   const {
     token, username,
     setRoom, setRoundStart, setRoundEnd, setGameOver,
-    setCountdown, setConnectionStatus,
+    setCountdown, setConnectionStatus, addChatMessage,
   } = useGameStore();
 
   const send = useCallback((msg: object) => {
@@ -84,6 +85,14 @@ export function useGameSocket(roomId: string | null) {
         case 'PLAYER_JOINED':
         case 'PLAYER_LEFT':
           break;
+        case 'CHAT_MESSAGE':
+          addChatMessage({
+            player_id: msg.player_id,
+            username: msg.username,
+            message: msg.message,
+            timestamp_ms: msg.timestamp_ms,
+          });
+          break;
         case 'ERROR':
           console.error('[WS] Server error:', msg.message);
           break;
@@ -136,5 +145,9 @@ export function useGameSocket(roomId: string | null) {
     send({ type: 'UPDATE_SETTINGS', settings });
   }, [send]);
 
-  return { startGame, submitAnswer, vote, updateSettings, send };
+  const sendChat = useCallback((message: string) => {
+    send({ type: 'CHAT', message });
+  }, [send]);
+
+  return { startGame, submitAnswer, vote, updateSettings, sendChat, send };
 }

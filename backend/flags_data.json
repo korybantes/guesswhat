@@ -2,2570 +2,2501 @@
   {
     "name": "Afghanistan",
     "code": "af",
+    "flag_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+    "continent": "Asia",
     "capital": "Kabul",
-    "flag_emoji": "\ud83c\udde6\ud83c\uddeb",
-    "rarity_score": 35,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 43844000,
+    "rarity_score": 29.5,
+    "colors": []
   },
   {
     "name": "Albania",
     "code": "al",
+    "flag_url": "https://flagcdn.com/al.svg",
+    "continent": "Europe",
     "capital": "Tirana",
-    "flag_emoji": "\ud83c\udde6\ud83c\uddf1",
-    "rarity_score": 30,
-    "colors": [
-      "black",
-      "red"
-    ],
-    "continent": "Europe"
+    "population": 2363314,
+    "rarity_score": 45.3,
+    "colors": []
   },
   {
     "name": "Algeria",
     "code": "dz",
+    "flag_url": "https://flagcdn.com/dz.svg",
+    "continent": "Africa",
     "capital": "Algiers",
-    "flag_emoji": "\ud83c\udde9\ud83c\uddff",
-    "rarity_score": 20,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 47400000,
+    "rarity_score": 29.1,
+    "colors": []
+  },
+  {
+    "name": "American Samoa",
+    "code": "as",
+    "flag_url": "https://flagcdn.com/as.svg",
+    "continent": "Oceania",
+    "capital": "Pago Pago",
+    "population": 49710,
+    "rarity_score": 66.3,
+    "colors": []
   },
   {
     "name": "Andorra",
     "code": "ad",
+    "flag_url": "https://flagcdn.com/ad.svg",
+    "continent": "Europe",
     "capital": "Andorra la Vella",
-    "flag_emoji": "\ud83c\udde6\ud83c\udde9",
-    "rarity_score": 55,
-    "colors": [
-      "blue",
-      "orange",
-      "red",
-      "yellow"
-    ],
-    "continent": "Europe"
+    "population": 88406,
+    "rarity_score": 63.2,
+    "colors": []
   },
   {
     "name": "Angola",
     "code": "ao",
+    "flag_url": "https://flagcdn.com/ao.svg",
+    "continent": "Africa",
     "capital": "Luanda",
-    "flag_emoji": "\ud83c\udde6\ud83c\uddf4",
-    "rarity_score": 40,
-    "colors": [
-      "black",
-      "orange",
-      "red"
-    ],
-    "continent": "Africa"
+    "population": 36170961,
+    "rarity_score": 30.5,
+    "colors": []
+  },
+  {
+    "name": "Anguilla",
+    "code": "ai",
+    "flag_url": "https://flagcdn.com/ai.svg",
+    "continent": "North America",
+    "capital": "The Valley",
+    "population": 16010,
+    "rarity_score": 72.4,
+    "colors": []
+  },
+  {
+    "name": "Antarctica",
+    "code": "aq",
+    "flag_url": "https://flagcdn.com/aq.svg",
+    "continent": "Antarctica",
+    "capital": "Unknown",
+    "population": 1300,
+    "rarity_score": 86.1,
+    "colors": []
   },
   {
     "name": "Antigua and Barbuda",
     "code": "ag",
+    "flag_url": "https://flagcdn.com/ag.svg",
+    "continent": "North America",
     "capital": "Saint John's",
-    "flag_emoji": "\ud83c\udde6\ud83c\uddec",
-    "rarity_score": 72,
-    "colors": [
-      "black",
-      "blue",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 103603,
+    "rarity_score": 62.3,
+    "colors": []
   },
   {
     "name": "Argentina",
     "code": "ar",
+    "flag_url": "https://flagcdn.com/ar.svg",
+    "continent": "South America",
     "capital": "Buenos Aires",
-    "flag_emoji": "\ud83c\udde6\ud83c\uddf7",
-    "rarity_score": 10,
-    "colors": [
-      "orange",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 46735004,
+    "rarity_score": 29.1,
+    "colors": []
   },
   {
     "name": "Armenia",
     "code": "am",
+    "flag_url": "https://flagcdn.com/am.svg",
+    "continent": "Asia",
     "capital": "Yerevan",
-    "flag_emoji": "\ud83c\udde6\ud83c\uddf2",
-    "rarity_score": 30,
-    "colors": [
-      "blue",
-      "orange",
-      "red"
-    ],
-    "continent": "Asia"
+    "population": 3076200,
+    "rarity_score": 43.9,
+    "colors": []
+  },
+  {
+    "name": "Aruba",
+    "code": "aw",
+    "flag_url": "https://flagcdn.com/aw.svg",
+    "continent": "North America",
+    "capital": "Oranjestad",
+    "population": 107566,
+    "rarity_score": 62.1,
+    "colors": []
   },
   {
     "name": "Australia",
     "code": "au",
+    "flag_url": "https://flagcdn.com/au.svg",
+    "continent": "Oceania",
     "capital": "Canberra",
-    "flag_emoji": "\ud83c\udde6\ud83c\uddfa",
-    "rarity_score": 5,
-    "colors": [
-      "blue",
-      "red",
-      "white"
-    ],
-    "continent": "Oceania"
+    "population": 27536874,
+    "rarity_score": 32.0,
+    "colors": []
   },
   {
     "name": "Austria",
     "code": "at",
+    "flag_url": "https://flagcdn.com/at.svg",
+    "continent": "Europe",
     "capital": "Vienna",
-    "flag_emoji": "\ud83c\udde6\ud83c\uddf9",
-    "rarity_score": 8,
-    "colors": [
-      "red",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 9200931,
+    "rarity_score": 38.0,
+    "colors": []
   },
   {
     "name": "Azerbaijan",
     "code": "az",
+    "flag_url": "https://flagcdn.com/az.svg",
+    "continent": "Europe",
     "capital": "Baku",
-    "flag_emoji": "\ud83c\udde6\ud83c\uddff",
-    "rarity_score": 35,
-    "colors": [
-      "blue",
-      "brown",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 10241722,
+    "rarity_score": 37.4,
+    "colors": []
   },
   {
     "name": "Bahamas",
     "code": "bs",
+    "flag_url": "https://flagcdn.com/bs.svg",
+    "continent": "North America",
     "capital": "Nassau",
-    "flag_emoji": "\ud83c\udde7\ud83c\uddf8",
-    "rarity_score": 45,
-    "colors": [
-      "black",
-      "blue",
-      "orange"
-    ],
-    "continent": "Americas"
+    "population": 398165,
+    "rarity_score": 55.0,
+    "colors": []
   },
   {
     "name": "Bahrain",
     "code": "bh",
+    "flag_url": "https://flagcdn.com/bh.svg",
+    "continent": "Asia",
     "capital": "Manama",
-    "flag_emoji": "\ud83c\udde7\ud83c\udded",
-    "rarity_score": 40,
-    "colors": [
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 1594654,
+    "rarity_score": 47.5,
+    "colors": []
   },
   {
     "name": "Bangladesh",
     "code": "bd",
+    "flag_url": "https://flagcdn.com/bd.svg",
+    "continent": "Asia",
     "capital": "Dhaka",
-    "flag_emoji": "\ud83c\udde7\ud83c\udde9",
-    "rarity_score": 15,
-    "colors": [
-      "black",
-      "red"
-    ],
-    "continent": "Asia"
+    "population": 169828911,
+    "rarity_score": 22.1,
+    "colors": []
   },
   {
     "name": "Barbados",
     "code": "bb",
+    "flag_url": "https://flagcdn.com/bb.svg",
+    "continent": "North America",
     "capital": "Bridgetown",
-    "flag_emoji": "\ud83c\udde7\ud83c\udde7",
-    "rarity_score": 50,
-    "colors": [
-      "black",
-      "orange"
-    ],
-    "continent": "Americas"
+    "population": 267800,
+    "rarity_score": 57.2,
+    "colors": []
   },
   {
     "name": "Belarus",
     "code": "by",
+    "flag_url": "https://flagcdn.com/by.svg",
+    "continent": "Europe",
     "capital": "Minsk",
-    "flag_emoji": "\ud83c\udde7\ud83c\uddfe",
-    "rarity_score": 25,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 9109280,
+    "rarity_score": 38.0,
+    "colors": []
   },
   {
     "name": "Belgium",
     "code": "be",
+    "flag_url": "https://flagcdn.com/be.svg",
+    "continent": "Europe",
     "capital": "Brussels",
-    "flag_emoji": "\ud83c\udde7\ud83c\uddea",
-    "rarity_score": 8,
-    "colors": [
-      "black",
-      "red",
-      "yellow"
-    ],
-    "continent": "Europe"
+    "population": 11825551,
+    "rarity_score": 36.6,
+    "colors": []
   },
   {
     "name": "Belize",
     "code": "bz",
+    "flag_url": "https://flagcdn.com/bz.svg",
+    "continent": "North America",
     "capital": "Belmopan",
-    "flag_emoji": "\ud83c\udde7\ud83c\uddff",
-    "rarity_score": 60,
-    "colors": [
-      "brown",
-      "purple",
-      "red",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 417634,
+    "rarity_score": 54.7,
+    "colors": []
   },
   {
     "name": "Benin",
     "code": "bj",
+    "flag_url": "https://flagcdn.com/bj.svg",
+    "continent": "Africa",
     "capital": "Porto-Novo",
-    "flag_emoji": "\ud83c\udde7\ud83c\uddef",
-    "rarity_score": 55,
-    "colors": [
-      "green",
-      "orange",
-      "red"
-    ],
-    "continent": "Africa"
+    "population": 13224860,
+    "rarity_score": 36.0,
+    "colors": []
+  },
+  {
+    "name": "Bermuda",
+    "code": "bm",
+    "flag_url": "https://flagcdn.com/bm.svg",
+    "continent": "North America",
+    "capital": "Hamilton",
+    "population": 64055,
+    "rarity_score": 64.9,
+    "colors": []
   },
   {
     "name": "Bhutan",
     "code": "bt",
+    "flag_url": "https://flagcdn.com/bt.svg",
+    "continent": "Asia",
     "capital": "Thimphu",
-    "flag_emoji": "\ud83c\udde7\ud83c\uddf9",
-    "rarity_score": 70,
-    "colors": [
-      "red",
-      "white",
-      "yellow"
-    ],
-    "continent": "Asia"
+    "population": 784043,
+    "rarity_score": 51.3,
+    "colors": []
   },
   {
     "name": "Bolivia",
     "code": "bo",
+    "flag_url": "https://flagcdn.com/bo.svg",
+    "continent": "South America",
     "capital": "Sucre",
-    "flag_emoji": "\ud83c\udde7\ud83c\uddf4",
-    "rarity_score": 22,
-    "colors": [
-      "black",
-      "red",
-      "yellow"
-    ],
-    "continent": "Americas"
+    "population": 11365333,
+    "rarity_score": 36.8,
+    "colors": []
   },
   {
     "name": "Bosnia and Herzegovina",
     "code": "ba",
+    "flag_url": "https://flagcdn.com/ba.svg",
+    "continent": "Europe",
     "capital": "Sarajevo",
-    "flag_emoji": "\ud83c\udde7\ud83c\udde6",
-    "rarity_score": 40,
-    "colors": [
-      "blue",
-      "orange",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 3422000,
+    "rarity_score": 43.3,
+    "colors": []
   },
   {
     "name": "Botswana",
     "code": "bw",
+    "flag_url": "https://flagcdn.com/bw.svg",
+    "continent": "Africa",
     "capital": "Gaborone",
-    "flag_emoji": "\ud83c\udde7\ud83c\uddfc",
-    "rarity_score": 50,
-    "colors": [
-      "black",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 2359609,
+    "rarity_score": 45.3,
+    "colors": []
+  },
+  {
+    "name": "Bouvet Island",
+    "code": "bv",
+    "flag_url": "https://flagcdn.com/bv.svg",
+    "continent": "Antarctica",
+    "capital": "Unknown",
+    "population": 0,
+    "rarity_score": 100.0,
+    "colors": []
   },
   {
     "name": "Brazil",
     "code": "br",
+    "flag_url": "https://flagcdn.com/br.svg",
+    "continent": "South America",
     "capital": "Bras\u00edlia",
-    "flag_emoji": "\ud83c\udde7\ud83c\uddf7",
-    "rarity_score": 5,
-    "colors": [
-      "black",
-      "green",
-      "white",
-      "yellow"
-    ],
-    "continent": "Americas"
+    "population": 213421037,
+    "rarity_score": 20.9,
+    "colors": []
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "code": "io",
+    "flag_url": "https://flagcdn.com/io.svg",
+    "continent": "Asia",
+    "capital": "Diego Garcia",
+    "population": 0,
+    "rarity_score": 100.0,
+    "colors": []
+  },
+  {
+    "name": "British Virgin Islands",
+    "code": "vg",
+    "flag_url": "https://flagcdn.com/vg.svg",
+    "continent": "North America",
+    "capital": "Road Town",
+    "population": 39471,
+    "rarity_score": 67.5,
+    "colors": []
   },
   {
     "name": "Brunei",
     "code": "bn",
+    "flag_url": "https://flagcdn.com/bn.svg",
+    "continent": "Asia",
     "capital": "Bandar Seri Begawan",
-    "flag_emoji": "\ud83c\udde7\ud83c\uddf3",
-    "rarity_score": 65,
-    "colors": [
-      "black",
-      "red",
-      "white",
-      "yellow"
-    ],
-    "continent": "Asia"
+    "population": 455500,
+    "rarity_score": 54.3,
+    "colors": []
   },
   {
     "name": "Bulgaria",
     "code": "bg",
+    "flag_url": "https://flagcdn.com/bg.svg",
+    "continent": "Europe",
     "capital": "Sofia",
-    "flag_emoji": "\ud83c\udde7\ud83c\uddec",
-    "rarity_score": 20,
-    "colors": [
-      "green",
-      "red",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 6437360,
+    "rarity_score": 39.9,
+    "colors": []
   },
   {
     "name": "Burkina Faso",
     "code": "bf",
+    "flag_url": "https://flagcdn.com/bf.svg",
+    "continent": "Africa",
     "capital": "Ouagadougou",
-    "flag_emoji": "\ud83c\udde7\ud83c\uddeb",
-    "rarity_score": 60,
-    "colors": [
-      "green",
-      "orange",
-      "red"
-    ],
-    "continent": "Africa"
+    "population": 24070553,
+    "rarity_score": 32.7,
+    "colors": []
   },
   {
     "name": "Burundi",
     "code": "bi",
+    "flag_url": "https://flagcdn.com/bi.svg",
+    "continent": "Africa",
     "capital": "Gitega",
-    "flag_emoji": "\ud83c\udde7\ud83c\uddee",
-    "rarity_score": 65,
-    "colors": [
-      "green",
-      "red",
-      "white"
-    ],
-    "continent": "Africa"
-  },
-  {
-    "name": "Cabo Verde",
-    "code": "cv",
-    "capital": "Praia",
-    "flag_emoji": "\ud83c\udde8\ud83c\uddfb",
-    "rarity_score": 70,
-    "colors": [
-      "blue",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 12332788,
+    "rarity_score": 36.4,
+    "colors": []
   },
   {
     "name": "Cambodia",
     "code": "kh",
+    "flag_url": "https://flagcdn.com/kh.svg",
+    "continent": "Asia",
     "capital": "Phnom Penh",
-    "flag_emoji": "\ud83c\uddf0\ud83c\udded",
-    "rarity_score": 35,
-    "colors": [
-      "blue",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 17577760,
+    "rarity_score": 34.4,
+    "colors": []
   },
   {
     "name": "Cameroon",
     "code": "cm",
+    "flag_url": "https://flagcdn.com/cm.svg",
+    "continent": "Africa",
     "capital": "Yaound\u00e9",
-    "flag_emoji": "\ud83c\udde8\ud83c\uddf2",
-    "rarity_score": 30,
-    "colors": [
-      "black",
-      "orange",
-      "red"
-    ],
-    "continent": "Africa"
+    "population": 29442327,
+    "rarity_score": 31.6,
+    "colors": []
   },
   {
     "name": "Canada",
     "code": "ca",
+    "flag_url": "https://flagcdn.com/ca.svg",
+    "continent": "North America",
     "capital": "Ottawa",
-    "flag_emoji": "\ud83c\udde8\ud83c\udde6",
-    "rarity_score": 3,
-    "colors": [
-      "red",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 41651653,
+    "rarity_score": 29.8,
+    "colors": []
+  },
+  {
+    "name": "Cape Verde",
+    "code": "cv",
+    "flag_url": "https://flagcdn.com/cv.svg",
+    "continent": "Africa",
+    "capital": "Praia",
+    "population": 491233,
+    "rarity_score": 53.9,
+    "colors": []
+  },
+  {
+    "name": "Caribbean Netherlands",
+    "code": "bq",
+    "flag_url": "https://flagcdn.com/bq.svg",
+    "continent": "North America",
+    "capital": "Kralendijk",
+    "population": 31980,
+    "rarity_score": 68.7,
+    "colors": []
+  },
+  {
+    "name": "Cayman Islands",
+    "code": "ky",
+    "flag_url": "https://flagcdn.com/ky.svg",
+    "continent": "North America",
+    "capital": "George Town",
+    "population": 84738,
+    "rarity_score": 63.4,
+    "colors": []
   },
   {
     "name": "Central African Republic",
     "code": "cf",
+    "flag_url": "https://flagcdn.com/cf.svg",
+    "continent": "Africa",
     "capital": "Bangui",
-    "flag_emoji": "\ud83c\udde8\ud83c\uddeb",
-    "rarity_score": 70,
-    "colors": [
-      "blue",
-      "green",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 6470307,
+    "rarity_score": 39.9,
+    "colors": []
   },
   {
     "name": "Chad",
     "code": "td",
+    "flag_url": "https://flagcdn.com/td.svg",
+    "continent": "Africa",
     "capital": "N'Djamena",
-    "flag_emoji": "\ud83c\uddf9\ud83c\udde9",
-    "rarity_score": 55,
-    "colors": [
-      "black",
-      "orange",
-      "red"
-    ],
-    "continent": "Africa"
+    "population": 19340757,
+    "rarity_score": 33.9,
+    "colors": []
   },
   {
     "name": "Chile",
     "code": "cl",
+    "flag_url": "https://flagcdn.com/cl.svg",
+    "continent": "South America",
     "capital": "Santiago",
-    "flag_emoji": "\ud83c\udde8\ud83c\uddf1",
-    "rarity_score": 15,
-    "colors": [
-      "blue",
-      "red",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 20206953,
+    "rarity_score": 33.7,
+    "colors": []
   },
   {
     "name": "China",
     "code": "cn",
+    "flag_url": "https://flagcdn.com/cn.svg",
+    "continent": "Asia",
     "capital": "Beijing",
-    "flag_emoji": "\ud83c\udde8\ud83c\uddf3",
-    "rarity_score": 5,
-    "colors": [
-      "red",
-      "yellow"
-    ],
-    "continent": "Asia"
+    "population": 1408280000,
+    "rarity_score": 10.6,
+    "colors": []
+  },
+  {
+    "name": "Christmas Island",
+    "code": "cx",
+    "flag_url": "https://flagcdn.com/cx.svg",
+    "continent": "Asia",
+    "capital": "Flying Fish Cove",
+    "population": 1692,
+    "rarity_score": 84.6,
+    "colors": []
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "code": "cc",
+    "flag_url": "https://flagcdn.com/cc.svg",
+    "continent": "Asia",
+    "capital": "West Island",
+    "population": 593,
+    "rarity_score": 90.3,
+    "colors": []
   },
   {
     "name": "Colombia",
     "code": "co",
+    "flag_url": "https://flagcdn.com/co.svg",
+    "continent": "South America",
     "capital": "Bogot\u00e1",
-    "flag_emoji": "\ud83c\udde8\ud83c\uddf4",
-    "rarity_score": 18,
-    "colors": [
-      "blue",
-      "orange",
-      "red"
-    ],
-    "continent": "Americas"
+    "population": 53057212,
+    "rarity_score": 28.4,
+    "colors": []
   },
   {
     "name": "Comoros",
     "code": "km",
+    "flag_url": "https://flagcdn.com/km.svg",
+    "continent": "Africa",
     "capital": "Moroni",
-    "flag_emoji": "\ud83c\uddf0\ud83c\uddf2",
-    "rarity_score": 78,
-    "colors": [
-      "blue",
-      "brown",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 919901,
+    "rarity_score": 50.5,
+    "colors": []
   },
   {
-    "name": "Congo (DRC)",
-    "code": "cd",
-    "capital": "Kinshasa",
-    "flag_emoji": "\ud83c\udde8\ud83c\udde9",
-    "rarity_score": 45,
-    "colors": [
-      "blue",
-      "red",
-      "yellow"
-    ],
-    "continent": "Africa"
-  },
-  {
-    "name": "Congo (Republic)",
-    "code": "cg",
-    "capital": "Brazzaville",
-    "flag_emoji": "\ud83c\udde8\ud83c\uddec",
-    "rarity_score": 55,
-    "colors": [
-      "green",
-      "red",
-      "yellow"
-    ],
-    "continent": "Africa"
+    "name": "Cook Islands",
+    "code": "ck",
+    "flag_url": "https://flagcdn.com/ck.svg",
+    "continent": "Oceania",
+    "capital": "Avarua",
+    "population": 15040,
+    "rarity_score": 72.8,
+    "colors": []
   },
   {
     "name": "Costa Rica",
     "code": "cr",
+    "flag_url": "https://flagcdn.com/cr.svg",
+    "continent": "North America",
     "capital": "San Jos\u00e9",
-    "flag_emoji": "\ud83c\udde8\ud83c\uddf7",
-    "rarity_score": 20,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 5309625,
+    "rarity_score": 40.9,
+    "colors": []
   },
   {
     "name": "Croatia",
     "code": "hr",
+    "flag_url": "https://flagcdn.com/hr.svg",
+    "continent": "Europe",
     "capital": "Zagreb",
-    "flag_emoji": "\ud83c\udded\ud83c\uddf7",
-    "rarity_score": 22,
-    "colors": [
-      "blue",
-      "purple",
-      "red",
-      "white",
-      "yellow"
-    ],
-    "continent": "Europe"
+    "population": 3866233,
+    "rarity_score": 42.7,
+    "colors": []
   },
   {
     "name": "Cuba",
     "code": "cu",
+    "flag_url": "https://flagcdn.com/cu.svg",
+    "continent": "North America",
     "capital": "Havana",
-    "flag_emoji": "\ud83c\udde8\ud83c\uddfa",
-    "rarity_score": 15,
-    "colors": [
-      "blue",
-      "red",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 9748007,
+    "rarity_score": 37.6,
+    "colors": []
+  },
+  {
+    "name": "Cura\u00e7ao",
+    "code": "cw",
+    "flag_url": "https://flagcdn.com/cw.svg",
+    "continent": "North America",
+    "capital": "Willemstad",
+    "population": 156115,
+    "rarity_score": 60.1,
+    "colors": []
   },
   {
     "name": "Cyprus",
     "code": "cy",
+    "flag_url": "https://flagcdn.com/cy.svg",
+    "continent": "Europe",
     "capital": "Nicosia",
-    "flag_emoji": "\ud83c\udde8\ud83c\uddfe",
-    "rarity_score": 45,
-    "colors": [
-      "brown",
-      "orange",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 1442614,
+    "rarity_score": 48.0,
+    "colors": []
   },
   {
-    "name": "Czech Republic",
+    "name": "Czechia",
     "code": "cz",
+    "flag_url": "https://flagcdn.com/cz.svg",
+    "continent": "Europe",
     "capital": "Prague",
-    "flag_emoji": "\ud83c\udde8\ud83c\uddff",
-    "rarity_score": 18,
-    "colors": [
-      "purple",
-      "red",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 10882341,
+    "rarity_score": 37.0,
+    "colors": []
+  },
+  {
+    "name": "DR Congo",
+    "code": "cd",
+    "flag_url": "https://flagcdn.com/cd.svg",
+    "continent": "Africa",
+    "capital": "Kinshasa",
+    "population": 112832000,
+    "rarity_score": 24.3,
+    "colors": []
   },
   {
     "name": "Denmark",
     "code": "dk",
+    "flag_url": "https://flagcdn.com/dk.svg",
+    "continent": "Europe",
     "capital": "Copenhagen",
-    "flag_emoji": "\ud83c\udde9\ud83c\uddf0",
-    "rarity_score": 8,
-    "colors": [
-      "red",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 6011488,
+    "rarity_score": 40.3,
+    "colors": []
   },
   {
     "name": "Djibouti",
     "code": "dj",
+    "flag_url": "https://flagcdn.com/dj.svg",
+    "continent": "Africa",
     "capital": "Djibouti",
-    "flag_emoji": "\ud83c\udde9\ud83c\uddef",
-    "rarity_score": 72,
-    "colors": [
-      "green",
-      "red",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 1066809,
+    "rarity_score": 49.6,
+    "colors": []
   },
   {
     "name": "Dominica",
     "code": "dm",
+    "flag_url": "https://flagcdn.com/dm.svg",
+    "continent": "North America",
     "capital": "Roseau",
-    "flag_emoji": "\ud83c\udde9\ud83c\uddf2",
-    "rarity_score": 80,
-    "colors": [
-      "black",
-      "orange",
-      "purple",
-      "red",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 67408,
+    "rarity_score": 64.6,
+    "colors": []
   },
   {
     "name": "Dominican Republic",
     "code": "do",
+    "flag_url": "https://flagcdn.com/do.svg",
+    "continent": "North America",
     "capital": "Santo Domingo",
-    "flag_emoji": "\ud83c\udde9\ud83c\uddf4",
-    "rarity_score": 35,
-    "colors": [
-      "black",
-      "green",
-      "red",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 10771504,
+    "rarity_score": 37.1,
+    "colors": []
   },
   {
     "name": "Ecuador",
     "code": "ec",
+    "flag_url": "https://flagcdn.com/ec.svg",
+    "continent": "South America",
     "capital": "Quito",
-    "flag_emoji": "\ud83c\uddea\ud83c\udde8",
-    "rarity_score": 22,
-    "colors": [
-      "blue",
-      "brown",
-      "red",
-      "yellow"
-    ],
-    "continent": "Americas"
+    "population": 18103660,
+    "rarity_score": 34.3,
+    "colors": []
   },
   {
     "name": "Egypt",
     "code": "eg",
+    "flag_url": "https://flagcdn.com/eg.svg",
+    "continent": "Africa",
     "capital": "Cairo",
-    "flag_emoji": "\ud83c\uddea\ud83c\uddec",
-    "rarity_score": 12,
-    "colors": [
-      "black",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 107271260,
+    "rarity_score": 24.6,
+    "colors": []
   },
   {
     "name": "El Salvador",
     "code": "sv",
+    "flag_url": "https://flagcdn.com/sv.svg",
+    "continent": "North America",
     "capital": "San Salvador",
-    "flag_emoji": "\ud83c\uddf8\ud83c\uddfb",
-    "rarity_score": 35,
-    "colors": [
-      "blue",
-      "green",
-      "orange",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 6029976,
+    "rarity_score": 40.2,
+    "colors": []
   },
   {
     "name": "Equatorial Guinea",
     "code": "gq",
-    "capital": "Malabo",
-    "flag_emoji": "\ud83c\uddec\ud83c\uddf6",
-    "rarity_score": 75,
-    "colors": [
-      "blue",
-      "brown",
-      "red",
-      "white",
-      "yellow"
-    ],
-    "continent": "Africa"
+    "flag_url": "https://flagcdn.com/gq.svg",
+    "continent": "Africa",
+    "capital": "Ciudad de la Paz",
+    "population": 1668768,
+    "rarity_score": 47.2,
+    "colors": []
   },
   {
     "name": "Eritrea",
     "code": "er",
+    "flag_url": "https://flagcdn.com/er.svg",
+    "continent": "Africa",
     "capital": "Asmara",
-    "flag_emoji": "\ud83c\uddea\ud83c\uddf7",
-    "rarity_score": 68,
-    "colors": [
-      "blue",
-      "green",
-      "orange",
-      "red"
-    ],
-    "continent": "Africa"
+    "population": 3607000,
+    "rarity_score": 43.0,
+    "colors": []
   },
   {
     "name": "Estonia",
     "code": "ee",
+    "flag_url": "https://flagcdn.com/ee.svg",
+    "continent": "Europe",
     "capital": "Tallinn",
-    "flag_emoji": "\ud83c\uddea\ud83c\uddea",
-    "rarity_score": 30,
-    "colors": [
-      "black",
-      "blue",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 1369995,
+    "rarity_score": 48.3,
+    "colors": []
   },
   {
     "name": "Eswatini",
     "code": "sz",
+    "flag_url": "https://flagcdn.com/sz.svg",
+    "continent": "Africa",
     "capital": "Mbabane",
-    "flag_emoji": "\ud83c\uddf8\ud83c\uddff",
-    "rarity_score": 72,
-    "colors": [
-      "black",
-      "brown",
-      "purple",
-      "white",
-      "yellow"
-    ],
-    "continent": "Africa"
+    "population": 1235549,
+    "rarity_score": 48.9,
+    "colors": []
   },
   {
     "name": "Ethiopia",
     "code": "et",
+    "flag_url": "https://flagcdn.com/et.svg",
+    "continent": "Africa",
     "capital": "Addis Ababa",
-    "flag_emoji": "\ud83c\uddea\ud83c\uddf9",
-    "rarity_score": 20,
-    "colors": [
-      "blue",
-      "green",
-      "red",
-      "yellow"
-    ],
-    "continent": "Africa"
+    "population": 111652998,
+    "rarity_score": 24.4,
+    "colors": []
+  },
+  {
+    "name": "Falkland Islands",
+    "code": "fk",
+    "flag_url": "https://flagcdn.com/fk.svg",
+    "continent": "South America",
+    "capital": "Stanley",
+    "population": 3662,
+    "rarity_score": 80.5,
+    "colors": []
+  },
+  {
+    "name": "Faroe Islands",
+    "code": "fo",
+    "flag_url": "https://flagcdn.com/fo.svg",
+    "continent": "Europe",
+    "capital": "T\u00f3rshavn",
+    "population": 54885,
+    "rarity_score": 65.8,
+    "colors": []
   },
   {
     "name": "Fiji",
     "code": "fj",
+    "flag_url": "https://flagcdn.com/fj.svg",
+    "continent": "Oceania",
     "capital": "Suva",
-    "flag_emoji": "\ud83c\uddeb\ud83c\uddef",
-    "rarity_score": 50,
-    "colors": [
-      "black",
-      "green",
-      "red",
-      "white",
-      "yellow"
-    ],
-    "continent": "Oceania"
+    "population": 900869,
+    "rarity_score": 50.6,
+    "colors": []
   },
   {
     "name": "Finland",
     "code": "fi",
+    "flag_url": "https://flagcdn.com/fi.svg",
+    "continent": "Europe",
     "capital": "Helsinki",
-    "flag_emoji": "\ud83c\uddeb\ud83c\uddee",
-    "rarity_score": 10,
-    "colors": [
-      "blue",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 5650325,
+    "rarity_score": 40.6,
+    "colors": []
   },
   {
     "name": "France",
     "code": "fr",
+    "flag_url": "https://flagcdn.com/fr.svg",
+    "continent": "Europe",
     "capital": "Paris",
-    "flag_emoji": "\ud83c\uddeb\ud83c\uddf7",
-    "rarity_score": 3,
-    "colors": [
-      "blue",
-      "red",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 66351959,
+    "rarity_score": 27.2,
+    "colors": []
+  },
+  {
+    "name": "French Guiana",
+    "code": "gf",
+    "flag_url": "https://flagcdn.com/gf.svg",
+    "continent": "South America",
+    "capital": "Cayenne",
+    "population": 292354,
+    "rarity_score": 56.7,
+    "colors": []
+  },
+  {
+    "name": "French Polynesia",
+    "code": "pf",
+    "flag_url": "https://flagcdn.com/pf.svg",
+    "continent": "Oceania",
+    "capital": "Papeet\u0113",
+    "population": 279500,
+    "rarity_score": 56.9,
+    "colors": []
+  },
+  {
+    "name": "French Southern and Antarctic Lands",
+    "code": "tf",
+    "flag_url": "https://flagcdn.com/tf.svg",
+    "continent": "Antarctica",
+    "capital": "Port-aux-Fran\u00e7ais",
+    "population": 400,
+    "rarity_score": 92.5,
+    "colors": []
   },
   {
     "name": "Gabon",
     "code": "ga",
+    "flag_url": "https://flagcdn.com/ga.svg",
+    "continent": "Africa",
     "capital": "Libreville",
-    "flag_emoji": "\ud83c\uddec\ud83c\udde6",
-    "rarity_score": 55,
-    "colors": [
-      "blue",
-      "green",
-      "orange"
-    ],
-    "continent": "Africa"
+    "population": 2469296,
+    "rarity_score": 45.1,
+    "colors": []
   },
   {
     "name": "Gambia",
     "code": "gm",
+    "flag_url": "https://flagcdn.com/gm.svg",
+    "continent": "Africa",
     "capital": "Banjul",
-    "flag_emoji": "\ud83c\uddec\ud83c\uddf2",
-    "rarity_score": 60,
-    "colors": [
-      "blue",
-      "brown",
-      "red",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 2422712,
+    "rarity_score": 45.2,
+    "colors": []
   },
   {
     "name": "Georgia",
     "code": "ge",
+    "flag_url": "https://flagcdn.com/ge.svg",
+    "continent": "Asia",
     "capital": "Tbilisi",
-    "flag_emoji": "\ud83c\uddec\ud83c\uddea",
-    "rarity_score": 35,
-    "colors": [
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 4000921,
+    "rarity_score": 42.5,
+    "colors": []
   },
   {
     "name": "Germany",
     "code": "de",
+    "flag_url": "https://flagcdn.com/de.svg",
+    "continent": "Europe",
     "capital": "Berlin",
-    "flag_emoji": "\ud83c\udde9\ud83c\uddea",
-    "rarity_score": 4,
-    "colors": [
-      "black",
-      "orange",
-      "red"
-    ],
-    "continent": "Europe"
+    "population": 83491249,
+    "rarity_score": 26.0,
+    "colors": []
   },
   {
     "name": "Ghana",
     "code": "gh",
+    "flag_url": "https://flagcdn.com/gh.svg",
+    "continent": "Africa",
     "capital": "Accra",
-    "flag_emoji": "\ud83c\uddec\ud83c\udded",
-    "rarity_score": 22,
-    "colors": [
-      "black",
-      "orange",
-      "red"
-    ],
-    "continent": "Africa"
+    "population": 33742380,
+    "rarity_score": 30.9,
+    "colors": []
+  },
+  {
+    "name": "Gibraltar",
+    "code": "gi",
+    "flag_url": "https://flagcdn.com/gi.svg",
+    "continent": "Europe",
+    "capital": "Gibraltar",
+    "population": 38000,
+    "rarity_score": 67.8,
+    "colors": []
   },
   {
     "name": "Greece",
     "code": "gr",
+    "flag_url": "https://flagcdn.com/gr.svg",
+    "continent": "Europe",
     "capital": "Athens",
-    "flag_emoji": "\ud83c\uddec\ud83c\uddf7",
-    "rarity_score": 10,
-    "colors": [
-      "blue",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 10400720,
+    "rarity_score": 37.3,
+    "colors": []
+  },
+  {
+    "name": "Greenland",
+    "code": "gl",
+    "flag_url": "https://flagcdn.com/gl.svg",
+    "continent": "North America",
+    "capital": "Nuuk",
+    "population": 56542,
+    "rarity_score": 65.6,
+    "colors": []
   },
   {
     "name": "Grenada",
     "code": "gd",
-    "capital": "Saint George's",
-    "flag_emoji": "\ud83c\uddec\ud83c\udde9",
-    "rarity_score": 70,
-    "colors": [
-      "black",
-      "orange",
-      "red"
-    ],
-    "continent": "Americas"
+    "flag_url": "https://flagcdn.com/gd.svg",
+    "continent": "North America",
+    "capital": "St. George's",
+    "population": 109021,
+    "rarity_score": 62.0,
+    "colors": []
+  },
+  {
+    "name": "Guadeloupe",
+    "code": "gp",
+    "flag_url": "https://flagcdn.com/gp.svg",
+    "continent": "North America",
+    "capital": "Basse-Terre",
+    "population": 378561,
+    "rarity_score": 55.3,
+    "colors": []
+  },
+  {
+    "name": "Guam",
+    "code": "gu",
+    "flag_url": "https://flagcdn.com/gu.svg",
+    "continent": "Oceania",
+    "capital": "Hag\u00e5t\u00f1a",
+    "population": 153836,
+    "rarity_score": 60.2,
+    "colors": []
   },
   {
     "name": "Guatemala",
     "code": "gt",
+    "flag_url": "https://flagcdn.com/gt.svg",
+    "continent": "North America",
     "capital": "Guatemala City",
-    "flag_emoji": "\ud83c\uddec\ud83c\uddf9",
-    "rarity_score": 30,
-    "colors": [
-      "blue",
-      "brown",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 18079810,
+    "rarity_score": 34.3,
+    "colors": []
+  },
+  {
+    "name": "Guernsey",
+    "code": "gg",
+    "flag_url": "https://flagcdn.com/gg.svg",
+    "continent": "Europe",
+    "capital": "St. Peter Port",
+    "population": 64781,
+    "rarity_score": 64.9,
+    "colors": []
   },
   {
     "name": "Guinea",
     "code": "gn",
+    "flag_url": "https://flagcdn.com/gn.svg",
+    "continent": "Africa",
     "capital": "Conakry",
-    "flag_emoji": "\ud83c\uddec\ud83c\uddf3",
-    "rarity_score": 50,
-    "colors": [
-      "green",
-      "orange",
-      "red"
-    ],
-    "continent": "Africa"
+    "population": 14363931,
+    "rarity_score": 35.5,
+    "colors": []
   },
   {
     "name": "Guinea-Bissau",
     "code": "gw",
+    "flag_url": "https://flagcdn.com/gw.svg",
+    "continent": "Africa",
     "capital": "Bissau",
-    "flag_emoji": "\ud83c\uddec\ud83c\uddfc",
-    "rarity_score": 72,
-    "colors": [
-      "black",
-      "green",
-      "orange",
-      "red"
-    ],
-    "continent": "Africa"
+    "population": 1781308,
+    "rarity_score": 46.9,
+    "colors": []
   },
   {
     "name": "Guyana",
     "code": "gy",
+    "flag_url": "https://flagcdn.com/gy.svg",
+    "continent": "South America",
     "capital": "Georgetown",
-    "flag_emoji": "\ud83c\uddec\ud83c\uddfe",
-    "rarity_score": 55,
-    "colors": [
-      "green",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 772975,
+    "rarity_score": 51.4,
+    "colors": []
   },
   {
     "name": "Haiti",
     "code": "ht",
+    "flag_url": "https://flagcdn.com/ht.svg",
+    "continent": "North America",
     "capital": "Port-au-Prince",
-    "flag_emoji": "\ud83c\udded\ud83c\uddf9",
-    "rarity_score": 35,
-    "colors": [
-      "black",
-      "blue",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 11867032,
+    "rarity_score": 36.6,
+    "colors": []
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "code": "hm",
+    "flag_url": "https://flagcdn.com/hm.svg",
+    "continent": "Antarctica",
+    "capital": "Unknown",
+    "population": 0,
+    "rarity_score": 100.0,
+    "colors": []
   },
   {
     "name": "Honduras",
     "code": "hn",
+    "flag_url": "https://flagcdn.com/hn.svg",
+    "continent": "North America",
     "capital": "Tegucigalpa",
-    "flag_emoji": "\ud83c\udded\ud83c\uddf3",
-    "rarity_score": 35,
-    "colors": [
-      "blue",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 9892632,
+    "rarity_score": 37.6,
+    "colors": []
+  },
+  {
+    "name": "Hong Kong",
+    "code": "hk",
+    "flag_url": "https://flagcdn.com/hk.svg",
+    "continent": "Asia",
+    "capital": "City of Victoria",
+    "population": 7527500,
+    "rarity_score": 39.0,
+    "colors": []
   },
   {
     "name": "Hungary",
     "code": "hu",
+    "flag_url": "https://flagcdn.com/hu.svg",
+    "continent": "Europe",
     "capital": "Budapest",
-    "flag_emoji": "\ud83c\udded\ud83c\uddfa",
-    "rarity_score": 15,
-    "colors": [
-      "brown",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 9539502,
+    "rarity_score": 37.8,
+    "colors": []
   },
   {
     "name": "Iceland",
     "code": "is",
+    "flag_url": "https://flagcdn.com/is.svg",
+    "continent": "Europe",
     "capital": "Reykjavik",
-    "flag_emoji": "\ud83c\uddee\ud83c\uddf8",
-    "rarity_score": 28,
-    "colors": [
-      "blue",
-      "red",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 391810,
+    "rarity_score": 55.1,
+    "colors": []
   },
   {
     "name": "India",
     "code": "in",
+    "flag_url": "https://flagcdn.com/in.svg",
+    "continent": "Asia",
     "capital": "New Delhi",
-    "flag_emoji": "\ud83c\uddee\ud83c\uddf3",
-    "rarity_score": 5,
-    "colors": [
-      "blue",
-      "green",
-      "orange",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 1417492000,
+    "rarity_score": 10.6,
+    "colors": []
   },
   {
     "name": "Indonesia",
     "code": "id",
+    "flag_url": "https://flagcdn.com/id.svg",
+    "continent": "Asia",
     "capital": "Jakarta",
-    "flag_emoji": "\ud83c\uddee\ud83c\udde9",
-    "rarity_score": 8,
-    "colors": [
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 284438782,
+    "rarity_score": 19.3,
+    "colors": []
   },
   {
     "name": "Iran",
     "code": "ir",
+    "flag_url": "https://flagcdn.com/ir.svg",
+    "continent": "Asia",
     "capital": "Tehran",
-    "flag_emoji": "\ud83c\uddee\ud83c\uddf7",
-    "rarity_score": 15,
-    "colors": [
-      "green",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 85961000,
+    "rarity_score": 25.8,
+    "colors": []
   },
   {
     "name": "Iraq",
     "code": "iq",
+    "flag_url": "https://flagcdn.com/iq.svg",
+    "continent": "Asia",
     "capital": "Baghdad",
-    "flag_emoji": "\ud83c\uddee\ud83c\uddf6",
-    "rarity_score": 18,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 46118793,
+    "rarity_score": 29.2,
+    "colors": []
   },
   {
     "name": "Ireland",
     "code": "ie",
+    "flag_url": "https://flagcdn.com/ie.svg",
+    "continent": "Europe",
     "capital": "Dublin",
-    "flag_emoji": "\ud83c\uddee\ud83c\uddea",
-    "rarity_score": 10,
-    "colors": [
-      "green",
-      "orange",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 5458600,
+    "rarity_score": 40.8,
+    "colors": []
+  },
+  {
+    "name": "Isle of Man",
+    "code": "im",
+    "flag_url": "https://flagcdn.com/im.svg",
+    "continent": "Europe",
+    "capital": "Douglas",
+    "population": 84530,
+    "rarity_score": 63.4,
+    "colors": []
   },
   {
     "name": "Israel",
     "code": "il",
+    "flag_url": "https://flagcdn.com/il.svg",
+    "continent": "Asia",
     "capital": "Jerusalem",
-    "flag_emoji": "\ud83c\uddee\ud83c\uddf1",
-    "rarity_score": 15,
-    "colors": [
-      "blue",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 10134800,
+    "rarity_score": 37.4,
+    "colors": []
   },
   {
     "name": "Italy",
     "code": "it",
+    "flag_url": "https://flagcdn.com/it.svg",
+    "continent": "Europe",
     "capital": "Rome",
-    "flag_emoji": "\ud83c\uddee\ud83c\uddf9",
-    "rarity_score": 5,
-    "colors": [
-      "brown",
-      "green",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 58927633,
+    "rarity_score": 27.9,
+    "colors": []
+  },
+  {
+    "name": "Ivory Coast",
+    "code": "ci",
+    "flag_url": "https://flagcdn.com/ci.svg",
+    "continent": "Africa",
+    "capital": "Yamoussoukro",
+    "population": 31719275,
+    "rarity_score": 31.2,
+    "colors": []
   },
   {
     "name": "Jamaica",
     "code": "jm",
+    "flag_url": "https://flagcdn.com/jm.svg",
+    "continent": "North America",
     "capital": "Kingston",
-    "flag_emoji": "\ud83c\uddef\ud83c\uddf2",
-    "rarity_score": 25,
-    "colors": [
-      "black",
-      "green",
-      "orange"
-    ],
-    "continent": "Americas"
+    "population": 2825544,
+    "rarity_score": 44.4,
+    "colors": []
   },
   {
     "name": "Japan",
     "code": "jp",
+    "flag_url": "https://flagcdn.com/jp.svg",
+    "continent": "Asia",
     "capital": "Tokyo",
-    "flag_emoji": "\ud83c\uddef\ud83c\uddf5",
-    "rarity_score": 5,
-    "colors": [
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 123210000,
+    "rarity_score": 23.9,
+    "colors": []
+  },
+  {
+    "name": "Jersey",
+    "code": "je",
+    "flag_url": "https://flagcdn.com/je.svg",
+    "continent": "Europe",
+    "capital": "Saint Helier",
+    "population": 103267,
+    "rarity_score": 62.3,
+    "colors": []
   },
   {
     "name": "Jordan",
     "code": "jo",
+    "flag_url": "https://flagcdn.com/jo.svg",
+    "continent": "Asia",
     "capital": "Amman",
-    "flag_emoji": "\ud83c\uddef\ud83c\uddf4",
-    "rarity_score": 28,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 11734000,
+    "rarity_score": 36.6,
+    "colors": []
   },
   {
     "name": "Kazakhstan",
     "code": "kz",
+    "flag_url": "https://flagcdn.com/kz.svg",
+    "continent": "Asia",
     "capital": "Astana",
-    "flag_emoji": "\ud83c\uddf0\ud83c\uddff",
-    "rarity_score": 35,
-    "colors": [
-      "blue",
-      "orange"
-    ],
-    "continent": "Asia"
+    "population": 20426568,
+    "rarity_score": 33.6,
+    "colors": []
   },
   {
     "name": "Kenya",
     "code": "ke",
+    "flag_url": "https://flagcdn.com/ke.svg",
+    "continent": "Africa",
     "capital": "Nairobi",
-    "flag_emoji": "\ud83c\uddf0\ud83c\uddea",
-    "rarity_score": 22,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 53330978,
+    "rarity_score": 28.4,
+    "colors": []
   },
   {
     "name": "Kiribati",
     "code": "ki",
+    "flag_url": "https://flagcdn.com/ki.svg",
+    "continent": "Oceania",
     "capital": "South Tarawa",
-    "flag_emoji": "\ud83c\uddf0\ud83c\uddee",
-    "rarity_score": 90,
-    "colors": [
-      "orange",
-      "purple",
-      "red",
-      "white"
-    ],
-    "continent": "Oceania"
+    "population": 120740,
+    "rarity_score": 61.5,
+    "colors": []
+  },
+  {
+    "name": "Kosovo",
+    "code": "xk",
+    "flag_url": "https://flagcdn.com/xk.svg",
+    "continent": "Europe",
+    "capital": "Pristina",
+    "population": 1585566,
+    "rarity_score": 47.5,
+    "colors": []
   },
   {
     "name": "Kuwait",
     "code": "kw",
+    "flag_url": "https://flagcdn.com/kw.svg",
+    "continent": "Asia",
     "capital": "Kuwait City",
-    "flag_emoji": "\ud83c\uddf0\ud83c\uddfc",
-    "rarity_score": 35,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 4881254,
+    "rarity_score": 41.4,
+    "colors": []
   },
   {
     "name": "Kyrgyzstan",
     "code": "kg",
+    "flag_url": "https://flagcdn.com/kg.svg",
+    "continent": "Asia",
     "capital": "Bishkek",
-    "flag_emoji": "\ud83c\uddf0\ud83c\uddec",
-    "rarity_score": 60,
-    "colors": [
-      "red",
-      "yellow"
-    ],
-    "continent": "Asia"
+    "population": 7281800,
+    "rarity_score": 39.2,
+    "colors": []
   },
   {
     "name": "Laos",
     "code": "la",
+    "flag_url": "https://flagcdn.com/la.svg",
+    "continent": "Asia",
     "capital": "Vientiane",
-    "flag_emoji": "\ud83c\uddf1\ud83c\udde6",
-    "rarity_score": 45,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 7647000,
+    "rarity_score": 39.0,
+    "colors": []
   },
   {
     "name": "Latvia",
     "code": "lv",
+    "flag_url": "https://flagcdn.com/lv.svg",
+    "continent": "Europe",
     "capital": "Riga",
-    "flag_emoji": "\ud83c\uddf1\ud83c\uddfb",
-    "rarity_score": 30,
-    "colors": [
-      "brown",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 1829000,
+    "rarity_score": 46.7,
+    "colors": []
   },
   {
     "name": "Lebanon",
     "code": "lb",
+    "flag_url": "https://flagcdn.com/lb.svg",
+    "continent": "Asia",
     "capital": "Beirut",
-    "flag_emoji": "\ud83c\uddf1\ud83c\udde7",
-    "rarity_score": 25,
-    "colors": [
-      "green",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 5490000,
+    "rarity_score": 40.8,
+    "colors": []
   },
   {
     "name": "Lesotho",
     "code": "ls",
+    "flag_url": "https://flagcdn.com/ls.svg",
+    "continent": "Africa",
     "capital": "Maseru",
-    "flag_emoji": "\ud83c\uddf1\ud83c\uddf8",
-    "rarity_score": 70,
-    "colors": [
-      "black",
-      "blue",
-      "green",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 2116427,
+    "rarity_score": 45.9,
+    "colors": []
   },
   {
     "name": "Liberia",
     "code": "lr",
+    "flag_url": "https://flagcdn.com/lr.svg",
+    "continent": "Africa",
     "capital": "Monrovia",
-    "flag_emoji": "\ud83c\uddf1\ud83c\uddf7",
-    "rarity_score": 45,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 5248621,
+    "rarity_score": 41.0,
+    "colors": []
   },
   {
     "name": "Libya",
     "code": "ly",
+    "flag_url": "https://flagcdn.com/ly.svg",
+    "continent": "Africa",
     "capital": "Tripoli",
-    "flag_emoji": "\ud83c\uddf1\ud83c\uddfe",
-    "rarity_score": 35,
-    "colors": [
-      "black",
-      "green",
-      "red",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 7459000,
+    "rarity_score": 39.1,
+    "colors": []
   },
   {
     "name": "Liechtenstein",
     "code": "li",
+    "flag_url": "https://flagcdn.com/li.svg",
+    "continent": "Europe",
     "capital": "Vaduz",
-    "flag_emoji": "\ud83c\uddf1\ud83c\uddee",
-    "rarity_score": 80,
-    "colors": [
-      "black",
-      "red",
-      "yellow"
-    ],
-    "continent": "Europe"
+    "population": 40900,
+    "rarity_score": 67.4,
+    "colors": []
   },
   {
     "name": "Lithuania",
     "code": "lt",
+    "flag_url": "https://flagcdn.com/lt.svg",
+    "continent": "Europe",
     "capital": "Vilnius",
-    "flag_emoji": "\ud83c\uddf1\ud83c\uddf9",
-    "rarity_score": 28,
-    "colors": [
-      "black",
-      "brown",
-      "orange"
-    ],
-    "continent": "Europe"
+    "population": 2894886,
+    "rarity_score": 44.2,
+    "colors": []
   },
   {
     "name": "Luxembourg",
     "code": "lu",
-    "capital": "Luxembourg City",
-    "flag_emoji": "\ud83c\uddf1\ud83c\uddfa",
-    "rarity_score": 40,
-    "colors": [
-      "blue",
-      "red",
-      "white"
-    ],
-    "continent": "Europe"
+    "flag_url": "https://flagcdn.com/lu.svg",
+    "continent": "Europe",
+    "capital": "Luxembourg",
+    "population": 681973,
+    "rarity_score": 52.1,
+    "colors": []
+  },
+  {
+    "name": "Macau",
+    "code": "mo",
+    "flag_url": "https://flagcdn.com/mo.svg",
+    "continent": "Asia",
+    "capital": "Unknown",
+    "population": 685900,
+    "rarity_score": 52.0,
+    "colors": []
   },
   {
     "name": "Madagascar",
     "code": "mg",
+    "flag_url": "https://flagcdn.com/mg.svg",
+    "continent": "Africa",
     "capital": "Antananarivo",
-    "flag_emoji": "\ud83c\uddf2\ud83c\uddec",
-    "rarity_score": 50,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 31727042,
+    "rarity_score": 31.2,
+    "colors": []
   },
   {
     "name": "Malawi",
     "code": "mw",
+    "flag_url": "https://flagcdn.com/mw.svg",
+    "continent": "Africa",
     "capital": "Lilongwe",
-    "flag_emoji": "\ud83c\uddf2\ud83c\uddfc",
-    "rarity_score": 55,
-    "colors": [
-      "black",
-      "green",
-      "red"
-    ],
-    "continent": "Africa"
+    "population": 20734262,
+    "rarity_score": 33.5,
+    "colors": []
   },
   {
     "name": "Malaysia",
     "code": "my",
+    "flag_url": "https://flagcdn.com/my.svg",
+    "continent": "Asia",
     "capital": "Kuala Lumpur",
-    "flag_emoji": "\ud83c\uddf2\ud83c\uddfe",
-    "rarity_score": 18,
-    "colors": [
-      "black",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 34231700,
+    "rarity_score": 30.8,
+    "colors": []
   },
   {
     "name": "Maldives",
     "code": "mv",
+    "flag_url": "https://flagcdn.com/mv.svg",
+    "continent": "Asia",
     "capital": "Mal\u00e9",
-    "flag_emoji": "\ud83c\uddf2\ud83c\uddfb",
-    "rarity_score": 55,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 515132,
+    "rarity_score": 53.6,
+    "colors": []
   },
   {
     "name": "Mali",
     "code": "ml",
+    "flag_url": "https://flagcdn.com/ml.svg",
+    "continent": "Africa",
     "capital": "Bamako",
-    "flag_emoji": "\ud83c\uddf2\ud83c\uddf1",
-    "rarity_score": 40,
-    "colors": [
-      "green",
-      "orange",
-      "red"
-    ],
-    "continent": "Africa"
+    "population": 22395489,
+    "rarity_score": 33.1,
+    "colors": []
   },
   {
     "name": "Malta",
     "code": "mt",
+    "flag_url": "https://flagcdn.com/mt.svg",
+    "continent": "Europe",
     "capital": "Valletta",
-    "flag_emoji": "\ud83c\uddf2\ud83c\uddf9",
-    "rarity_score": 45,
-    "colors": [
-      "red",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 574250,
+    "rarity_score": 53.0,
+    "colors": []
   },
   {
     "name": "Marshall Islands",
     "code": "mh",
+    "flag_url": "https://flagcdn.com/mh.svg",
+    "continent": "Oceania",
     "capital": "Majuro",
-    "flag_emoji": "\ud83c\uddf2\ud83c\udded",
-    "rarity_score": 88,
-    "colors": [
-      "blue",
-      "orange",
-      "white"
-    ],
-    "continent": "Oceania"
+    "population": 42418,
+    "rarity_score": 67.2,
+    "colors": []
+  },
+  {
+    "name": "Martinique",
+    "code": "mq",
+    "flag_url": "https://flagcdn.com/mq.svg",
+    "continent": "North America",
+    "capital": "Fort-de-France",
+    "population": 349925,
+    "rarity_score": 55.7,
+    "colors": []
   },
   {
     "name": "Mauritania",
     "code": "mr",
+    "flag_url": "https://flagcdn.com/mr.svg",
+    "continent": "Africa",
     "capital": "Nouakchott",
-    "flag_emoji": "\ud83c\uddf2\ud83c\uddf7",
-    "rarity_score": 65,
-    "colors": [
-      "green",
-      "red",
-      "yellow"
-    ],
-    "continent": "Africa"
+    "population": 4927532,
+    "rarity_score": 41.3,
+    "colors": []
   },
   {
     "name": "Mauritius",
     "code": "mu",
+    "flag_url": "https://flagcdn.com/mu.svg",
+    "continent": "Africa",
     "capital": "Port Louis",
-    "flag_emoji": "\ud83c\uddf2\ud83c\uddfa",
-    "rarity_score": 60,
-    "colors": [
-      "green",
-      "purple",
-      "red",
-      "yellow"
-    ],
-    "continent": "Africa"
+    "population": 1243741,
+    "rarity_score": 48.8,
+    "colors": []
+  },
+  {
+    "name": "Mayotte",
+    "code": "yt",
+    "flag_url": "https://flagcdn.com/yt.svg",
+    "continent": "Africa",
+    "capital": "Mamoudzou",
+    "population": 320901,
+    "rarity_score": 56.2,
+    "colors": []
   },
   {
     "name": "Mexico",
     "code": "mx",
+    "flag_url": "https://flagcdn.com/mx.svg",
+    "continent": "North America",
     "capital": "Mexico City",
-    "flag_emoji": "\ud83c\uddf2\ud83c\uddfd",
-    "rarity_score": 5,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 130575786,
+    "rarity_score": 23.6,
+    "colors": []
   },
   {
     "name": "Micronesia",
     "code": "fm",
+    "flag_url": "https://flagcdn.com/fm.svg",
+    "continent": "Oceania",
     "capital": "Palikir",
-    "flag_emoji": "\ud83c\uddeb\ud83c\uddf2",
-    "rarity_score": 85,
-    "colors": [
-      "white"
-    ],
-    "continent": "Oceania"
+    "population": 105564,
+    "rarity_score": 62.2,
+    "colors": []
   },
   {
     "name": "Moldova",
     "code": "md",
+    "flag_url": "https://flagcdn.com/md.svg",
+    "continent": "Europe",
     "capital": "Chi\u0219in\u0103u",
-    "flag_emoji": "\ud83c\uddf2\ud83c\udde9",
-    "rarity_score": 45,
-    "colors": [
-      "blue",
-      "brown",
-      "orange",
-      "red"
-    ],
-    "continent": "Europe"
+    "population": 2749076,
+    "rarity_score": 44.5,
+    "colors": []
   },
   {
     "name": "Monaco",
     "code": "mc",
+    "flag_url": "https://flagcdn.com/mc.svg",
+    "continent": "Europe",
     "capital": "Monaco",
-    "flag_emoji": "\ud83c\uddf2\ud83c\udde8",
-    "rarity_score": 40,
-    "colors": [
-      "red",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 38423,
+    "rarity_score": 67.7,
+    "colors": []
   },
   {
     "name": "Mongolia",
     "code": "mn",
-    "capital": "Ulaanbaatar",
-    "flag_emoji": "\ud83c\uddf2\ud83c\uddf3",
-    "rarity_score": 50,
-    "colors": [
-      "blue",
-      "red",
-      "yellow"
-    ],
-    "continent": "Asia"
+    "flag_url": "https://flagcdn.com/mn.svg",
+    "continent": "Asia",
+    "capital": "Ulan Bator",
+    "population": 3544835,
+    "rarity_score": 43.1,
+    "colors": []
   },
   {
     "name": "Montenegro",
     "code": "me",
+    "flag_url": "https://flagcdn.com/me.svg",
+    "continent": "Europe",
     "capital": "Podgorica",
-    "flag_emoji": "\ud83c\uddf2\ud83c\uddea",
-    "rarity_score": 48,
-    "colors": [
-      "brown",
-      "orange",
-      "purple",
-      "red"
-    ],
-    "continent": "Europe"
+    "population": 623327,
+    "rarity_score": 52.6,
+    "colors": []
+  },
+  {
+    "name": "Montserrat",
+    "code": "ms",
+    "flag_url": "https://flagcdn.com/ms.svg",
+    "continent": "North America",
+    "capital": "Plymouth",
+    "population": 4386,
+    "rarity_score": 79.5,
+    "colors": []
   },
   {
     "name": "Morocco",
     "code": "ma",
+    "flag_url": "https://flagcdn.com/ma.svg",
+    "continent": "Africa",
     "capital": "Rabat",
-    "flag_emoji": "\ud83c\uddf2\ud83c\udde6",
-    "rarity_score": 18,
-    "colors": [
-      "black",
-      "brown"
-    ],
-    "continent": "Africa"
+    "population": 36828330,
+    "rarity_score": 30.4,
+    "colors": []
   },
   {
     "name": "Mozambique",
     "code": "mz",
+    "flag_url": "https://flagcdn.com/mz.svg",
+    "continent": "Africa",
     "capital": "Maputo",
-    "flag_emoji": "\ud83c\uddf2\ud83c\uddff",
-    "rarity_score": 60,
-    "colors": [
-      "black",
-      "red",
-      "white",
-      "yellow"
-    ],
-    "continent": "Africa"
+    "population": 34090466,
+    "rarity_score": 30.8,
+    "colors": []
   },
   {
     "name": "Myanmar",
     "code": "mm",
+    "flag_url": "https://flagcdn.com/mm.svg",
+    "continent": "Asia",
     "capital": "Naypyidaw",
-    "flag_emoji": "\ud83c\uddf2\ud83c\uddf2",
-    "rarity_score": 35,
-    "colors": [
-      "green",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 51316756,
+    "rarity_score": 28.6,
+    "colors": []
   },
   {
     "name": "Namibia",
     "code": "na",
+    "flag_url": "https://flagcdn.com/na.svg",
+    "continent": "Africa",
     "capital": "Windhoek",
-    "flag_emoji": "\ud83c\uddf3\ud83c\udde6",
-    "rarity_score": 45,
-    "colors": [
-      "blue",
-      "green",
-      "orange",
-      "red"
-    ],
-    "continent": "Africa"
+    "population": 3022401,
+    "rarity_score": 44.0,
+    "colors": []
   },
   {
     "name": "Nauru",
     "code": "nr",
+    "flag_url": "https://flagcdn.com/nr.svg",
+    "continent": "Oceania",
     "capital": "Yaren",
-    "flag_emoji": "\ud83c\uddf3\ud83c\uddf7",
-    "rarity_score": 92,
-    "colors": [
-      "black",
-      "orange",
-      "white"
-    ],
-    "continent": "Oceania"
+    "population": 11680,
+    "rarity_score": 74.2,
+    "colors": []
   },
   {
     "name": "Nepal",
     "code": "np",
+    "flag_url": "https://flagcdn.com/np.svg",
+    "continent": "Asia",
     "capital": "Kathmandu",
-    "flag_emoji": "\ud83c\uddf3\ud83c\uddf5",
-    "rarity_score": 55,
-    "colors": [
-      "blue",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 29911840,
+    "rarity_score": 31.6,
+    "colors": []
   },
   {
     "name": "Netherlands",
     "code": "nl",
+    "flag_url": "https://flagcdn.com/nl.svg",
+    "continent": "Europe",
     "capital": "Amsterdam",
-    "flag_emoji": "\ud83c\uddf3\ud83c\uddf1",
-    "rarity_score": 8,
-    "colors": [
-      "brown",
-      "purple",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 18100436,
+    "rarity_score": 34.3,
+    "colors": []
+  },
+  {
+    "name": "New Caledonia",
+    "code": "nc",
+    "flag_url": "https://flagcdn.com/nc.svg",
+    "continent": "Oceania",
+    "capital": "Noum\u00e9a",
+    "population": 264596,
+    "rarity_score": 57.2,
+    "colors": []
   },
   {
     "name": "New Zealand",
     "code": "nz",
+    "flag_url": "https://flagcdn.com/nz.svg",
+    "continent": "Oceania",
     "capital": "Wellington",
-    "flag_emoji": "\ud83c\uddf3\ud83c\uddff",
-    "rarity_score": 12,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Oceania"
+    "population": 5324700,
+    "rarity_score": 40.9,
+    "colors": []
   },
   {
     "name": "Nicaragua",
     "code": "ni",
+    "flag_url": "https://flagcdn.com/ni.svg",
+    "continent": "North America",
     "capital": "Managua",
-    "flag_emoji": "\ud83c\uddf3\ud83c\uddee",
-    "rarity_score": 40,
-    "colors": [
-      "blue",
-      "orange",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 6803886,
+    "rarity_score": 39.6,
+    "colors": []
   },
   {
     "name": "Niger",
     "code": "ne",
+    "flag_url": "https://flagcdn.com/ne.svg",
+    "continent": "Africa",
     "capital": "Niamey",
-    "flag_emoji": "\ud83c\uddf3\ud83c\uddea",
-    "rarity_score": 55,
-    "colors": [
-      "brown",
-      "green",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 26312034,
+    "rarity_score": 32.2,
+    "colors": []
   },
   {
     "name": "Nigeria",
     "code": "ng",
+    "flag_url": "https://flagcdn.com/ng.svg",
+    "continent": "Africa",
     "capital": "Abuja",
-    "flag_emoji": "\ud83c\uddf3\ud83c\uddec",
-    "rarity_score": 12,
-    "colors": [
-      "green",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 223800000,
+    "rarity_score": 20.6,
+    "colors": []
+  },
+  {
+    "name": "Niue",
+    "code": "nu",
+    "flag_url": "https://flagcdn.com/nu.svg",
+    "continent": "Oceania",
+    "capital": "Alofi",
+    "population": 1681,
+    "rarity_score": 84.7,
+    "colors": []
+  },
+  {
+    "name": "Norfolk Island",
+    "code": "nf",
+    "flag_url": "https://flagcdn.com/nf.svg",
+    "continent": "Oceania",
+    "capital": "Kingston",
+    "population": 2188,
+    "rarity_score": 83.2,
+    "colors": []
   },
   {
     "name": "North Korea",
     "code": "kp",
+    "flag_url": "https://flagcdn.com/kp.svg",
+    "continent": "Asia",
     "capital": "Pyongyang",
-    "flag_emoji": "\ud83c\uddf0\ud83c\uddf5",
-    "rarity_score": 45,
-    "colors": [
-      "blue",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 25950000,
+    "rarity_score": 32.3,
+    "colors": []
   },
   {
     "name": "North Macedonia",
     "code": "mk",
+    "flag_url": "https://flagcdn.com/mk.svg",
+    "continent": "Europe",
     "capital": "Skopje",
-    "flag_emoji": "\ud83c\uddf2\ud83c\uddf0",
-    "rarity_score": 55,
-    "colors": [
-      "red",
-      "yellow"
-    ],
-    "continent": "Europe"
+    "population": 1822612,
+    "rarity_score": 46.7,
+    "colors": []
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "code": "mp",
+    "flag_url": "https://flagcdn.com/mp.svg",
+    "continent": "Oceania",
+    "capital": "Saipan",
+    "population": 47329,
+    "rarity_score": 66.6,
+    "colors": []
   },
   {
     "name": "Norway",
     "code": "no",
+    "flag_url": "https://flagcdn.com/no.svg",
+    "continent": "Europe",
     "capital": "Oslo",
-    "flag_emoji": "\ud83c\uddf3\ud83c\uddf4",
-    "rarity_score": 8,
-    "colors": [
-      "black",
-      "brown",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 5606944,
+    "rarity_score": 40.6,
+    "colors": []
   },
   {
     "name": "Oman",
     "code": "om",
+    "flag_url": "https://flagcdn.com/om.svg",
+    "continent": "Asia",
     "capital": "Muscat",
-    "flag_emoji": "\ud83c\uddf4\ud83c\uddf2",
-    "rarity_score": 40,
-    "colors": [
-      "green",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 5343630,
+    "rarity_score": 40.9,
+    "colors": []
   },
   {
     "name": "Pakistan",
     "code": "pk",
+    "flag_url": "https://flagcdn.com/pk.svg",
+    "continent": "Asia",
     "capital": "Islamabad",
-    "flag_emoji": "\ud83c\uddf5\ud83c\uddf0",
-    "rarity_score": 12,
-    "colors": [
-      "black",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 241499431,
+    "rarity_score": 20.2,
+    "colors": []
   },
   {
     "name": "Palau",
     "code": "pw",
+    "flag_url": "https://flagcdn.com/pw.svg",
+    "continent": "Oceania",
     "capital": "Ngerulmud",
-    "flag_emoji": "\ud83c\uddf5\ud83c\uddfc",
-    "rarity_score": 82,
-    "colors": [
-      "blue",
-      "yellow"
-    ],
-    "continent": "Oceania"
+    "population": 16733,
+    "rarity_score": 72.2,
+    "colors": []
   },
   {
     "name": "Palestine",
     "code": "ps",
+    "flag_url": "https://flagcdn.com/ps.svg",
+    "continent": "Asia",
     "capital": "Ramallah",
-    "flag_emoji": "\ud83c\uddf5\ud83c\uddf8",
-    "rarity_score": 30,
-    "colors": [
-      "black",
-      "brown",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 5483450,
+    "rarity_score": 40.8,
+    "colors": []
   },
   {
     "name": "Panama",
     "code": "pa",
+    "flag_url": "https://flagcdn.com/pa.svg",
+    "continent": "North America",
     "capital": "Panama City",
-    "flag_emoji": "\ud83c\uddf5\ud83c\udde6",
-    "rarity_score": 28,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 4064780,
+    "rarity_score": 42.4,
+    "colors": []
   },
   {
     "name": "Papua New Guinea",
     "code": "pg",
+    "flag_url": "https://flagcdn.com/pg.svg",
+    "continent": "Oceania",
     "capital": "Port Moresby",
-    "flag_emoji": "\ud83c\uddf5\ud83c\uddec",
-    "rarity_score": 55,
-    "colors": [
-      "black",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Oceania"
+    "population": 11781559,
+    "rarity_score": 36.6,
+    "colors": []
   },
   {
     "name": "Paraguay",
     "code": "py",
+    "flag_url": "https://flagcdn.com/py.svg",
+    "continent": "South America",
     "capital": "Asunci\u00f3n",
-    "flag_emoji": "\ud83c\uddf5\ud83c\uddfe",
-    "rarity_score": 40,
-    "colors": [
-      "blue",
-      "green",
-      "red",
-      "white",
-      "yellow"
-    ],
-    "continent": "Americas"
+    "population": 6109644,
+    "rarity_score": 40.2,
+    "colors": []
   },
   {
     "name": "Peru",
     "code": "pe",
+    "flag_url": "https://flagcdn.com/pe.svg",
+    "continent": "South America",
     "capital": "Lima",
-    "flag_emoji": "\ud83c\uddf5\ud83c\uddea",
-    "rarity_score": 15,
-    "colors": [
-      "red",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 34350244,
+    "rarity_score": 30.8,
+    "colors": []
   },
   {
     "name": "Philippines",
     "code": "ph",
+    "flag_url": "https://flagcdn.com/ph.svg",
+    "continent": "Asia",
     "capital": "Manila",
-    "flag_emoji": "\ud83c\uddf5\ud83c\udded",
-    "rarity_score": 18,
-    "colors": [
-      "blue",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 114123600,
+    "rarity_score": 24.3,
+    "colors": []
+  },
+  {
+    "name": "Pitcairn Islands",
+    "code": "pn",
+    "flag_url": "https://flagcdn.com/pn.svg",
+    "continent": "Oceania",
+    "capital": "Adamstown",
+    "population": 35,
+    "rarity_score": 100.0,
+    "colors": []
   },
   {
     "name": "Poland",
     "code": "pl",
+    "flag_url": "https://flagcdn.com/pl.svg",
+    "continent": "Europe",
     "capital": "Warsaw",
-    "flag_emoji": "\ud83c\uddf5\ud83c\uddf1",
-    "rarity_score": 10,
-    "colors": [
-      "red",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 37392000,
+    "rarity_score": 30.3,
+    "colors": []
   },
   {
     "name": "Portugal",
     "code": "pt",
+    "flag_url": "https://flagcdn.com/pt.svg",
+    "continent": "Europe",
     "capital": "Lisbon",
-    "flag_emoji": "\ud83c\uddf5\ud83c\uddf9",
-    "rarity_score": 10,
-    "colors": [
-      "black",
-      "blue",
-      "red",
-      "white",
-      "yellow"
-    ],
-    "continent": "Europe"
+    "population": 10749635,
+    "rarity_score": 37.1,
+    "colors": []
+  },
+  {
+    "name": "Puerto Rico",
+    "code": "pr",
+    "flag_url": "https://flagcdn.com/pr.svg",
+    "continent": "North America",
+    "capital": "San Juan",
+    "population": 3203295,
+    "rarity_score": 43.7,
+    "colors": []
   },
   {
     "name": "Qatar",
     "code": "qa",
+    "flag_url": "https://flagcdn.com/qa.svg",
+    "continent": "Asia",
     "capital": "Doha",
-    "flag_emoji": "\ud83c\uddf6\ud83c\udde6",
-    "rarity_score": 35,
-    "colors": [
-      "brown",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 3173024,
+    "rarity_score": 43.7,
+    "colors": []
+  },
+  {
+    "name": "Republic of the Congo",
+    "code": "cg",
+    "flag_url": "https://flagcdn.com/cg.svg",
+    "continent": "Africa",
+    "capital": "Brazzaville",
+    "population": 6142180,
+    "rarity_score": 40.1,
+    "colors": []
   },
   {
     "name": "Romania",
     "code": "ro",
+    "flag_url": "https://flagcdn.com/ro.svg",
+    "continent": "Europe",
     "capital": "Bucharest",
-    "flag_emoji": "\ud83c\uddf7\ud83c\uddf4",
-    "rarity_score": 15,
-    "colors": [
-      "black",
-      "orange",
-      "red"
-    ],
-    "continent": "Europe"
+    "population": 19036031,
+    "rarity_score": 34.0,
+    "colors": []
   },
   {
     "name": "Russia",
     "code": "ru",
+    "flag_url": "https://flagcdn.com/ru.svg",
+    "continent": "Europe",
     "capital": "Moscow",
-    "flag_emoji": "\ud83c\uddf7\ud83c\uddfa",
-    "rarity_score": 5,
-    "colors": [
-      "blue",
-      "red",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 146028325,
+    "rarity_score": 22.9,
+    "colors": []
   },
   {
     "name": "Rwanda",
     "code": "rw",
+    "flag_url": "https://flagcdn.com/rw.svg",
+    "continent": "Africa",
     "capital": "Kigali",
-    "flag_emoji": "\ud83c\uddf7\ud83c\uddfc",
-    "rarity_score": 60,
-    "colors": [
-      "blue",
-      "brown",
-      "orange"
-    ],
-    "continent": "Africa"
+    "population": 14104969,
+    "rarity_score": 35.6,
+    "colors": []
+  },
+  {
+    "name": "R\u00e9union",
+    "code": "re",
+    "flag_url": "https://flagcdn.com/re.svg",
+    "continent": "Africa",
+    "capital": "Saint-Denis",
+    "population": 896175,
+    "rarity_score": 50.6,
+    "colors": []
+  },
+  {
+    "name": "Saint Barth\u00e9lemy",
+    "code": "bl",
+    "flag_url": "https://flagcdn.com/bl.svg",
+    "continent": "North America",
+    "capital": "Gustavia",
+    "population": 10562,
+    "rarity_score": 74.7,
+    "colors": []
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "code": "sh",
+    "flag_url": "https://flagcdn.com/sh.svg",
+    "continent": "Africa",
+    "capital": "Jamestown",
+    "population": 5651,
+    "rarity_score": 78.1,
+    "colors": []
   },
   {
     "name": "Saint Kitts and Nevis",
     "code": "kn",
+    "flag_url": "https://flagcdn.com/kn.svg",
+    "continent": "North America",
     "capital": "Basseterre",
-    "flag_emoji": "\ud83c\uddf0\ud83c\uddf3",
-    "rarity_score": 80,
-    "colors": [
-      "black",
-      "green",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 51320,
+    "rarity_score": 66.1,
+    "colors": []
   },
   {
     "name": "Saint Lucia",
     "code": "lc",
+    "flag_url": "https://flagcdn.com/lc.svg",
+    "continent": "North America",
     "capital": "Castries",
-    "flag_emoji": "\ud83c\uddf1\ud83c\udde8",
-    "rarity_score": 72,
-    "colors": [
-      "black",
-      "orange",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 184100,
+    "rarity_score": 59.2,
+    "colors": []
+  },
+  {
+    "name": "Saint Martin",
+    "code": "mf",
+    "flag_url": "https://flagcdn.com/mf.svg",
+    "continent": "North America",
+    "capital": "Marigot",
+    "population": 31496,
+    "rarity_score": 68.8,
+    "colors": []
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "code": "pm",
+    "flag_url": "https://flagcdn.com/pm.svg",
+    "continent": "North America",
+    "capital": "Saint-Pierre",
+    "population": 5819,
+    "rarity_score": 77.9,
+    "colors": []
   },
   {
     "name": "Saint Vincent and the Grenadines",
     "code": "vc",
+    "flag_url": "https://flagcdn.com/vc.svg",
+    "continent": "North America",
     "capital": "Kingstown",
-    "flag_emoji": "\ud83c\uddfb\ud83c\udde8",
-    "rarity_score": 75,
-    "colors": [
-      "black",
-      "orange"
-    ],
-    "continent": "Americas"
+    "population": 110872,
+    "rarity_score": 61.9,
+    "colors": []
   },
   {
     "name": "Samoa",
     "code": "ws",
+    "flag_url": "https://flagcdn.com/ws.svg",
+    "continent": "Oceania",
     "capital": "Apia",
-    "flag_emoji": "\ud83c\uddfc\ud83c\uddf8",
-    "rarity_score": 75,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Oceania"
+    "population": 205557,
+    "rarity_score": 58.6,
+    "colors": []
   },
   {
     "name": "San Marino",
     "code": "sm",
-    "capital": "San Marino",
-    "flag_emoji": "\ud83c\uddf8\ud83c\uddf2",
-    "rarity_score": 70,
-    "colors": [
-      "brown",
-      "orange",
-      "white"
-    ],
-    "continent": "Europe"
-  },
-  {
-    "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-    "code": "st",
-    "capital": "S\u00e3o Tom\u00e9",
-    "flag_emoji": "\ud83c\uddf8\ud83c\uddf9",
-    "rarity_score": 82,
-    "colors": [
-      "black",
-      "green",
-      "orange",
-      "red"
-    ],
-    "continent": "Africa"
+    "flag_url": "https://flagcdn.com/sm.svg",
+    "continent": "Europe",
+    "capital": "City of San Marino",
+    "population": 34132,
+    "rarity_score": 68.3,
+    "colors": []
   },
   {
     "name": "Saudi Arabia",
     "code": "sa",
+    "flag_url": "https://flagcdn.com/sa.svg",
+    "continent": "Asia",
     "capital": "Riyadh",
-    "flag_emoji": "\ud83c\uddf8\ud83c\udde6",
-    "rarity_score": 20,
-    "colors": [
-      "black",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 35300280,
+    "rarity_score": 30.7,
+    "colors": []
   },
   {
     "name": "Senegal",
     "code": "sn",
+    "flag_url": "https://flagcdn.com/sn.svg",
+    "continent": "Africa",
     "capital": "Dakar",
-    "flag_emoji": "\ud83c\uddf8\ud83c\uddf3",
-    "rarity_score": 35,
-    "colors": [
-      "green",
-      "red",
-      "yellow"
-    ],
-    "continent": "Africa"
+    "population": 18593258,
+    "rarity_score": 34.1,
+    "colors": []
   },
   {
     "name": "Serbia",
     "code": "rs",
+    "flag_url": "https://flagcdn.com/rs.svg",
+    "continent": "Europe",
     "capital": "Belgrade",
-    "flag_emoji": "\ud83c\uddf7\ud83c\uddf8",
-    "rarity_score": 28,
-    "colors": [
-      "brown",
-      "orange",
-      "purple",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 6567783,
+    "rarity_score": 39.8,
+    "colors": []
   },
   {
     "name": "Seychelles",
     "code": "sc",
+    "flag_url": "https://flagcdn.com/sc.svg",
+    "continent": "Africa",
     "capital": "Victoria",
-    "flag_emoji": "\ud83c\uddf8\ud83c\udde8",
-    "rarity_score": 78,
-    "colors": [
-      "black",
-      "blue",
-      "red",
-      "white",
-      "yellow"
-    ],
-    "continent": "Africa"
+    "population": 122729,
+    "rarity_score": 61.4,
+    "colors": []
   },
   {
     "name": "Sierra Leone",
     "code": "sl",
+    "flag_url": "https://flagcdn.com/sl.svg",
+    "continent": "Africa",
     "capital": "Freetown",
-    "flag_emoji": "\ud83c\uddf8\ud83c\uddf1",
-    "rarity_score": 60,
-    "colors": [
-      "blue",
-      "green",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 9077691,
+    "rarity_score": 38.0,
+    "colors": []
   },
   {
     "name": "Singapore",
     "code": "sg",
+    "flag_url": "https://flagcdn.com/sg.svg",
+    "continent": "Asia",
     "capital": "Singapore",
-    "flag_emoji": "\ud83c\uddf8\ud83c\uddec",
-    "rarity_score": 30,
-    "colors": [
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 6110200,
+    "rarity_score": 40.2,
+    "colors": []
+  },
+  {
+    "name": "Sint Maarten",
+    "code": "sx",
+    "flag_url": "https://flagcdn.com/sx.svg",
+    "continent": "North America",
+    "capital": "Philipsburg",
+    "population": 41349,
+    "rarity_score": 67.3,
+    "colors": []
   },
   {
     "name": "Slovakia",
     "code": "sk",
+    "flag_url": "https://flagcdn.com/sk.svg",
+    "continent": "Europe",
     "capital": "Bratislava",
-    "flag_emoji": "\ud83c\uddf8\ud83c\uddf0",
-    "rarity_score": 28,
-    "colors": [
-      "blue",
-      "red",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 5413813,
+    "rarity_score": 40.8,
+    "colors": []
   },
   {
     "name": "Slovenia",
     "code": "si",
+    "flag_url": "https://flagcdn.com/si.svg",
+    "continent": "Europe",
     "capital": "Ljubljana",
-    "flag_emoji": "\ud83c\uddf8\ud83c\uddee",
-    "rarity_score": 30,
-    "colors": [
-      "blue",
-      "red",
-      "white",
-      "yellow"
-    ],
-    "continent": "Europe"
+    "population": 2130638,
+    "rarity_score": 45.9,
+    "colors": []
   },
   {
     "name": "Solomon Islands",
     "code": "sb",
+    "flag_url": "https://flagcdn.com/sb.svg",
+    "continent": "Oceania",
     "capital": "Honiara",
-    "flag_emoji": "\ud83c\uddf8\ud83c\udde7",
-    "rarity_score": 85,
-    "colors": [
-      "black",
-      "blue",
-      "orange",
-      "white"
-    ],
-    "continent": "Oceania"
+    "population": 750325,
+    "rarity_score": 51.6,
+    "colors": []
   },
   {
     "name": "Somalia",
     "code": "so",
+    "flag_url": "https://flagcdn.com/so.svg",
+    "continent": "Africa",
     "capital": "Mogadishu",
-    "flag_emoji": "\ud83c\uddf8\ud83c\uddf4",
-    "rarity_score": 40,
-    "colors": [
-      "blue",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 19655000,
+    "rarity_score": 33.8,
+    "colors": []
   },
   {
     "name": "South Africa",
     "code": "za",
+    "flag_url": "https://flagcdn.com/za.svg",
+    "continent": "Africa",
     "capital": "Pretoria",
-    "flag_emoji": "\ud83c\uddff\ud83c\udde6",
-    "rarity_score": 18,
-    "colors": [
-      "black",
-      "blue",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 63100945,
+    "rarity_score": 27.5,
+    "colors": []
+  },
+  {
+    "name": "South Georgia",
+    "code": "gs",
+    "flag_url": "https://flagcdn.com/gs.svg",
+    "continent": "Antarctica",
+    "capital": "King Edward Point",
+    "population": 0,
+    "rarity_score": 100.0,
+    "colors": []
   },
   {
     "name": "South Korea",
     "code": "kr",
+    "flag_url": "https://flagcdn.com/kr.svg",
+    "continent": "Asia",
     "capital": "Seoul",
-    "flag_emoji": "\ud83c\uddf0\ud83c\uddf7",
-    "rarity_score": 10,
-    "colors": [
-      "black",
-      "blue",
-      "brown",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 51159889,
+    "rarity_score": 28.6,
+    "colors": []
   },
   {
     "name": "South Sudan",
     "code": "ss",
+    "flag_url": "https://flagcdn.com/ss.svg",
+    "continent": "Africa",
     "capital": "Juba",
-    "flag_emoji": "\ud83c\uddf8\ud83c\uddf8",
-    "rarity_score": 50,
-    "colors": [
-      "black",
-      "blue",
-      "green",
-      "red",
-      "yellow"
-    ],
-    "continent": "Africa"
+    "population": 15786898,
+    "rarity_score": 35.0,
+    "colors": []
   },
   {
     "name": "Spain",
     "code": "es",
+    "flag_url": "https://flagcdn.com/es.svg",
+    "continent": "Europe",
     "capital": "Madrid",
-    "flag_emoji": "\ud83c\uddea\ud83c\uddf8",
-    "rarity_score": 5,
-    "colors": [
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 49315949,
+    "rarity_score": 28.8,
+    "colors": []
   },
   {
     "name": "Sri Lanka",
     "code": "lk",
-    "capital": "Colombo",
-    "flag_emoji": "\ud83c\uddf1\ud83c\uddf0",
-    "rarity_score": 35,
-    "colors": [
-      "black",
-      "brown",
-      "orange"
-    ],
-    "continent": "Asia"
+    "flag_url": "https://flagcdn.com/lk.svg",
+    "continent": "Asia",
+    "capital": "Sri Jayawardenepura Kotte",
+    "population": 21763170,
+    "rarity_score": 33.3,
+    "colors": []
   },
   {
     "name": "Sudan",
     "code": "sd",
+    "flag_url": "https://flagcdn.com/sd.svg",
+    "continent": "Africa",
     "capital": "Khartoum",
-    "flag_emoji": "\ud83c\uddf8\ud83c\udde9",
-    "rarity_score": 40,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 51662000,
+    "rarity_score": 28.6,
+    "colors": []
   },
   {
     "name": "Suriname",
     "code": "sr",
+    "flag_url": "https://flagcdn.com/sr.svg",
+    "continent": "South America",
     "capital": "Paramaribo",
-    "flag_emoji": "\ud83c\uddf8\ud83c\uddf7",
-    "rarity_score": 60,
-    "colors": [
-      "brown",
-      "orange",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 616500,
+    "rarity_score": 52.6,
+    "colors": []
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "code": "sj",
+    "flag_url": "https://flagcdn.com/sj.svg",
+    "continent": "Europe",
+    "capital": "Longyearbyen",
+    "population": 2530,
+    "rarity_score": 82.5,
+    "colors": []
   },
   {
     "name": "Sweden",
     "code": "se",
+    "flag_url": "https://flagcdn.com/se.svg",
+    "continent": "Europe",
     "capital": "Stockholm",
-    "flag_emoji": "\ud83c\uddf8\ud83c\uddea",
-    "rarity_score": 8,
-    "colors": [
-      "blue",
-      "orange"
-    ],
-    "continent": "Europe"
+    "population": 10605098,
+    "rarity_score": 37.2,
+    "colors": []
   },
   {
     "name": "Switzerland",
     "code": "ch",
+    "flag_url": "https://flagcdn.com/ch.svg",
+    "continent": "Europe",
     "capital": "Bern",
-    "flag_emoji": "\ud83c\udde8\ud83c\udded",
-    "rarity_score": 10,
-    "colors": [
-      "red",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 9082848,
+    "rarity_score": 38.0,
+    "colors": []
   },
   {
     "name": "Syria",
     "code": "sy",
+    "flag_url": "https://flagcdn.com/sy.svg",
+    "continent": "Asia",
     "capital": "Damascus",
-    "flag_emoji": "\ud83c\uddf8\ud83c\uddfe",
-    "rarity_score": 28,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 25620000,
+    "rarity_score": 32.4,
+    "colors": []
+  },
+  {
+    "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "code": "st",
+    "flag_url": "https://flagcdn.com/st.svg",
+    "continent": "Africa",
+    "capital": "S\u00e3o Tom\u00e9",
+    "population": 209607,
+    "rarity_score": 58.5,
+    "colors": []
   },
   {
     "name": "Taiwan",
     "code": "tw",
+    "flag_url": "https://flagcdn.com/tw.svg",
+    "continent": "Asia",
     "capital": "Taipei",
-    "flag_emoji": "\ud83c\uddf9\ud83c\uddfc",
-    "rarity_score": 22,
-    "colors": [
-      "blue",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 23317031,
+    "rarity_score": 32.9,
+    "colors": []
   },
   {
     "name": "Tajikistan",
     "code": "tj",
+    "flag_url": "https://flagcdn.com/tj.svg",
+    "continent": "Asia",
     "capital": "Dushanbe",
-    "flag_emoji": "\ud83c\uddf9\ud83c\uddef",
-    "rarity_score": 60,
-    "colors": [
-      "black",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 10499000,
+    "rarity_score": 37.2,
+    "colors": []
   },
   {
     "name": "Tanzania",
     "code": "tz",
+    "flag_url": "https://flagcdn.com/tz.svg",
+    "continent": "Africa",
     "capital": "Dodoma",
-    "flag_emoji": "\ud83c\uddf9\ud83c\uddff",
-    "rarity_score": 35,
-    "colors": [
-      "black",
-      "blue",
-      "green",
-      "orange"
-    ],
-    "continent": "Africa"
+    "population": 68153004,
+    "rarity_score": 27.1,
+    "colors": []
   },
   {
     "name": "Thailand",
     "code": "th",
+    "flag_url": "https://flagcdn.com/th.svg",
+    "continent": "Asia",
     "capital": "Bangkok",
-    "flag_emoji": "\ud83c\uddf9\ud83c\udded",
-    "rarity_score": 12,
-    "colors": [
-      "black",
-      "brown",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 65859640,
+    "rarity_score": 27.3,
+    "colors": []
   },
   {
     "name": "Timor-Leste",
     "code": "tl",
+    "flag_url": "https://flagcdn.com/tl.svg",
+    "continent": "Oceania",
     "capital": "Dili",
-    "flag_emoji": "\ud83c\uddf9\ud83c\uddf1",
-    "rarity_score": 72,
-    "colors": [
-      "black",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 1391221,
+    "rarity_score": 48.2,
+    "colors": []
   },
   {
     "name": "Togo",
     "code": "tg",
+    "flag_url": "https://flagcdn.com/tg.svg",
+    "continent": "Africa",
     "capital": "Lom\u00e9",
-    "flag_emoji": "\ud83c\uddf9\ud83c\uddec",
-    "rarity_score": 55,
-    "colors": [
-      "black",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 8095498,
+    "rarity_score": 38.6,
+    "colors": []
+  },
+  {
+    "name": "Tokelau",
+    "code": "tk",
+    "flag_url": "https://flagcdn.com/tk.svg",
+    "continent": "Oceania",
+    "capital": "Fakaofo",
+    "population": 2608,
+    "rarity_score": 82.3,
+    "colors": []
   },
   {
     "name": "Tonga",
     "code": "to",
-    "capital": "Nuku\u02bbalofa",
-    "flag_emoji": "\ud83c\uddf9\ud83c\uddf4",
-    "rarity_score": 78,
-    "colors": [
-      "red",
-      "white"
-    ],
-    "continent": "Oceania"
+    "flag_url": "https://flagcdn.com/to.svg",
+    "continent": "Oceania",
+    "capital": "Nuku'alofa",
+    "population": 100179,
+    "rarity_score": 62.5,
+    "colors": []
   },
   {
     "name": "Trinidad and Tobago",
     "code": "tt",
+    "flag_url": "https://flagcdn.com/tt.svg",
+    "continent": "North America",
     "capital": "Port of Spain",
-    "flag_emoji": "\ud83c\uddf9\ud83c\uddf9",
-    "rarity_score": 45,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 1367764,
+    "rarity_score": 48.3,
+    "colors": []
   },
   {
     "name": "Tunisia",
     "code": "tn",
+    "flag_url": "https://flagcdn.com/tn.svg",
+    "continent": "Africa",
     "capital": "Tunis",
-    "flag_emoji": "\ud83c\uddf9\ud83c\uddf3",
-    "rarity_score": 22,
-    "colors": [
-      "red",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 11972169,
+    "rarity_score": 36.5,
+    "colors": []
   },
   {
     "name": "Turkey",
     "code": "tr",
+    "flag_url": "https://flagcdn.com/tr.svg",
+    "continent": "Europe",
     "capital": "Ankara",
-    "flag_emoji": "\ud83c\uddf9\ud83c\uddf7",
-    "rarity_score": 10,
-    "colors": [
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 85664944,
+    "rarity_score": 25.8,
+    "colors": []
   },
   {
     "name": "Turkmenistan",
     "code": "tm",
+    "flag_url": "https://flagcdn.com/tm.svg",
+    "continent": "Asia",
     "capital": "Ashgabat",
-    "flag_emoji": "\ud83c\uddf9\ud83c\uddf2",
-    "rarity_score": 72,
-    "colors": [
-      "green",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 7057841,
+    "rarity_score": 39.4,
+    "colors": []
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "code": "tc",
+    "flag_url": "https://flagcdn.com/tc.svg",
+    "continent": "North America",
+    "capital": "Cockburn Town",
+    "population": 50828,
+    "rarity_score": 66.2,
+    "colors": []
   },
   {
     "name": "Tuvalu",
     "code": "tv",
+    "flag_url": "https://flagcdn.com/tv.svg",
+    "continent": "Oceania",
     "capital": "Funafuti",
-    "flag_emoji": "\ud83c\uddf9\ud83c\uddfb",
-    "rarity_score": 95,
-    "colors": [
-      "black",
-      "blue",
-      "red",
-      "white",
-      "yellow"
-    ],
-    "continent": "Oceania"
+    "population": 10643,
+    "rarity_score": 74.7,
+    "colors": []
   },
   {
     "name": "Uganda",
     "code": "ug",
+    "flag_url": "https://flagcdn.com/ug.svg",
+    "continent": "Africa",
     "capital": "Kampala",
-    "flag_emoji": "\ud83c\uddfa\ud83c\uddec",
-    "rarity_score": 40,
-    "colors": [
-      "black",
-      "red",
-      "white",
-      "yellow"
-    ],
-    "continent": "Africa"
+    "population": 45905417,
+    "rarity_score": 29.2,
+    "colors": []
   },
   {
     "name": "Ukraine",
     "code": "ua",
+    "flag_url": "https://flagcdn.com/ua.svg",
+    "continent": "Europe",
     "capital": "Kyiv",
-    "flag_emoji": "\ud83c\uddfa\ud83c\udde6",
-    "rarity_score": 15,
-    "colors": [
-      "blue",
-      "yellow"
-    ],
-    "continent": "Europe"
+    "population": 32862000,
+    "rarity_score": 31.0,
+    "colors": []
   },
   {
     "name": "United Arab Emirates",
     "code": "ae",
+    "flag_url": "https://flagcdn.com/ae.svg",
+    "continent": "Asia",
     "capital": "Abu Dhabi",
-    "flag_emoji": "\ud83c\udde6\ud83c\uddea",
-    "rarity_score": 20,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 11294243,
+    "rarity_score": 36.8,
+    "colors": []
   },
   {
     "name": "United Kingdom",
     "code": "gb",
+    "flag_url": "https://flagcdn.com/gb.svg",
+    "continent": "Europe",
     "capital": "London",
-    "flag_emoji": "\ud83c\uddec\ud83c\udde7",
-    "rarity_score": 3,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Europe"
+    "population": 69281437,
+    "rarity_score": 27.0,
+    "colors": []
   },
   {
     "name": "United States",
     "code": "us",
-    "capital": "Washington D.C.",
-    "flag_emoji": "\ud83c\uddfa\ud83c\uddf8",
-    "rarity_score": 2,
-    "colors": [
-      "brown",
-      "purple",
-      "white"
-    ],
-    "continent": "Americas"
+    "flag_url": "https://flagcdn.com/us.svg",
+    "continent": "North America",
+    "capital": "Washington, D.C.",
+    "population": 340110988,
+    "rarity_score": 18.4,
+    "colors": []
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "code": "um",
+    "flag_url": "https://flagcdn.com/um.svg",
+    "continent": "Oceania",
+    "capital": "Washington DC",
+    "population": 0,
+    "rarity_score": 100.0,
+    "colors": []
+  },
+  {
+    "name": "United States Virgin Islands",
+    "code": "vi",
+    "flag_url": "https://flagcdn.com/vi.svg",
+    "continent": "North America",
+    "capital": "Charlotte Amalie",
+    "population": 87146,
+    "rarity_score": 63.2,
+    "colors": []
   },
   {
     "name": "Uruguay",
     "code": "uy",
+    "flag_url": "https://flagcdn.com/uy.svg",
+    "continent": "South America",
     "capital": "Montevideo",
-    "flag_emoji": "\ud83c\uddfa\ud83c\uddfe",
-    "rarity_score": 28,
-    "colors": [
-      "blue",
-      "brown",
-      "orange",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 3499451,
+    "rarity_score": 43.2,
+    "colors": []
   },
   {
     "name": "Uzbekistan",
     "code": "uz",
+    "flag_url": "https://flagcdn.com/uz.svg",
+    "continent": "Asia",
     "capital": "Tashkent",
-    "flag_emoji": "\ud83c\uddfa\ud83c\uddff",
-    "rarity_score": 55,
-    "colors": [
-      "blue",
-      "green",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 37859698,
+    "rarity_score": 30.3,
+    "colors": []
   },
   {
     "name": "Vanuatu",
     "code": "vu",
+    "flag_url": "https://flagcdn.com/vu.svg",
+    "continent": "Oceania",
     "capital": "Port Vila",
-    "flag_emoji": "\ud83c\uddfb\ud83c\uddfa",
-    "rarity_score": 80,
-    "colors": [
-      "black",
-      "green",
-      "orange",
-      "red"
-    ],
-    "continent": "Oceania"
+    "population": 321409,
+    "rarity_score": 56.2,
+    "colors": []
   },
   {
     "name": "Vatican City",
     "code": "va",
+    "flag_url": "https://flagcdn.com/va.svg",
+    "continent": "Europe",
     "capital": "Vatican City",
-    "flag_emoji": "\ud83c\uddfb\ud83c\udde6",
-    "rarity_score": 78,
-    "colors": [
-      "red",
-      "white",
-      "yellow"
-    ],
-    "continent": "Europe"
+    "population": 882,
+    "rarity_score": 88.2,
+    "colors": []
   },
   {
     "name": "Venezuela",
     "code": "ve",
+    "flag_url": "https://flagcdn.com/ve.svg",
+    "continent": "South America",
     "capital": "Caracas",
-    "flag_emoji": "\ud83c\uddfb\ud83c\uddea",
-    "rarity_score": 18,
-    "colors": [
-      "black",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Americas"
+    "population": 28517000,
+    "rarity_score": 31.8,
+    "colors": []
   },
   {
     "name": "Vietnam",
     "code": "vn",
+    "flag_url": "https://flagcdn.com/vn.svg",
+    "continent": "Asia",
     "capital": "Hanoi",
-    "flag_emoji": "\ud83c\uddfb\ud83c\uddf3",
-    "rarity_score": 15,
-    "colors": [
-      "red",
-      "yellow"
-    ],
-    "continent": "Asia"
+    "population": 101343800,
+    "rarity_score": 24.9,
+    "colors": []
+  },
+  {
+    "name": "Wallis and Futuna",
+    "code": "wf",
+    "flag_url": "https://flagcdn.com/wf.svg",
+    "continent": "Oceania",
+    "capital": "Mata-Utu",
+    "population": 11620,
+    "rarity_score": 74.2,
+    "colors": []
+  },
+  {
+    "name": "Western Sahara",
+    "code": "eh",
+    "flag_url": "https://flagcdn.com/eh.svg",
+    "continent": "Africa",
+    "capital": "El Aai\u00fan",
+    "population": 600904,
+    "rarity_score": 52.8,
+    "colors": []
   },
   {
     "name": "Yemen",
     "code": "ye",
+    "flag_url": "https://flagcdn.com/ye.svg",
+    "continent": "Asia",
     "capital": "Sana'a",
-    "flag_emoji": "\ud83c\uddfe\ud83c\uddea",
-    "rarity_score": 35,
-    "colors": [
-      "black",
-      "red",
-      "white"
-    ],
-    "continent": "Asia"
+    "population": 32684503,
+    "rarity_score": 31.1,
+    "colors": []
   },
   {
     "name": "Zambia",
     "code": "zm",
+    "flag_url": "https://flagcdn.com/zm.svg",
+    "continent": "Africa",
     "capital": "Lusaka",
-    "flag_emoji": "\ud83c\uddff\ud83c\uddf2",
-    "rarity_score": 50,
-    "colors": [
-      "black",
-      "green",
-      "orange",
-      "red"
-    ],
-    "continent": "Africa"
+    "population": 19693423,
+    "rarity_score": 33.8,
+    "colors": []
   },
   {
     "name": "Zimbabwe",
     "code": "zw",
+    "flag_url": "https://flagcdn.com/zw.svg",
+    "continent": "Africa",
     "capital": "Harare",
-    "flag_emoji": "\ud83c\uddff\ud83c\uddfc",
-    "rarity_score": 42,
-    "colors": [
-      "black",
-      "orange",
-      "red",
-      "white"
-    ],
-    "continent": "Africa"
+    "population": 17073087,
+    "rarity_score": 34.6,
+    "colors": []
+  },
+  {
+    "name": "\u00c5land Islands",
+    "code": "ax",
+    "flag_url": "https://flagcdn.com/ax.svg",
+    "continent": "Europe",
+    "capital": "Mariehamn",
+    "population": 30654,
+    "rarity_score": 68.9,
+    "colors": []
   }
 ]

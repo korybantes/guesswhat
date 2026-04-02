@@ -28,6 +28,10 @@ pub enum ClientMessage {
     },
     /// Heartbeat
     Ping,
+    /// Send a chat message
+    Chat {
+        message: String,
+    },
 }
 
 /// WebSocket messages sent FROM the server TO the client
@@ -78,6 +82,13 @@ pub enum ServerMessage {
     },
     /// Pong response
     Pong,
+    /// Chat message from another player
+    ChatMessage {
+        player_id: String,
+        username: String,
+        message: String,
+        timestamp_ms: u64,
+    },
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]

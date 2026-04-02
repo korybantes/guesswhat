@@ -1,24 +1,64 @@
 @import "tailwindcss";
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap');
 
 :root {
-  font-family: 'Inter', system-ui, sans-serif;
+  font-family: 'Outfit', system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color-scheme: dark;
 }
 
 * { box-sizing: border-box; }
-body { margin: 0; background: #0a0c14; }
+body { 
+  margin: 0; 
+  background: radial-gradient(circle at top left, #1a1c2e, #0a0c14); 
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Glassmorphism & Game Effects */
+.glass {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.game-card {
+  transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+.game-card:hover {
+  transform: translateY(-4px) scale(1.02);
+  border-color: rgba(20, 184, 166, 0.3);
+  box-shadow: 0 10px 40px -10px rgba(20, 184, 166, 0.2);
+}
+
+.btn-game {
+  transition: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+}
+.btn-game:active {
+  transform: scale(0.96);
+}
+
+@keyframes bounce-subtle {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-3px); }
+}
+
+.animate-game-bounce {
+  animation: bounce-subtle 2s infinite ease-in-out;
+}
 
 /* Subtle scrollbar */
-::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar { width: 5px; }
 ::-webkit-scrollbar-track { background: transparent; }
-::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 2px; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 10px; }
 
 /* Flag image fade-in */
-img { transition: opacity 0.2s ease; }
+img { transition: opacity 0.3s ease-in-out; }
 
 /* shadcn overrides for dark theme */
 .border-border { border-color: rgba(255,255,255,0.08) !important; }

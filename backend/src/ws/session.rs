@@ -12,6 +12,7 @@ use crate::models::room::{Player, RoomSettings, GamePhase};
 use crate::games::{GameMode, RoundQuestion, flag_url_svg};
 use crate::ws::messages::{ClientMessage, ServerMessage, RoundScore};
 use crate::ws::room_manager::RoomTx;
+use chrono::Utc;
 
 pub async fn ws_handler(
     req: HttpRequest,
@@ -235,6 +236,21 @@ async fn handle_client_message(
                         let state = ServerMessage::RoomState { room: room.clone() };
                         rm.broadcast(room_id, state);
                     }
+                }
+            }
+        }
+
+        ClientMessage::Chat { message } => {
+            let rm = rm.read().await;
+            if let Some(room) = rm.get_room(room_id) {
+                if let Some(player) = room.players.get(player_id) {
+                    let chat_msg = ServerMessage::ChatMessage {
+                        player_id: player_id.to_string(),
+                        username: player.username.clone(),
+                        message,
+                        timestamp_ms: Utc::now().timestamp_millis() as u64,
+                    };
+                    rm.broadcast(room_id, chat_msg);
                 }
             }
         }
