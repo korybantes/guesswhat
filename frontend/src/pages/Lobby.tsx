@@ -113,9 +113,12 @@ export default function Lobby() {
         {/* Countdown overlay */}
         {countdown !== null && (
           <div className="fixed inset-0 bg-black/80 flex items-center justify-center z-[100] backdrop-blur-sm">
-            <div className="text-center">
-              <div className="text-[12rem] font-black italic tracking-tighter text-teal-400 animate-game-bounce drop-shadow-2xl">{countdown}</div>
-              <div className="text-slate-300 mt-4 text-2xl font-black uppercase tracking-widest italic">MISSION BREACHING...</div>
+            <div className="text-center space-y-4 animate-in zoom-in duration-300">
+            <div className="text-9xl font-black text-teal-400 italic neon-glow">
+              {countdown}
+            </div>
+            <div className="text-xl font-bold text-white breaching-text tracking-widest">
+              Mission Breaching...
             </div>
           </div>
         )}

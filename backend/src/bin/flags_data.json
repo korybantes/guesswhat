@@ -7,7 +7,11 @@
     "capital": "Kabul",
     "population": 43844000,
     "rarity_score": 29.5,
-    "colors": []
+    "colors": [
+      "green",
+      "blue",
+      "black"
+    ]
   },
   {
     "name": "Albania",
@@ -17,7 +21,12 @@
     "capital": "Tirana",
     "population": 2363314,
     "rarity_score": 45.3,
-    "colors": []
+    "colors": [
+      "blue",
+      "black",
+      "red",
+      "white"
+    ]
   },
   {
     "name": "Algeria",
@@ -27,7 +36,12 @@
     "capital": "Algiers",
     "population": 47400000,
     "rarity_score": 29.1,
-    "colors": []
+    "colors": [
+      "yellow",
+      "red",
+      "green",
+      "black"
+    ]
   },
   {
     "name": "American Samoa",
@@ -37,7 +51,10 @@
     "capital": "Pago Pago",
     "population": 49710,
     "rarity_score": 66.3,
-    "colors": []
+    "colors": [
+      "black",
+      "blue"
+    ]
   },
   {
     "name": "Andorra",
@@ -47,7 +64,12 @@
     "capital": "Andorra la Vella",
     "population": 88406,
     "rarity_score": 63.2,
-    "colors": []
+    "colors": [
+      "white",
+      "black",
+      "red",
+      "blue"
+    ]
   },
   {
     "name": "Angola",
@@ -57,7 +79,12 @@
     "capital": "Luanda",
     "population": 36170961,
     "rarity_score": 30.5,
-    "colors": []
+    "colors": [
+      "red",
+      "green",
+      "yellow",
+      "white"
+    ]
   },
   {
     "name": "Anguilla",
@@ -67,7 +94,12 @@
     "capital": "The Valley",
     "population": 16010,
     "rarity_score": 72.4,
-    "colors": []
+    "colors": [
+      "black",
+      "green",
+      "white",
+      "blue"
+    ]
   },
   {
     "name": "Antarctica",
@@ -77,7 +109,12 @@
     "capital": "Unknown",
     "population": 1300,
     "rarity_score": 86.1,
-    "colors": []
+    "colors": [
+      "blue",
+      "black",
+      "red",
+      "white"
+    ]
   },
   {
     "name": "Antigua and Barbuda",
@@ -87,7 +124,12 @@
     "capital": "Saint John's",
     "population": 103603,
     "rarity_score": 62.3,
-    "colors": []
+    "colors": [
+      "blue",
+      "yellow",
+      "green",
+      "red"
+    ]
   },
   {
     "name": "Argentina",
@@ -97,7 +139,12 @@
     "capital": "Buenos Aires",
     "population": 46735004,
     "rarity_score": 29.1,
-    "colors": []
+    "colors": [
+      "green",
+      "yellow",
+      "white",
+      "black"
+    ]
   },
   {
     "name": "Armenia",
@@ -107,7 +154,10 @@
     "capital": "Yerevan",
     "population": 3076200,
     "rarity_score": 43.9,
-    "colors": []
+    "colors": [
+      "green",
+      "white"
+    ]
   },
   {
     "name": "Aruba",
@@ -117,7 +167,11 @@
     "capital": "Oranjestad",
     "population": 107566,
     "rarity_score": 62.1,
-    "colors": []
+    "colors": [
+      "green",
+      "red",
+      "black"
+    ]
   },
   {
     "name": "Australia",
@@ -127,7 +181,12 @@
     "capital": "Canberra",
     "population": 27536874,
     "rarity_score": 32.0,
-    "colors": []
+    "colors": [
+      "black",
+      "white",
+      "yellow",
+      "blue"
+    ]
   },
   {
     "name": "Austria",
@@ -137,7 +196,10 @@
     "capital": "Vienna",
     "population": 9200931,
     "rarity_score": 38.0,
-    "colors": []
+    "colors": [
+      "white",
+      "blue"
+    ]
   },
   {
     "name": "Azerbaijan",
@@ -147,7 +209,10 @@
     "capital": "Baku",
     "population": 10241722,
     "rarity_score": 37.4,
-    "colors": []
+    "colors": [
+      "blue",
+      "black"
+    ]
   },
   {
     "name": "Bahamas",
@@ -157,7 +222,11 @@
     "capital": "Nassau",
     "population": 398165,
     "rarity_score": 55.0,
-    "colors": []
+    "colors": [
+      "black",
+      "blue",
+      "yellow"
+    ]
   },
   {
     "name": "Bahrain",
@@ -167,7 +236,11 @@
     "capital": "Manama",
     "population": 1594654,
     "rarity_score": 47.5,
-    "colors": []
+    "colors": [
+      "black",
+      "red",
+      "blue"
+    ]
   },
   {
     "name": "Bangladesh",
@@ -177,7 +250,11 @@
     "capital": "Dhaka",
     "population": 169828911,
     "rarity_score": 22.1,
-    "colors": []
+    "colors": [
+      "blue",
+      "white",
+      "green"
+    ]
   },
   {
     "name": "Barbados",
@@ -187,7 +264,12 @@
     "capital": "Bridgetown",
     "population": 267800,
     "rarity_score": 57.2,
-    "colors": []
+    "colors": [
+      "green",
+      "yellow",
+      "red",
+      "white"
+    ]
   },
   {
     "name": "Belarus",
@@ -197,7 +279,11 @@
     "capital": "Minsk",
     "population": 9109280,
     "rarity_score": 38.0,
-    "colors": []
+    "colors": [
+      "blue",
+      "red",
+      "green"
+    ]
   },
   {
     "name": "Belgium",
@@ -207,7 +293,11 @@
     "capital": "Brussels",
     "population": 11825551,
     "rarity_score": 36.6,
-    "colors": []
+    "colors": [
+      "yellow",
+      "blue",
+      "red"
+    ]
   },
   {
     "name": "Belize",
@@ -217,7 +307,11 @@
     "capital": "Belmopan",
     "population": 417634,
     "rarity_score": 54.7,
-    "colors": []
+    "colors": [
+      "white",
+      "red",
+      "green"
+    ]
   },
   {
     "name": "Benin",
@@ -227,7 +321,11 @@
     "capital": "Porto-Novo",
     "population": 13224860,
     "rarity_score": 36.0,
-    "colors": []
+    "colors": [
+      "yellow",
+      "white",
+      "blue"
+    ]
   },
   {
     "name": "Bermuda",
@@ -237,7 +335,11 @@
     "capital": "Hamilton",
     "population": 64055,
     "rarity_score": 64.9,
-    "colors": []
+    "colors": [
+      "black",
+      "white",
+      "green"
+    ]
   },
   {
     "name": "Bhutan",
@@ -247,7 +349,12 @@
     "capital": "Thimphu",
     "population": 784043,
     "rarity_score": 51.3,
-    "colors": []
+    "colors": [
+      "yellow",
+      "green",
+      "black",
+      "white"
+    ]
   },
   {
     "name": "Bolivia",
@@ -257,7 +364,11 @@
     "capital": "Sucre",
     "population": 11365333,
     "rarity_score": 36.8,
-    "colors": []
+    "colors": [
+      "yellow",
+      "black",
+      "blue"
+    ]
   },
   {
     "name": "Bosnia and Herzegovina",
@@ -267,7 +378,11 @@
     "capital": "Sarajevo",
     "population": 3422000,
     "rarity_score": 43.3,
-    "colors": []
+    "colors": [
+      "green",
+      "white",
+      "black"
+    ]
   },
   {
     "name": "Botswana",
@@ -277,7 +392,11 @@
     "capital": "Gaborone",
     "population": 2359609,
     "rarity_score": 45.3,
-    "colors": []
+    "colors": [
+      "red",
+      "green",
+      "yellow"
+    ]
   },
   {
     "name": "Bouvet Island",
@@ -287,7 +406,11 @@
     "capital": "Unknown",
     "population": 0,
     "rarity_score": 100.0,
-    "colors": []
+    "colors": [
+      "green",
+      "blue",
+      "yellow"
+    ]
   },
   {
     "name": "Brazil",
@@ -297,7 +420,11 @@
     "capital": "Bras\u00edlia",
     "population": 213421037,
     "rarity_score": 20.9,
-    "colors": []
+    "colors": [
+      "black",
+      "white",
+      "blue"
+    ]
   },
   {
     "name": "British Indian Ocean Territory",
@@ -307,7 +434,11 @@
     "capital": "Diego Garcia",
     "population": 0,
     "rarity_score": 100.0,
-    "colors": []
+    "colors": [
+      "green",
+      "red",
+      "blue"
+    ]
   },
   {
     "name": "British Virgin Islands",
@@ -317,7 +448,10 @@
     "capital": "Road Town",
     "population": 39471,
     "rarity_score": 67.5,
-    "colors": []
+    "colors": [
+      "green",
+      "red"
+    ]
   },
   {
     "name": "Brunei",
@@ -327,7 +461,10 @@
     "capital": "Bandar Seri Begawan",
     "population": 455500,
     "rarity_score": 54.3,
-    "colors": []
+    "colors": [
+      "black",
+      "green"
+    ]
   },
   {
     "name": "Bulgaria",
@@ -337,7 +474,11 @@
     "capital": "Sofia",
     "population": 6437360,
     "rarity_score": 39.9,
-    "colors": []
+    "colors": [
+      "red",
+      "yellow",
+      "white"
+    ]
   },
   {
     "name": "Burkina Faso",
@@ -347,7 +488,12 @@
     "capital": "Ouagadougou",
     "population": 24070553,
     "rarity_score": 32.7,
-    "colors": []
+    "colors": [
+      "white",
+      "yellow",
+      "red",
+      "black"
+    ]
   },
   {
     "name": "Burundi",
@@ -357,7 +503,11 @@
     "capital": "Gitega",
     "population": 12332788,
     "rarity_score": 36.4,
-    "colors": []
+    "colors": [
+      "yellow",
+      "black",
+      "blue"
+    ]
   },
   {
     "name": "Cambodia",
@@ -367,7 +517,10 @@
     "capital": "Phnom Penh",
     "population": 17577760,
     "rarity_score": 34.4,
-    "colors": []
+    "colors": [
+      "blue",
+      "yellow"
+    ]
   },
   {
     "name": "Cameroon",
@@ -377,7 +530,11 @@
     "capital": "Yaound\u00e9",
     "population": 29442327,
     "rarity_score": 31.6,
-    "colors": []
+    "colors": [
+      "white",
+      "yellow",
+      "red"
+    ]
   },
   {
     "name": "Canada",
@@ -387,7 +544,11 @@
     "capital": "Ottawa",
     "population": 41651653,
     "rarity_score": 29.8,
-    "colors": []
+    "colors": [
+      "green",
+      "blue",
+      "black"
+    ]
   },
   {
     "name": "Cape Verde",
@@ -397,7 +558,12 @@
     "capital": "Praia",
     "population": 491233,
     "rarity_score": 53.9,
-    "colors": []
+    "colors": [
+      "red",
+      "white",
+      "black",
+      "blue"
+    ]
   },
   {
     "name": "Caribbean Netherlands",
@@ -407,7 +573,11 @@
     "capital": "Kralendijk",
     "population": 31980,
     "rarity_score": 68.7,
-    "colors": []
+    "colors": [
+      "yellow",
+      "green",
+      "white"
+    ]
   },
   {
     "name": "Cayman Islands",
@@ -417,7 +587,10 @@
     "capital": "George Town",
     "population": 84738,
     "rarity_score": 63.4,
-    "colors": []
+    "colors": [
+      "black",
+      "white"
+    ]
   },
   {
     "name": "Central African Republic",
@@ -427,7 +600,10 @@
     "capital": "Bangui",
     "population": 6470307,
     "rarity_score": 39.9,
-    "colors": []
+    "colors": [
+      "yellow",
+      "black"
+    ]
   },
   {
     "name": "Chad",
@@ -437,7 +613,11 @@
     "capital": "N'Djamena",
     "population": 19340757,
     "rarity_score": 33.9,
-    "colors": []
+    "colors": [
+      "white",
+      "blue",
+      "black"
+    ]
   },
   {
     "name": "Chile",
@@ -447,7 +627,11 @@
     "capital": "Santiago",
     "population": 20206953,
     "rarity_score": 33.7,
-    "colors": []
+    "colors": [
+      "white",
+      "blue",
+      "green"
+    ]
   },
   {
     "name": "China",
@@ -457,7 +641,12 @@
     "capital": "Beijing",
     "population": 1408280000,
     "rarity_score": 10.6,
-    "colors": []
+    "colors": [
+      "white",
+      "yellow",
+      "black",
+      "green"
+    ]
   },
   {
     "name": "Christmas Island",
@@ -467,7 +656,12 @@
     "capital": "Flying Fish Cove",
     "population": 1692,
     "rarity_score": 84.6,
-    "colors": []
+    "colors": [
+      "black",
+      "yellow",
+      "white",
+      "blue"
+    ]
   },
   {
     "name": "Cocos (Keeling) Islands",
@@ -477,7 +671,11 @@
     "capital": "West Island",
     "population": 593,
     "rarity_score": 90.3,
-    "colors": []
+    "colors": [
+      "yellow",
+      "blue",
+      "white"
+    ]
   },
   {
     "name": "Colombia",
@@ -487,7 +685,12 @@
     "capital": "Bogot\u00e1",
     "population": 53057212,
     "rarity_score": 28.4,
-    "colors": []
+    "colors": [
+      "black",
+      "white",
+      "blue",
+      "green"
+    ]
   },
   {
     "name": "Comoros",
@@ -497,7 +700,10 @@
     "capital": "Moroni",
     "population": 919901,
     "rarity_score": 50.5,
-    "colors": []
+    "colors": [
+      "blue",
+      "yellow"
+    ]
   },
   {
     "name": "Cook Islands",
@@ -507,7 +713,11 @@
     "capital": "Avarua",
     "population": 15040,
     "rarity_score": 72.8,
-    "colors": []
+    "colors": [
+      "yellow",
+      "blue",
+      "red"
+    ]
   },
   {
     "name": "Costa Rica",
@@ -517,7 +727,11 @@
     "capital": "San Jos\u00e9",
     "population": 5309625,
     "rarity_score": 40.9,
-    "colors": []
+    "colors": [
+      "blue",
+      "yellow",
+      "red"
+    ]
   },
   {
     "name": "Croatia",
@@ -527,7 +741,11 @@
     "capital": "Zagreb",
     "population": 3866233,
     "rarity_score": 42.7,
-    "colors": []
+    "colors": [
+      "yellow",
+      "blue",
+      "green"
+    ]
   },
   {
     "name": "Cuba",
@@ -537,7 +755,12 @@
     "capital": "Havana",
     "population": 9748007,
     "rarity_score": 37.6,
-    "colors": []
+    "colors": [
+      "red",
+      "yellow",
+      "blue",
+      "green"
+    ]
   },
   {
     "name": "Cura\u00e7ao",
@@ -547,7 +770,12 @@
     "capital": "Willemstad",
     "population": 156115,
     "rarity_score": 60.1,
-    "colors": []
+    "colors": [
+      "blue",
+      "black",
+      "red",
+      "green"
+    ]
   },
   {
     "name": "Cyprus",
@@ -557,7 +785,10 @@
     "capital": "Nicosia",
     "population": 1442614,
     "rarity_score": 48.0,
-    "colors": []
+    "colors": [
+      "red",
+      "green"
+    ]
   },
   {
     "name": "Czechia",
@@ -567,7 +798,10 @@
     "capital": "Prague",
     "population": 10882341,
     "rarity_score": 37.0,
-    "colors": []
+    "colors": [
+      "yellow",
+      "white"
+    ]
   },
   {
     "name": "DR Congo",
@@ -577,7 +811,11 @@
     "capital": "Kinshasa",
     "population": 112832000,
     "rarity_score": 24.3,
-    "colors": []
+    "colors": [
+      "white",
+      "black",
+      "green"
+    ]
   },
   {
     "name": "Denmark",
@@ -587,7 +825,11 @@
     "capital": "Copenhagen",
     "population": 6011488,
     "rarity_score": 40.3,
-    "colors": []
+    "colors": [
+      "white",
+      "yellow",
+      "black"
+    ]
   },
   {
     "name": "Djibouti",
@@ -597,7 +839,11 @@
     "capital": "Djibouti",
     "population": 1066809,
     "rarity_score": 49.6,
-    "colors": []
+    "colors": [
+      "yellow",
+      "black",
+      "red"
+    ]
   },
   {
     "name": "Dominica",
@@ -607,7 +853,10 @@
     "capital": "Roseau",
     "population": 67408,
     "rarity_score": 64.6,
-    "colors": []
+    "colors": [
+      "green",
+      "red"
+    ]
   },
   {
     "name": "Dominican Republic",
@@ -617,7 +866,10 @@
     "capital": "Santo Domingo",
     "population": 10771504,
     "rarity_score": 37.1,
-    "colors": []
+    "colors": [
+      "white",
+      "yellow"
+    ]
   },
   {
     "name": "Ecuador",
@@ -627,7 +879,11 @@
     "capital": "Quito",
     "population": 18103660,
     "rarity_score": 34.3,
-    "colors": []
+    "colors": [
+      "blue",
+      "yellow",
+      "green"
+    ]
   },
   {
     "name": "Egypt",
@@ -637,7 +893,12 @@
     "capital": "Cairo",
     "population": 107271260,
     "rarity_score": 24.6,
-    "colors": []
+    "colors": [
+      "black",
+      "yellow",
+      "white",
+      "green"
+    ]
   },
   {
     "name": "El Salvador",
@@ -647,7 +908,12 @@
     "capital": "San Salvador",
     "population": 6029976,
     "rarity_score": 40.2,
-    "colors": []
+    "colors": [
+      "red",
+      "yellow",
+      "green",
+      "white"
+    ]
   },
   {
     "name": "Equatorial Guinea",
@@ -657,7 +923,10 @@
     "capital": "Ciudad de la Paz",
     "population": 1668768,
     "rarity_score": 47.2,
-    "colors": []
+    "colors": [
+      "blue",
+      "white"
+    ]
   },
   {
     "name": "Eritrea",
@@ -667,7 +936,11 @@
     "capital": "Asmara",
     "population": 3607000,
     "rarity_score": 43.0,
-    "colors": []
+    "colors": [
+      "red",
+      "green",
+      "blue"
+    ]
   },
   {
     "name": "Estonia",
@@ -677,7 +950,10 @@
     "capital": "Tallinn",
     "population": 1369995,
     "rarity_score": 48.3,
-    "colors": []
+    "colors": [
+      "red",
+      "white"
+    ]
   },
   {
     "name": "Eswatini",
@@ -687,7 +963,11 @@
     "capital": "Mbabane",
     "population": 1235549,
     "rarity_score": 48.9,
-    "colors": []
+    "colors": [
+      "blue",
+      "white",
+      "black"
+    ]
   },
   {
     "name": "Ethiopia",
@@ -697,7 +977,12 @@
     "capital": "Addis Ababa",
     "population": 111652998,
     "rarity_score": 24.4,
-    "colors": []
+    "colors": [
+      "blue",
+      "black",
+      "white",
+      "red"
+    ]
   },
   {
     "name": "Falkland Islands",
@@ -707,7 +992,10 @@
     "capital": "Stanley",
     "population": 3662,
     "rarity_score": 80.5,
-    "colors": []
+    "colors": [
+      "black",
+      "yellow"
+    ]
   },
   {
     "name": "Faroe Islands",
@@ -717,7 +1005,11 @@
     "capital": "T\u00f3rshavn",
     "population": 54885,
     "rarity_score": 65.8,
-    "colors": []
+    "colors": [
+      "black",
+      "red",
+      "blue"
+    ]
   },
   {
     "name": "Fiji",
@@ -727,7 +1019,10 @@
     "capital": "Suva",
     "population": 900869,
     "rarity_score": 50.6,
-    "colors": []
+    "colors": [
+      "red",
+      "blue"
+    ]
   },
   {
     "name": "Finland",
@@ -737,7 +1032,11 @@
     "capital": "Helsinki",
     "population": 5650325,
     "rarity_score": 40.6,
-    "colors": []
+    "colors": [
+      "black",
+      "blue",
+      "green"
+    ]
   },
   {
     "name": "France",
@@ -747,7 +1046,11 @@
     "capital": "Paris",
     "population": 66351959,
     "rarity_score": 27.2,
-    "colors": []
+    "colors": [
+      "blue",
+      "white",
+      "red"
+    ]
   },
   {
     "name": "French Guiana",
@@ -757,7 +1060,12 @@
     "capital": "Cayenne",
     "population": 292354,
     "rarity_score": 56.7,
-    "colors": []
+    "colors": [
+      "red",
+      "green",
+      "yellow",
+      "white"
+    ]
   },
   {
     "name": "French Polynesia",
@@ -767,7 +1075,12 @@
     "capital": "Papeet\u0113",
     "population": 279500,
     "rarity_score": 56.9,
-    "colors": []
+    "colors": [
+      "red",
+      "black",
+      "yellow",
+      "white"
+    ]
   },
   {
     "name": "French Southern and Antarctic Lands",
@@ -777,7 +1090,11 @@
     "capital": "Port-aux-Fran\u00e7ais",
     "population": 400,
     "rarity_score": 92.5,
-    "colors": []
+    "colors": [
+      "black",
+      "white",
+      "green"
+    ]
   },
   {
     "name": "Gabon",
@@ -787,7 +1104,12 @@
     "capital": "Libreville",
     "population": 2469296,
     "rarity_score": 45.1,
-    "colors": []
+    "colors": [
+      "blue",
+      "white",
+      "yellow",
+      "red"
+    ]
   },
   {
     "name": "Gambia",
@@ -797,7 +1119,12 @@
     "capital": "Banjul",
     "population": 2422712,
     "rarity_score": 45.2,
-    "colors": []
+    "colors": [
+      "white",
+      "green",
+      "black",
+      "yellow"
+    ]
   },
   {
     "name": "Georgia",
@@ -807,7 +1134,11 @@
     "capital": "Tbilisi",
     "population": 4000921,
     "rarity_score": 42.5,
-    "colors": []
+    "colors": [
+      "red",
+      "white",
+      "green"
+    ]
   },
   {
     "name": "Germany",
@@ -817,7 +1148,10 @@
     "capital": "Berlin",
     "population": 83491249,
     "rarity_score": 26.0,
-    "colors": []
+    "colors": [
+      "green",
+      "blue"
+    ]
   },
   {
     "name": "Ghana",
@@ -827,7 +1161,11 @@
     "capital": "Accra",
     "population": 33742380,
     "rarity_score": 30.9,
-    "colors": []
+    "colors": [
+      "yellow",
+      "black",
+      "blue"
+    ]
   },
   {
     "name": "Gibraltar",
@@ -837,7 +1175,10 @@
     "capital": "Gibraltar",
     "population": 38000,
     "rarity_score": 67.8,
-    "colors": []
+    "colors": [
+      "black",
+      "blue"
+    ]
   },
   {
     "name": "Greece",
@@ -847,7 +1188,10 @@
     "capital": "Athens",
     "population": 10400720,
     "rarity_score": 37.3,
-    "colors": []
+    "colors": [
+      "blue",
+      "red"
+    ]
   },
   {
     "name": "Greenland",
@@ -857,7 +1201,12 @@
     "capital": "Nuuk",
     "population": 56542,
     "rarity_score": 65.6,
-    "colors": []
+    "colors": [
+      "green",
+      "yellow",
+      "blue",
+      "white"
+    ]
   },
   {
     "name": "Grenada",
@@ -867,7 +1216,11 @@
     "capital": "St. George's",
     "population": 109021,
     "rarity_score": 62.0,
-    "colors": []
+    "colors": [
+      "red",
+      "yellow",
+      "white"
+    ]
   },
   {
     "name": "Guadeloupe",
@@ -877,7 +1230,12 @@
     "capital": "Basse-Terre",
     "population": 378561,
     "rarity_score": 55.3,
-    "colors": []
+    "colors": [
+      "yellow",
+      "green",
+      "black",
+      "red"
+    ]
   },
   {
     "name": "Guam",
@@ -887,7 +1245,10 @@
     "capital": "Hag\u00e5t\u00f1a",
     "population": 153836,
     "rarity_score": 60.2,
-    "colors": []
+    "colors": [
+      "green",
+      "white"
+    ]
   },
   {
     "name": "Guatemala",
@@ -897,7 +1258,10 @@
     "capital": "Guatemala City",
     "population": 18079810,
     "rarity_score": 34.3,
-    "colors": []
+    "colors": [
+      "yellow",
+      "green"
+    ]
   },
   {
     "name": "Guernsey",
@@ -907,7 +1271,11 @@
     "capital": "St. Peter Port",
     "population": 64781,
     "rarity_score": 64.9,
-    "colors": []
+    "colors": [
+      "white",
+      "red",
+      "yellow"
+    ]
   },
   {
     "name": "Guinea",
@@ -917,7 +1285,12 @@
     "capital": "Conakry",
     "population": 14363931,
     "rarity_score": 35.5,
-    "colors": []
+    "colors": [
+      "white",
+      "blue",
+      "red",
+      "green"
+    ]
   },
   {
     "name": "Guinea-Bissau",
@@ -927,7 +1300,11 @@
     "capital": "Bissau",
     "population": 1781308,
     "rarity_score": 46.9,
-    "colors": []
+    "colors": [
+      "black",
+      "blue",
+      "white"
+    ]
   },
   {
     "name": "Guyana",
@@ -937,7 +1314,10 @@
     "capital": "Georgetown",
     "population": 772975,
     "rarity_score": 51.4,
-    "colors": []
+    "colors": [
+      "blue",
+      "red"
+    ]
   },
   {
     "name": "Haiti",
@@ -947,7 +1327,12 @@
     "capital": "Port-au-Prince",
     "population": 11867032,
     "rarity_score": 36.6,
-    "colors": []
+    "colors": [
+      "white",
+      "black",
+      "yellow",
+      "blue"
+    ]
   },
   {
     "name": "Heard Island and McDonald Islands",
@@ -957,7 +1342,12 @@
     "capital": "Unknown",
     "population": 0,
     "rarity_score": 100.0,
-    "colors": []
+    "colors": [
+      "blue",
+      "green",
+      "black",
+      "yellow"
+    ]
   },
   {
     "name": "Honduras",
@@ -967,7 +1357,12 @@
     "capital": "Tegucigalpa",
     "population": 9892632,
     "rarity_score": 37.6,
-    "colors": []
+    "colors": [
+      "red",
+      "white",
+      "yellow",
+      "green"
+    ]
   },
   {
     "name": "Hong Kong",
@@ -977,7 +1372,10 @@
     "capital": "City of Victoria",
     "population": 7527500,
     "rarity_score": 39.0,
-    "colors": []
+    "colors": [
+      "black",
+      "blue"
+    ]
   },
   {
     "name": "Hungary",
@@ -987,7 +1385,12 @@
     "capital": "Budapest",
     "population": 9539502,
     "rarity_score": 37.8,
-    "colors": []
+    "colors": [
+      "red",
+      "black",
+      "blue",
+      "white"
+    ]
   },
   {
     "name": "Iceland",
@@ -997,7 +1400,12 @@
     "capital": "Reykjavik",
     "population": 391810,
     "rarity_score": 55.1,
-    "colors": []
+    "colors": [
+      "yellow",
+      "red",
+      "black",
+      "green"
+    ]
   },
   {
     "name": "India",
@@ -1007,7 +1415,12 @@
     "capital": "New Delhi",
     "population": 1417492000,
     "rarity_score": 10.6,
-    "colors": []
+    "colors": [
+      "black",
+      "blue",
+      "red",
+      "white"
+    ]
   },
   {
     "name": "Indonesia",
@@ -1017,7 +1430,11 @@
     "capital": "Jakarta",
     "population": 284438782,
     "rarity_score": 19.3,
-    "colors": []
+    "colors": [
+      "red",
+      "yellow",
+      "white"
+    ]
   },
   {
     "name": "Iran",
@@ -1027,7 +1444,10 @@
     "capital": "Tehran",
     "population": 85961000,
     "rarity_score": 25.8,
-    "colors": []
+    "colors": [
+      "green",
+      "white"
+    ]
   },
   {
     "name": "Iraq",
@@ -1037,7 +1457,12 @@
     "capital": "Baghdad",
     "population": 46118793,
     "rarity_score": 29.2,
-    "colors": []
+    "colors": [
+      "green",
+      "yellow",
+      "white",
+      "blue"
+    ]
   },
   {
     "name": "Ireland",
@@ -1047,7 +1472,10 @@
     "capital": "Dublin",
     "population": 5458600,
     "rarity_score": 40.8,
-    "colors": []
+    "colors": [
+      "red",
+      "yellow"
+    ]
   },
   {
     "name": "Isle of Man",
@@ -1057,7 +1485,12 @@
     "capital": "Douglas",
     "population": 84530,
     "rarity_score": 63.4,
-    "colors": []
+    "colors": [
+      "yellow",
+      "red",
+      "blue",
+      "black"
+    ]
   },
   {
     "name": "Israel",
@@ -1067,7 +1500,10 @@
     "capital": "Jerusalem",
     "population": 10134800,
     "rarity_score": 37.4,
-    "colors": []
+    "colors": [
+      "white",
+      "blue"
+    ]
   },
   {
     "name": "Italy",
@@ -1077,7 +1513,10 @@
     "capital": "Rome",
     "population": 58927633,
     "rarity_score": 27.9,
-    "colors": []
+    "colors": [
+      "blue",
+      "yellow"
+    ]
   },
   {
     "name": "Ivory Coast",
@@ -1087,7 +1526,12 @@
     "capital": "Yamoussoukro",
     "population": 31719275,
     "rarity_score": 31.2,
-    "colors": []
+    "colors": [
+      "green",
+      "blue",
+      "white",
+      "yellow"
+    ]
   },
   {
     "name": "Jamaica",
@@ -1097,7 +1541,12 @@
     "capital": "Kingston",
     "population": 2825544,
     "rarity_score": 44.4,
-    "colors": []
+    "colors": [
+      "yellow",
+      "green",
+      "red",
+      "blue"
+    ]
   },
   {
     "name": "Japan",
@@ -1107,7 +1556,11 @@
     "capital": "Tokyo",
     "population": 123210000,
     "rarity_score": 23.9,
-    "colors": []
+    "colors": [
+      "yellow",
+      "blue",
+      "red"
+    ]
   },
   {
     "name": "Jersey",
@@ -1117,7 +1570,11 @@
     "capital": "Saint Helier",
     "population": 103267,
     "rarity_score": 62.3,
-    "colors": []
+    "colors": [
+      "black",
+      "green",
+      "blue"
+    ]
   },
   {
     "name": "Jordan",
@@ -1127,7 +1584,10 @@
     "capital": "Amman",
     "population": 11734000,
     "rarity_score": 36.6,
-    "colors": []
+    "colors": [
+      "black",
+      "green"
+    ]
   },
   {
     "name": "Kazakhstan",
@@ -1137,7 +1597,12 @@
     "capital": "Astana",
     "population": 20426568,
     "rarity_score": 33.6,
-    "colors": []
+    "colors": [
+      "red",
+      "blue",
+      "white",
+      "yellow"
+    ]
   },
   {
     "name": "Kenya",
@@ -1147,7 +1612,12 @@
     "capital": "Nairobi",
     "population": 53330978,
     "rarity_score": 28.4,
-    "colors": []
+    "colors": [
+      "white",
+      "black",
+      "blue",
+      "red"
+    ]
   },
   {
     "name": "Kiribati",
@@ -1157,7 +1627,10 @@
     "capital": "South Tarawa",
     "population": 120740,
     "rarity_score": 61.5,
-    "colors": []
+    "colors": [
+      "black",
+      "blue"
+    ]
   },
   {
     "name": "Kosovo",
@@ -1167,7 +1640,11 @@
     "capital": "Pristina",
     "population": 1585566,
     "rarity_score": 47.5,
-    "colors": []
+    "colors": [
+      "blue",
+      "red",
+      "yellow"
+    ]
   },
   {
     "name": "Kuwait",
@@ -1177,7 +1654,11 @@
     "capital": "Kuwait City",
     "population": 4881254,
     "rarity_score": 41.4,
-    "colors": []
+    "colors": [
+      "red",
+      "yellow",
+      "black"
+    ]
   },
   {
     "name": "Kyrgyzstan",
@@ -1187,7 +1668,12 @@
     "capital": "Bishkek",
     "population": 7281800,
     "rarity_score": 39.2,
-    "colors": []
+    "colors": [
+      "black",
+      "yellow",
+      "green",
+      "blue"
+    ]
   },
   {
     "name": "Laos",
@@ -1197,7 +1683,12 @@
     "capital": "Vientiane",
     "population": 7647000,
     "rarity_score": 39.0,
-    "colors": []
+    "colors": [
+      "blue",
+      "green",
+      "yellow",
+      "black"
+    ]
   },
   {
     "name": "Latvia",
@@ -1207,7 +1698,10 @@
     "capital": "Riga",
     "population": 1829000,
     "rarity_score": 46.7,
-    "colors": []
+    "colors": [
+      "green",
+      "white"
+    ]
   },
   {
     "name": "Lebanon",
@@ -1217,7 +1711,10 @@
     "capital": "Beirut",
     "population": 5490000,
     "rarity_score": 40.8,
-    "colors": []
+    "colors": [
+      "red",
+      "black"
+    ]
   },
   {
     "name": "Lesotho",
@@ -1227,7 +1724,11 @@
     "capital": "Maseru",
     "population": 2116427,
     "rarity_score": 45.9,
-    "colors": []
+    "colors": [
+      "yellow",
+      "green",
+      "black"
+    ]
   },
   {
     "name": "Liberia",
@@ -1237,7 +1738,10 @@
     "capital": "Monrovia",
     "population": 5248621,
     "rarity_score": 41.0,
-    "colors": []
+    "colors": [
+      "blue",
+      "green"
+    ]
   },
   {
     "name": "Libya",
@@ -1247,7 +1751,10 @@
     "capital": "Tripoli",
     "population": 7459000,
     "rarity_score": 39.1,
-    "colors": []
+    "colors": [
+      "blue",
+      "yellow"
+    ]
   },
   {
     "name": "Liechtenstein",
@@ -1257,7 +1764,12 @@
     "capital": "Vaduz",
     "population": 40900,
     "rarity_score": 67.4,
-    "colors": []
+    "colors": [
+      "yellow",
+      "blue",
+      "white",
+      "black"
+    ]
   },
   {
     "name": "Lithuania",
@@ -1267,7 +1779,10 @@
     "capital": "Vilnius",
     "population": 2894886,
     "rarity_score": 44.2,
-    "colors": []
+    "colors": [
+      "yellow",
+      "white"
+    ]
   },
   {
     "name": "Luxembourg",
@@ -1277,7 +1792,12 @@
     "capital": "Luxembourg",
     "population": 681973,
     "rarity_score": 52.1,
-    "colors": []
+    "colors": [
+      "red",
+      "blue",
+      "yellow",
+      "white"
+    ]
   },
   {
     "name": "Macau",
@@ -1287,7 +1807,11 @@
     "capital": "Unknown",
     "population": 685900,
     "rarity_score": 52.0,
-    "colors": []
+    "colors": [
+      "yellow",
+      "black",
+      "red"
+    ]
   },
   {
     "name": "Madagascar",
@@ -1297,7 +1821,10 @@
     "capital": "Antananarivo",
     "population": 31727042,
     "rarity_score": 31.2,
-    "colors": []
+    "colors": [
+      "green",
+      "red"
+    ]
   },
   {
     "name": "Malawi",
@@ -1307,7 +1834,11 @@
     "capital": "Lilongwe",
     "population": 20734262,
     "rarity_score": 33.5,
-    "colors": []
+    "colors": [
+      "red",
+      "white",
+      "green"
+    ]
   },
   {
     "name": "Malaysia",
@@ -1317,7 +1848,12 @@
     "capital": "Kuala Lumpur",
     "population": 34231700,
     "rarity_score": 30.8,
-    "colors": []
+    "colors": [
+      "black",
+      "blue",
+      "green",
+      "white"
+    ]
   },
   {
     "name": "Maldives",
@@ -1327,7 +1863,12 @@
     "capital": "Mal\u00e9",
     "population": 515132,
     "rarity_score": 53.6,
-    "colors": []
+    "colors": [
+      "blue",
+      "green",
+      "black",
+      "yellow"
+    ]
   },
   {
     "name": "Mali",
@@ -1337,7 +1878,11 @@
     "capital": "Bamako",
     "population": 22395489,
     "rarity_score": 33.1,
-    "colors": []
+    "colors": [
+      "white",
+      "black",
+      "green"
+    ]
   },
   {
     "name": "Malta",
@@ -1347,7 +1892,12 @@
     "capital": "Valletta",
     "population": 574250,
     "rarity_score": 53.0,
-    "colors": []
+    "colors": [
+      "white",
+      "blue",
+      "red",
+      "black"
+    ]
   },
   {
     "name": "Marshall Islands",
@@ -1357,7 +1907,10 @@
     "capital": "Majuro",
     "population": 42418,
     "rarity_score": 67.2,
-    "colors": []
+    "colors": [
+      "yellow",
+      "red"
+    ]
   },
   {
     "name": "Martinique",
@@ -1367,7 +1920,12 @@
     "capital": "Fort-de-France",
     "population": 349925,
     "rarity_score": 55.7,
-    "colors": []
+    "colors": [
+      "black",
+      "blue",
+      "red",
+      "yellow"
+    ]
   },
   {
     "name": "Mauritania",
@@ -1377,7 +1935,11 @@
     "capital": "Nouakchott",
     "population": 4927532,
     "rarity_score": 41.3,
-    "colors": []
+    "colors": [
+      "black",
+      "red",
+      "yellow"
+    ]
   },
   {
     "name": "Mauritius",
@@ -1387,7 +1949,12 @@
     "capital": "Port Louis",
     "population": 1243741,
     "rarity_score": 48.8,
-    "colors": []
+    "colors": [
+      "red",
+      "yellow",
+      "green",
+      "white"
+    ]
   },
   {
     "name": "Mayotte",
@@ -1397,7 +1964,11 @@
     "capital": "Mamoudzou",
     "population": 320901,
     "rarity_score": 56.2,
-    "colors": []
+    "colors": [
+      "green",
+      "yellow",
+      "black"
+    ]
   },
   {
     "name": "Mexico",
@@ -1407,7 +1978,12 @@
     "capital": "Mexico City",
     "population": 130575786,
     "rarity_score": 23.6,
-    "colors": []
+    "colors": [
+      "green",
+      "white",
+      "black",
+      "blue"
+    ]
   },
   {
     "name": "Micronesia",
@@ -1417,7 +1993,11 @@
     "capital": "Palikir",
     "population": 105564,
     "rarity_score": 62.2,
-    "colors": []
+    "colors": [
+      "green",
+      "red",
+      "blue"
+    ]
   },
   {
     "name": "Moldova",
@@ -1427,7 +2007,11 @@
     "capital": "Chi\u0219in\u0103u",
     "population": 2749076,
     "rarity_score": 44.5,
-    "colors": []
+    "colors": [
+      "red",
+      "blue",
+      "green"
+    ]
   },
   {
     "name": "Monaco",
@@ -1437,7 +2021,10 @@
     "capital": "Monaco",
     "population": 38423,
     "rarity_score": 67.7,
-    "colors": []
+    "colors": [
+      "green",
+      "white"
+    ]
   },
   {
     "name": "Mongolia",
@@ -1447,7 +2034,11 @@
     "capital": "Ulan Bator",
     "population": 3544835,
     "rarity_score": 43.1,
-    "colors": []
+    "colors": [
+      "white",
+      "yellow",
+      "black"
+    ]
   },
   {
     "name": "Montenegro",
@@ -1457,7 +2048,10 @@
     "capital": "Podgorica",
     "population": 623327,
     "rarity_score": 52.6,
-    "colors": []
+    "colors": [
+      "blue",
+      "black"
+    ]
   },
   {
     "name": "Montserrat",
@@ -1467,7 +2061,12 @@
     "capital": "Plymouth",
     "population": 4386,
     "rarity_score": 79.5,
-    "colors": []
+    "colors": [
+      "blue",
+      "black",
+      "yellow",
+      "white"
+    ]
   },
   {
     "name": "Morocco",
@@ -1477,7 +2076,12 @@
     "capital": "Rabat",
     "population": 36828330,
     "rarity_score": 30.4,
-    "colors": []
+    "colors": [
+      "green",
+      "red",
+      "black",
+      "white"
+    ]
   },
   {
     "name": "Mozambique",
@@ -1487,7 +2091,10 @@
     "capital": "Maputo",
     "population": 34090466,
     "rarity_score": 30.8,
-    "colors": []
+    "colors": [
+      "green",
+      "blue"
+    ]
   },
   {
     "name": "Myanmar",
@@ -1497,7 +2104,12 @@
     "capital": "Naypyidaw",
     "population": 51316756,
     "rarity_score": 28.6,
-    "colors": []
+    "colors": [
+      "yellow",
+      "white",
+      "black",
+      "green"
+    ]
   },
   {
     "name": "Namibia",
@@ -1507,7 +2119,10 @@
     "capital": "Windhoek",
     "population": 3022401,
     "rarity_score": 44.0,
-    "colors": []
+    "colors": [
+      "black",
+      "white"
+    ]
   },
   {
     "name": "Nauru",
@@ -1517,7 +2132,11 @@
     "capital": "Yaren",
     "population": 11680,
     "rarity_score": 74.2,
-    "colors": []
+    "colors": [
+      "white",
+      "red",
+      "black"
+    ]
   },
   {
     "name": "Nepal",
@@ -1527,7 +2146,11 @@
     "capital": "Kathmandu",
     "population": 29911840,
     "rarity_score": 31.6,
-    "colors": []
+    "colors": [
+      "yellow",
+      "black",
+      "blue"
+    ]
   },
   {
     "name": "Netherlands",
@@ -1537,7 +2160,12 @@
     "capital": "Amsterdam",
     "population": 18100436,
     "rarity_score": 34.3,
-    "colors": []
+    "colors": [
+      "blue",
+      "black",
+      "yellow",
+      "white"
+    ]
   },
   {
     "name": "New Caledonia",
@@ -1547,7 +2175,10 @@
     "capital": "Noum\u00e9a",
     "population": 264596,
     "rarity_score": 57.2,
-    "colors": []
+    "colors": [
+      "green",
+      "white"
+    ]
   },
   {
     "name": "New Zealand",
@@ -1557,7 +2188,12 @@
     "capital": "Wellington",
     "population": 5324700,
     "rarity_score": 40.9,
-    "colors": []
+    "colors": [
+      "green",
+      "black",
+      "yellow",
+      "white"
+    ]
   },
   {
     "name": "Nicaragua",
@@ -1567,7 +2203,11 @@
     "capital": "Managua",
     "population": 6803886,
     "rarity_score": 39.6,
-    "colors": []
+    "colors": [
+      "red",
+      "white",
+      "blue"
+    ]
   },
   {
     "name": "Niger",
@@ -1577,7 +2217,10 @@
     "capital": "Niamey",
     "population": 26312034,
     "rarity_score": 32.2,
-    "colors": []
+    "colors": [
+      "green",
+      "yellow"
+    ]
   },
   {
     "name": "Nigeria",
@@ -1587,7 +2230,11 @@
     "capital": "Abuja",
     "population": 223800000,
     "rarity_score": 20.6,
-    "colors": []
+    "colors": [
+      "red",
+      "green",
+      "blue"
+    ]
   },
   {
     "name": "Niue",
@@ -1597,7 +2244,10 @@
     "capital": "Alofi",
     "population": 1681,
     "rarity_score": 84.7,
-    "colors": []
+    "colors": [
+      "blue",
+      "red"
+    ]
   },
   {
     "name": "Norfolk Island",
@@ -1607,7 +2257,11 @@
     "capital": "Kingston",
     "population": 2188,
     "rarity_score": 83.2,
-    "colors": []
+    "colors": [
+      "blue",
+      "yellow",
+      "black"
+    ]
   },
   {
     "name": "North Korea",
@@ -1617,7 +2271,12 @@
     "capital": "Pyongyang",
     "population": 25950000,
     "rarity_score": 32.3,
-    "colors": []
+    "colors": [
+      "blue",
+      "white",
+      "yellow",
+      "green"
+    ]
   },
   {
     "name": "North Macedonia",
@@ -1627,7 +2286,11 @@
     "capital": "Skopje",
     "population": 1822612,
     "rarity_score": 46.7,
-    "colors": []
+    "colors": [
+      "green",
+      "blue",
+      "white"
+    ]
   },
   {
     "name": "Northern Mariana Islands",
@@ -1637,7 +2300,12 @@
     "capital": "Saipan",
     "population": 47329,
     "rarity_score": 66.6,
-    "colors": []
+    "colors": [
+      "black",
+      "green",
+      "red",
+      "white"
+    ]
   },
   {
     "name": "Norway",
@@ -1647,7 +2315,10 @@
     "capital": "Oslo",
     "population": 5606944,
     "rarity_score": 40.6,
-    "colors": []
+    "colors": [
+      "yellow",
+      "blue"
+    ]
   },
   {
     "name": "Oman",
@@ -1657,7 +2328,10 @@
     "capital": "Muscat",
     "population": 5343630,
     "rarity_score": 40.9,
-    "colors": []
+    "colors": [
+      "white",
+      "blue"
+    ]
   },
   {
     "name": "Pakistan",
@@ -1667,7 +2341,11 @@
     "capital": "Islamabad",
     "population": 241499431,
     "rarity_score": 20.2,
-    "colors": []
+    "colors": [
+      "white",
+      "black",
+      "red"
+    ]
   },
   {
     "name": "Palau",
@@ -1677,7 +2355,11 @@
     "capital": "Ngerulmud",
     "population": 16733,
     "rarity_score": 72.2,
-    "colors": []
+    "colors": [
+      "red",
+      "yellow",
+      "green"
+    ]
   },
   {
     "name": "Palestine",
@@ -1687,7 +2369,10 @@
     "capital": "Ramallah",
     "population": 5483450,
     "rarity_score": 40.8,
-    "colors": []
+    "colors": [
+      "yellow",
+      "red"
+    ]
   },
   {
     "name": "Panama",
@@ -1697,7 +2382,10 @@
     "capital": "Panama City",
     "population": 4064780,
     "rarity_score": 42.4,
-    "colors": []
+    "colors": [
+      "black",
+      "yellow"
+    ]
   },
   {
     "name": "Papua New Guinea",
@@ -1707,7 +2395,12 @@
     "capital": "Port Moresby",
     "population": 11781559,
     "rarity_score": 36.6,
-    "colors": []
+    "colors": [
+      "yellow",
+      "red",
+      "black",
+      "green"
+    ]
   },
   {
     "name": "Paraguay",
@@ -1717,7 +2410,10 @@
     "capital": "Asunci\u00f3n",
     "population": 6109644,
     "rarity_score": 40.2,
-    "colors": []
+    "colors": [
+      "white",
+      "blue"
+    ]
   },
   {
     "name": "Peru",
@@ -1727,7 +2423,11 @@
     "capital": "Lima",
     "population": 34350244,
     "rarity_score": 30.8,
-    "colors": []
+    "colors": [
+      "black",
+      "red",
+      "yellow"
+    ]
   },
   {
     "name": "Philippines",
@@ -1737,7 +2437,10 @@
     "capital": "Manila",
     "population": 114123600,
     "rarity_score": 24.3,
-    "colors": []
+    "colors": [
+      "black",
+      "yellow"
+    ]
   },
   {
     "name": "Pitcairn Islands",
@@ -1747,7 +2450,12 @@
     "capital": "Adamstown",
     "population": 35,
     "rarity_score": 100.0,
-    "colors": []
+    "colors": [
+      "black",
+      "green",
+      "blue",
+      "yellow"
+    ]
   },
   {
     "name": "Poland",
@@ -1757,7 +2465,10 @@
     "capital": "Warsaw",
     "population": 37392000,
     "rarity_score": 30.3,
-    "colors": []
+    "colors": [
+      "red",
+      "blue"
+    ]
   },
   {
     "name": "Portugal",
@@ -1767,7 +2478,12 @@
     "capital": "Lisbon",
     "population": 10749635,
     "rarity_score": 37.1,
-    "colors": []
+    "colors": [
+      "yellow",
+      "green",
+      "white",
+      "blue"
+    ]
   },
   {
     "name": "Puerto Rico",
@@ -1777,7 +2493,10 @@
     "capital": "San Juan",
     "population": 3203295,
     "rarity_score": 43.7,
-    "colors": []
+    "colors": [
+      "black",
+      "white"
+    ]
   },
   {
     "name": "Qatar",
@@ -1787,7 +2506,11 @@
     "capital": "Doha",
     "population": 3173024,
     "rarity_score": 43.7,
-    "colors": []
+    "colors": [
+      "yellow",
+      "white",
+      "black"
+    ]
   },
   {
     "name": "Republic of the Congo",
@@ -1797,7 +2520,11 @@
     "capital": "Brazzaville",
     "population": 6142180,
     "rarity_score": 40.1,
-    "colors": []
+    "colors": [
+      "yellow",
+      "white",
+      "red"
+    ]
   },
   {
     "name": "Romania",
@@ -1807,7 +2534,11 @@
     "capital": "Bucharest",
     "population": 19036031,
     "rarity_score": 34.0,
-    "colors": []
+    "colors": [
+      "green",
+      "blue",
+      "black"
+    ]
   },
   {
     "name": "Russia",
@@ -1817,7 +2548,12 @@
     "capital": "Moscow",
     "population": 146028325,
     "rarity_score": 22.9,
-    "colors": []
+    "colors": [
+      "yellow",
+      "black",
+      "green",
+      "red"
+    ]
   },
   {
     "name": "Rwanda",
@@ -1827,7 +2563,11 @@
     "capital": "Kigali",
     "population": 14104969,
     "rarity_score": 35.6,
-    "colors": []
+    "colors": [
+      "yellow",
+      "green",
+      "blue"
+    ]
   },
   {
     "name": "R\u00e9union",
@@ -1837,7 +2577,12 @@
     "capital": "Saint-Denis",
     "population": 896175,
     "rarity_score": 50.6,
-    "colors": []
+    "colors": [
+      "blue",
+      "white",
+      "yellow",
+      "black"
+    ]
   },
   {
     "name": "Saint Barth\u00e9lemy",
@@ -1847,7 +2592,10 @@
     "capital": "Gustavia",
     "population": 10562,
     "rarity_score": 74.7,
-    "colors": []
+    "colors": [
+      "green",
+      "red"
+    ]
   },
   {
     "name": "Saint Helena, Ascension and Tristan da Cunha",
@@ -1857,7 +2605,12 @@
     "capital": "Jamestown",
     "population": 5651,
     "rarity_score": 78.1,
-    "colors": []
+    "colors": [
+      "black",
+      "red",
+      "green",
+      "blue"
+    ]
   },
   {
     "name": "Saint Kitts and Nevis",
@@ -1867,7 +2620,10 @@
     "capital": "Basseterre",
     "population": 51320,
     "rarity_score": 66.1,
-    "colors": []
+    "colors": [
+      "red",
+      "green"
+    ]
   },
   {
     "name": "Saint Lucia",
@@ -1877,7 +2633,11 @@
     "capital": "Castries",
     "population": 184100,
     "rarity_score": 59.2,
-    "colors": []
+    "colors": [
+      "yellow",
+      "white",
+      "red"
+    ]
   },
   {
     "name": "Saint Martin",
@@ -1887,7 +2647,11 @@
     "capital": "Marigot",
     "population": 31496,
     "rarity_score": 68.8,
-    "colors": []
+    "colors": [
+      "black",
+      "blue",
+      "white"
+    ]
   },
   {
     "name": "Saint Pierre and Miquelon",
@@ -1897,7 +2661,11 @@
     "capital": "Saint-Pierre",
     "population": 5819,
     "rarity_score": 77.9,
-    "colors": []
+    "colors": [
+      "green",
+      "black",
+      "blue"
+    ]
   },
   {
     "name": "Saint Vincent and the Grenadines",
@@ -1907,7 +2675,11 @@
     "capital": "Kingstown",
     "population": 110872,
     "rarity_score": 61.9,
-    "colors": []
+    "colors": [
+      "red",
+      "white",
+      "blue"
+    ]
   },
   {
     "name": "Samoa",
@@ -1917,7 +2689,11 @@
     "capital": "Apia",
     "population": 205557,
     "rarity_score": 58.6,
-    "colors": []
+    "colors": [
+      "white",
+      "black",
+      "blue"
+    ]
   },
   {
     "name": "San Marino",
@@ -1927,7 +2703,12 @@
     "capital": "City of San Marino",
     "population": 34132,
     "rarity_score": 68.3,
-    "colors": []
+    "colors": [
+      "yellow",
+      "green",
+      "blue",
+      "black"
+    ]
   },
   {
     "name": "Saudi Arabia",
@@ -1937,7 +2718,11 @@
     "capital": "Riyadh",
     "population": 35300280,
     "rarity_score": 30.7,
-    "colors": []
+    "colors": [
+      "yellow",
+      "black",
+      "red"
+    ]
   },
   {
     "name": "Senegal",
@@ -1947,7 +2732,10 @@
     "capital": "Dakar",
     "population": 18593258,
     "rarity_score": 34.1,
-    "colors": []
+    "colors": [
+      "black",
+      "blue"
+    ]
   },
   {
     "name": "Serbia",
@@ -1957,7 +2745,10 @@
     "capital": "Belgrade",
     "population": 6567783,
     "rarity_score": 39.8,
-    "colors": []
+    "colors": [
+      "blue",
+      "yellow"
+    ]
   },
   {
     "name": "Seychelles",
@@ -1967,7 +2758,10 @@
     "capital": "Victoria",
     "population": 122729,
     "rarity_score": 61.4,
-    "colors": []
+    "colors": [
+      "white",
+      "black"
+    ]
   },
   {
     "name": "Sierra Leone",
@@ -1977,7 +2771,10 @@
     "capital": "Freetown",
     "population": 9077691,
     "rarity_score": 38.0,
-    "colors": []
+    "colors": [
+      "red",
+      "blue"
+    ]
   },
   {
     "name": "Singapore",
@@ -1987,7 +2784,10 @@
     "capital": "Singapore",
     "population": 6110200,
     "rarity_score": 40.2,
-    "colors": []
+    "colors": [
+      "green",
+      "red"
+    ]
   },
   {
     "name": "Sint Maarten",
@@ -1997,7 +2797,11 @@
     "capital": "Philipsburg",
     "population": 41349,
     "rarity_score": 67.3,
-    "colors": []
+    "colors": [
+      "red",
+      "black",
+      "yellow"
+    ]
   },
   {
     "name": "Slovakia",
@@ -2007,7 +2811,11 @@
     "capital": "Bratislava",
     "population": 5413813,
     "rarity_score": 40.8,
-    "colors": []
+    "colors": [
+      "white",
+      "yellow",
+      "black"
+    ]
   },
   {
     "name": "Slovenia",
@@ -2017,7 +2825,10 @@
     "capital": "Ljubljana",
     "population": 2130638,
     "rarity_score": 45.9,
-    "colors": []
+    "colors": [
+      "green",
+      "blue"
+    ]
   },
   {
     "name": "Solomon Islands",
@@ -2027,7 +2838,10 @@
     "capital": "Honiara",
     "population": 750325,
     "rarity_score": 51.6,
-    "colors": []
+    "colors": [
+      "red",
+      "yellow"
+    ]
   },
   {
     "name": "Somalia",
@@ -2037,7 +2851,12 @@
     "capital": "Mogadishu",
     "population": 19655000,
     "rarity_score": 33.8,
-    "colors": []
+    "colors": [
+      "green",
+      "yellow",
+      "blue",
+      "white"
+    ]
   },
   {
     "name": "South Africa",
@@ -2047,7 +2866,11 @@
     "capital": "Pretoria",
     "population": 63100945,
     "rarity_score": 27.5,
-    "colors": []
+    "colors": [
+      "yellow",
+      "white",
+      "green"
+    ]
   },
   {
     "name": "South Georgia",
@@ -2057,7 +2880,12 @@
     "capital": "King Edward Point",
     "population": 0,
     "rarity_score": 100.0,
-    "colors": []
+    "colors": [
+      "yellow",
+      "red",
+      "green",
+      "blue"
+    ]
   },
   {
     "name": "South Korea",
@@ -2067,7 +2895,11 @@
     "capital": "Seoul",
     "population": 51159889,
     "rarity_score": 28.6,
-    "colors": []
+    "colors": [
+      "black",
+      "green",
+      "yellow"
+    ]
   },
   {
     "name": "South Sudan",
@@ -2077,7 +2909,12 @@
     "capital": "Juba",
     "population": 15786898,
     "rarity_score": 35.0,
-    "colors": []
+    "colors": [
+      "blue",
+      "yellow",
+      "black",
+      "red"
+    ]
   },
   {
     "name": "Spain",
@@ -2087,7 +2924,10 @@
     "capital": "Madrid",
     "population": 49315949,
     "rarity_score": 28.8,
-    "colors": []
+    "colors": [
+      "black",
+      "red"
+    ]
   },
   {
     "name": "Sri Lanka",
@@ -2097,7 +2937,11 @@
     "capital": "Sri Jayawardenepura Kotte",
     "population": 21763170,
     "rarity_score": 33.3,
-    "colors": []
+    "colors": [
+      "black",
+      "white",
+      "yellow"
+    ]
   },
   {
     "name": "Sudan",
@@ -2107,7 +2951,10 @@
     "capital": "Khartoum",
     "population": 51662000,
     "rarity_score": 28.6,
-    "colors": []
+    "colors": [
+      "yellow",
+      "blue"
+    ]
   },
   {
     "name": "Suriname",
@@ -2117,7 +2964,12 @@
     "capital": "Paramaribo",
     "population": 616500,
     "rarity_score": 52.6,
-    "colors": []
+    "colors": [
+      "white",
+      "yellow",
+      "green",
+      "red"
+    ]
   },
   {
     "name": "Svalbard and Jan Mayen",
@@ -2127,7 +2979,11 @@
     "capital": "Longyearbyen",
     "population": 2530,
     "rarity_score": 82.5,
-    "colors": []
+    "colors": [
+      "white",
+      "blue",
+      "black"
+    ]
   },
   {
     "name": "Sweden",
@@ -2137,7 +2993,10 @@
     "capital": "Stockholm",
     "population": 10605098,
     "rarity_score": 37.2,
-    "colors": []
+    "colors": [
+      "blue",
+      "black"
+    ]
   },
   {
     "name": "Switzerland",
@@ -2147,7 +3006,11 @@
     "capital": "Bern",
     "population": 9082848,
     "rarity_score": 38.0,
-    "colors": []
+    "colors": [
+      "yellow",
+      "blue",
+      "white"
+    ]
   },
   {
     "name": "Syria",
@@ -2157,7 +3020,12 @@
     "capital": "Damascus",
     "population": 25620000,
     "rarity_score": 32.4,
-    "colors": []
+    "colors": [
+      "yellow",
+      "blue",
+      "white",
+      "red"
+    ]
   },
   {
     "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -2167,7 +3035,11 @@
     "capital": "S\u00e3o Tom\u00e9",
     "population": 209607,
     "rarity_score": 58.5,
-    "colors": []
+    "colors": [
+      "green",
+      "blue",
+      "red"
+    ]
   },
   {
     "name": "Taiwan",
@@ -2177,7 +3049,10 @@
     "capital": "Taipei",
     "population": 23317031,
     "rarity_score": 32.9,
-    "colors": []
+    "colors": [
+      "blue",
+      "green"
+    ]
   },
   {
     "name": "Tajikistan",
@@ -2187,7 +3062,11 @@
     "capital": "Dushanbe",
     "population": 10499000,
     "rarity_score": 37.2,
-    "colors": []
+    "colors": [
+      "black",
+      "yellow",
+      "red"
+    ]
   },
   {
     "name": "Tanzania",
@@ -2197,7 +3076,10 @@
     "capital": "Dodoma",
     "population": 68153004,
     "rarity_score": 27.1,
-    "colors": []
+    "colors": [
+      "blue",
+      "red"
+    ]
   },
   {
     "name": "Thailand",
@@ -2207,7 +3089,10 @@
     "capital": "Bangkok",
     "population": 65859640,
     "rarity_score": 27.3,
-    "colors": []
+    "colors": [
+      "white",
+      "green"
+    ]
   },
   {
     "name": "Timor-Leste",
@@ -2217,7 +3102,12 @@
     "capital": "Dili",
     "population": 1391221,
     "rarity_score": 48.2,
-    "colors": []
+    "colors": [
+      "white",
+      "red",
+      "blue",
+      "yellow"
+    ]
   },
   {
     "name": "Togo",
@@ -2227,7 +3117,11 @@
     "capital": "Lom\u00e9",
     "population": 8095498,
     "rarity_score": 38.6,
-    "colors": []
+    "colors": [
+      "white",
+      "green",
+      "yellow"
+    ]
   },
   {
     "name": "Tokelau",
@@ -2237,7 +3131,12 @@
     "capital": "Fakaofo",
     "population": 2608,
     "rarity_score": 82.3,
-    "colors": []
+    "colors": [
+      "white",
+      "yellow",
+      "red",
+      "black"
+    ]
   },
   {
     "name": "Tonga",
@@ -2247,7 +3146,10 @@
     "capital": "Nuku'alofa",
     "population": 100179,
     "rarity_score": 62.5,
-    "colors": []
+    "colors": [
+      "black",
+      "green"
+    ]
   },
   {
     "name": "Trinidad and Tobago",
@@ -2257,7 +3159,11 @@
     "capital": "Port of Spain",
     "population": 1367764,
     "rarity_score": 48.3,
-    "colors": []
+    "colors": [
+      "white",
+      "green",
+      "red"
+    ]
   },
   {
     "name": "Tunisia",
@@ -2267,7 +3173,12 @@
     "capital": "Tunis",
     "population": 11972169,
     "rarity_score": 36.5,
-    "colors": []
+    "colors": [
+      "red",
+      "black",
+      "blue",
+      "green"
+    ]
   },
   {
     "name": "Turkey",
@@ -2277,7 +3188,12 @@
     "capital": "Ankara",
     "population": 85664944,
     "rarity_score": 25.8,
-    "colors": []
+    "colors": [
+      "red",
+      "blue",
+      "white",
+      "green"
+    ]
   },
   {
     "name": "Turkmenistan",
@@ -2287,7 +3203,11 @@
     "capital": "Ashgabat",
     "population": 7057841,
     "rarity_score": 39.4,
-    "colors": []
+    "colors": [
+      "blue",
+      "white",
+      "green"
+    ]
   },
   {
     "name": "Turks and Caicos Islands",
@@ -2297,7 +3217,11 @@
     "capital": "Cockburn Town",
     "population": 50828,
     "rarity_score": 66.2,
-    "colors": []
+    "colors": [
+      "green",
+      "black",
+      "yellow"
+    ]
   },
   {
     "name": "Tuvalu",
@@ -2307,7 +3231,11 @@
     "capital": "Funafuti",
     "population": 10643,
     "rarity_score": 74.7,
-    "colors": []
+    "colors": [
+      "black",
+      "yellow",
+      "blue"
+    ]
   },
   {
     "name": "Uganda",
@@ -2317,7 +3245,12 @@
     "capital": "Kampala",
     "population": 45905417,
     "rarity_score": 29.2,
-    "colors": []
+    "colors": [
+      "blue",
+      "green",
+      "yellow",
+      "white"
+    ]
   },
   {
     "name": "Ukraine",
@@ -2327,7 +3260,10 @@
     "capital": "Kyiv",
     "population": 32862000,
     "rarity_score": 31.0,
-    "colors": []
+    "colors": [
+      "white",
+      "yellow"
+    ]
   },
   {
     "name": "United Arab Emirates",
@@ -2337,7 +3273,11 @@
     "capital": "Abu Dhabi",
     "population": 11294243,
     "rarity_score": 36.8,
-    "colors": []
+    "colors": [
+      "green",
+      "blue",
+      "black"
+    ]
   },
   {
     "name": "United Kingdom",
@@ -2347,7 +3287,12 @@
     "capital": "London",
     "population": 69281437,
     "rarity_score": 27.0,
-    "colors": []
+    "colors": [
+      "white",
+      "black",
+      "green",
+      "blue"
+    ]
   },
   {
     "name": "United States",
@@ -2357,7 +3302,10 @@
     "capital": "Washington, D.C.",
     "population": 340110988,
     "rarity_score": 18.4,
-    "colors": []
+    "colors": [
+      "yellow",
+      "white"
+    ]
   },
   {
     "name": "United States Minor Outlying Islands",
@@ -2367,7 +3315,11 @@
     "capital": "Washington DC",
     "population": 0,
     "rarity_score": 100.0,
-    "colors": []
+    "colors": [
+      "yellow",
+      "red",
+      "green"
+    ]
   },
   {
     "name": "United States Virgin Islands",
@@ -2377,7 +3329,10 @@
     "capital": "Charlotte Amalie",
     "population": 87146,
     "rarity_score": 63.2,
-    "colors": []
+    "colors": [
+      "white",
+      "blue"
+    ]
   },
   {
     "name": "Uruguay",
@@ -2387,7 +3342,12 @@
     "capital": "Montevideo",
     "population": 3499451,
     "rarity_score": 43.2,
-    "colors": []
+    "colors": [
+      "red",
+      "blue",
+      "white",
+      "green"
+    ]
   },
   {
     "name": "Uzbekistan",
@@ -2397,7 +3357,11 @@
     "capital": "Tashkent",
     "population": 37859698,
     "rarity_score": 30.3,
-    "colors": []
+    "colors": [
+      "white",
+      "red",
+      "green"
+    ]
   },
   {
     "name": "Vanuatu",
@@ -2407,7 +3371,11 @@
     "capital": "Port Vila",
     "population": 321409,
     "rarity_score": 56.2,
-    "colors": []
+    "colors": [
+      "white",
+      "blue",
+      "yellow"
+    ]
   },
   {
     "name": "Vatican City",
@@ -2417,7 +3385,12 @@
     "capital": "Vatican City",
     "population": 882,
     "rarity_score": 88.2,
-    "colors": []
+    "colors": [
+      "green",
+      "white",
+      "yellow",
+      "black"
+    ]
   },
   {
     "name": "Venezuela",
@@ -2427,7 +3400,10 @@
     "capital": "Caracas",
     "population": 28517000,
     "rarity_score": 31.8,
-    "colors": []
+    "colors": [
+      "blue",
+      "red"
+    ]
   },
   {
     "name": "Vietnam",
@@ -2437,7 +3413,11 @@
     "capital": "Hanoi",
     "population": 101343800,
     "rarity_score": 24.9,
-    "colors": []
+    "colors": [
+      "green",
+      "black",
+      "white"
+    ]
   },
   {
     "name": "Wallis and Futuna",
@@ -2447,7 +3427,12 @@
     "capital": "Mata-Utu",
     "population": 11620,
     "rarity_score": 74.2,
-    "colors": []
+    "colors": [
+      "blue",
+      "black",
+      "white",
+      "green"
+    ]
   },
   {
     "name": "Western Sahara",
@@ -2457,7 +3442,10 @@
     "capital": "El Aai\u00fan",
     "population": 600904,
     "rarity_score": 52.8,
-    "colors": []
+    "colors": [
+      "white",
+      "blue"
+    ]
   },
   {
     "name": "Yemen",
@@ -2467,7 +3455,10 @@
     "capital": "Sana'a",
     "population": 32684503,
     "rarity_score": 31.1,
-    "colors": []
+    "colors": [
+      "black",
+      "white"
+    ]
   },
   {
     "name": "Zambia",
@@ -2477,7 +3468,11 @@
     "capital": "Lusaka",
     "population": 19693423,
     "rarity_score": 33.8,
-    "colors": []
+    "colors": [
+      "red",
+      "blue",
+      "black"
+    ]
   },
   {
     "name": "Zimbabwe",
@@ -2487,7 +3482,11 @@
     "capital": "Harare",
     "population": 17073087,
     "rarity_score": 34.6,
-    "colors": []
+    "colors": [
+      "red",
+      "blue",
+      "yellow"
+    ]
   },
   {
     "name": "\u00c5land Islands",
@@ -2497,6 +3496,11 @@
     "capital": "Mariehamn",
     "population": 30654,
     "rarity_score": 68.9,
-    "colors": []
+    "colors": [
+      "white",
+      "blue",
+      "red",
+      "green"
+    ]
   }
 ]

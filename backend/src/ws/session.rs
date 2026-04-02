@@ -263,12 +263,13 @@ async fn handle_client_message(
 async fn run_game(room_id: String, rm: Arc<tokio::sync::RwLock<crate::ws::RoomManager>>, db: DbClient) {
     use crate::games::*;
 
-    // Get room settings
+    log::info!("[GAME] Starting mission sequence for room {}", room_id);
     let (rounds, timer_secs, game_mode) = {
         let rm = rm.read().await;
         if let Some(room) = rm.get_room(&room_id) {
             (room.settings.rounds, room.settings.timer_secs, room.settings.game_mode.clone())
         } else {
+            log::error!("[GAME] Room {} not found during settings load", room_id);
             return;
         }
     };
@@ -285,26 +286,34 @@ async fn run_game(room_id: String, rm: Arc<tokio::sync::RwLock<crate::ws::RoomMa
     };
 
     if countries.is_empty() {
+        log::error!("[GAME] No country data in DB for room {}!", room_id);
         let err = ServerMessage::Error { message: "No country data found. Please seed the database.".to_string() };
         let rm = rm.read().await;
         rm.broadcast(&room_id, err);
         return;
     }
+    log::info!("[GAME] Room {} loaded {} targets", room_id, countries.len());
 
     // Countdown
     for i in (1..=3).rev() {
+        log::info!("[GAME] Room {} countdown T-minus {}", room_id, i);
         {
             let rm = rm.read().await;
             rm.broadcast(&room_id, ServerMessage::Countdown { seconds: i });
         }
         tokio::time::sleep(tokio::time::Duration::from_secs(1)).await;
     }
+    log::info!("[GAME] Room {} BREACHING...", room_id);
 
     // Set phase
     {
         let mut rm = rm.write().await;
         if let Some(room) = rm.get_room_mut(&room_id) {
             room.phase = GamePhase::RoundActive;
+            log::info!("[GAME] Room {} phase set to RoundActive", room_id);
+        } else {
+            log::error!("[GAME] Failed to find room {} for phase update", room_id);
+            return;
         }
     }
 
@@ -335,6 +344,7 @@ async fn run_game(room_id: String, rm: Arc<tokio::sync::RwLock<crate::ws::RoomMa
         let correct_answer = get_correct_answer(&question);
 
         // Broadcast round start
+        log::info!("[GAME] Room {} starting round {}/{}", room_id, round_num, rounds);
         {
             let rm = rm.read().await;
             rm.broadcast(&room_id, ServerMessage::RoundStart {

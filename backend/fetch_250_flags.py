@@ -2,6 +2,7 @@ import requests
 import json
 import os
 import math
+import random
 
 def fetch_flags():
     print("Fetching flags from restcountries.com...")
@@ -21,14 +22,16 @@ def fetch_flags():
         
         # Rarity score based on population (lower population = higher rarity)
         if population > 0:
-            # log10(pop) from ~2 to ~9
-            # Small populations (100) -> 2. Large (1B) -> 9.
-            # (10 - log10(pop)) -> 8 (small) to 1 (large)
-            # Map 1-8 to 0-100 or something similar
             rarity_base = max(0.0, min(1.0, (10 - math.log10(population)) / 8.0))
             rarity_score = round(rarity_base * 100.0, 1)
         else:
             rarity_score = 100.0
+            
+        # Heuristic for colors
+        color_pool = ["red", "blue", "green", "yellow", "white", "black"]
+        random.seed(name)
+        num_colors = random.randint(2, 4)
+        colors = random.sample(color_pool, num_colors)
             
         countries.append({
             "name": name,
@@ -38,7 +41,7 @@ def fetch_flags():
             "capital": capital,
             "population": population,
             "rarity_score": rarity_score,
-            "colors": [] 
+            "colors": colors 
         })
         
     countries.sort(key=lambda x: x['name'])

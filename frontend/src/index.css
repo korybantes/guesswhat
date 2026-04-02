@@ -12,9 +12,17 @@
 * { box-sizing: border-box; }
 body { 
   margin: 0; 
-  background: radial-gradient(circle at top left, #1a1c2e, #0a0c14); 
+  background: radial-gradient(circle at top left, #1a1c2e, #0a0c14, #121420);
+  background-size: 200% 200%;
+  animation: bg-shift 15s ease infinite;
   min-height: 100vh;
   overflow-x: hidden;
+}
+
+@keyframes bg-shift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
 }
 
 /* Glassmorphism & Game Effects */
@@ -52,13 +60,30 @@ body {
   animation: bounce-subtle 2s infinite ease-in-out;
 }
 
-/* Subtle scrollbar */
-::-webkit-scrollbar { width: 5px; }
-::-webkit-scrollbar-track { background: transparent; }
-::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 10px; }
+/* Neon Pulse for Countdown */
+.neon-glow {
+  text-shadow: 0 0 10px rgba(20, 184, 166, 0.5), 0 0 20px rgba(20, 184, 166, 0.3);
+  animation: neon-pulse 1.5s infinite alternate;
+}
 
-/* Flag image fade-in */
-img { transition: opacity 0.3s ease-in-out; }
+@keyframes neon-pulse {
+  from { opacity: 0.8; transform: scale(1); }
+  to { opacity: 1; transform: scale(1.05); }
+}
+
+.breaching-text {
+  letter-spacing: 0.5em;
+  text-transform: uppercase;
+  background: linear-gradient(90deg, #94a3b8, #fff, #94a3b8);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shine 3s linear infinite;
+}
+
+@keyframes shine {
+  to { background-position: 200% center; }
+}
 
 /* shadcn overrides for dark theme */
 .border-border { border-color: rgba(255,255,255,0.08) !important; }
