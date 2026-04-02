@@ -114,11 +114,12 @@ export default function Lobby() {
         {countdown !== null && (
           <div className="fixed inset-0 bg-black/80 flex items-center justify-center z-[100] backdrop-blur-sm">
             <div className="text-center space-y-4 animate-in zoom-in duration-300">
-            <div className="text-9xl font-black text-teal-400 italic neon-glow">
-              {countdown}
-            </div>
-            <div className="text-xl font-bold text-white breaching-text tracking-widest">
-              Mission Breaching...
+              <div className="text-9xl font-black text-teal-400 italic neon-glow">
+                {countdown}
+              </div>
+              <div className="text-xl font-bold text-white breaching-text tracking-widest">
+                Mission Breaching...
+              </div>
             </div>
           </div>
         )}
