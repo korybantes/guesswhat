@@ -28,9 +28,9 @@ services:
     rootDir: frontend
     envVars:
       - key: VITE_API_URL
-        value: https://guess-api.folkhart.com/api
+        value: https://guess-api-plc0.onrender.com/api
       - key: VITE_WS_URL
-        value: wss://guess-api.folkhart.com/ws
+        value: wss://guess-api-plc0.onrender.com/ws
     routes:
       - type: rewrite
         source: /*
