@@ -80,12 +80,13 @@ impl RoomManager {
         if entry.room.is_full() {
             return Err("Room is full".to_string());
         }
-        if entry.room.phase != GamePhase::Lobby {
+        if entry.room.phase != GamePhase::Lobby && entry.room.phase != GamePhase::GameOver {
             return Err("Game already in progress".to_string());
         }
         let tx = entry.tx.clone();
-        let _ = tx.send(ServerMessage::PlayerJoined { player: player.clone() });
-        entry.room.players.insert(player.id.clone(), player);
+        entry.room.players.insert(player.id.clone(), player.clone());
+        let _ = tx.send(ServerMessage::PlayerJoined { player });
+        let _ = tx.send(ServerMessage::RoomState { room: entry.room.clone() });
         Ok(tx)
     }
 
@@ -108,6 +109,7 @@ impl RoomManager {
                         new_host.is_host = true;
                     }
                 }
+                let _ = entry.tx.send(ServerMessage::RoomState { room: entry.room.clone() });
                 return true;
             }
         }
