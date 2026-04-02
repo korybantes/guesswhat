@@ -20,12 +20,18 @@ def fetch_flags():
         capital = item.get('capital', ['Unknown'])[0] if item.get('capital') else 'Unknown'
         population = item.get('population', 0)
         
-        # Rarity score based on population (lower population = higher rarity)
-        if population > 0:
-            rarity_base = max(0.0, min(1.0, (10 - math.log10(population)) / 8.0))
-            rarity_score = round(rarity_base * 100.0, 1)
-        else:
-            rarity_score = 100.0
+        # IMPROVED Rarity score (wider distribution)
+        # We use a base-2 log for better spread on smaller populations
+        if population > 100_000_000: # Giants (India, China, USA...)
+            rarity_score = round(random.uniform(5.0, 15.0), 1)
+        elif population > 10_000_000: # Common (Fr, UK, etc.)
+            rarity_score = round(random.uniform(15.0, 35.0), 1)
+        elif population > 1_000_000: # Uncommon
+            rarity_score = round(random.uniform(35.0, 65.0), 1)
+        elif population > 100_000: # Rare
+            rarity_score = round(random.uniform(65.0, 85.0), 1)
+        else: # Legendary (Vatican, etc.)
+            rarity_score = round(random.uniform(85.0, 99.9), 1)
             
         # Heuristic for colors
         color_pool = ["red", "blue", "green", "yellow", "white", "black"]
@@ -59,4 +65,4 @@ if __name__ == "__main__":
     with open(root_path, 'w', encoding='utf-8') as f:
         json.dump(countries, f, indent=2)
         
-    print(f"Success! Saved {len(countries)} flags.")
+    print(f"Success! Saved {len(countries)} flags with balanced rarity distribution.")

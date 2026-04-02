@@ -135,6 +135,8 @@ async fn handle_join(
                         is_host: is_first,
                         is_ready: false,
                         answered_this_round: false,
+                        last_answer: None,
+                        answer_time_ms: 0,
                     };
 
                     rm.join_room(room_id, player)
@@ -202,9 +204,11 @@ async fn handle_client_message(
                 if let Some(player) = room.players.get_mut(player_id) {
                     if !player.answered_this_round {
                         player.answered_this_round = true;
-                        // Store answer in round state - simplified: just broadcast ack
+                        player.last_answer = Some(answer.clone());
+                        player.answer_time_ms = timestamp_ms;
                         let ack = ServerMessage::AnswerAck { player_id: player_id.to_string() };
                         rm.broadcast(room_id, ack);
+                        log::info!("[WS] Answer recorded for {}: {}", player_id, answer);
                     }
                 }
             }
@@ -216,6 +220,8 @@ async fn handle_client_message(
                 if let Some(player) = room.players.get_mut(player_id) {
                     if !player.answered_this_round {
                         player.answered_this_round = true;
+                        player.last_answer = Some(choice.to_string());
+                        player.answer_time_ms = timestamp_ms;
                         let ack = ServerMessage::AnswerAck { player_id: player_id.to_string() };
                         rm.broadcast(room_id, ack);
                     }
@@ -327,12 +333,13 @@ async fn run_game(room_id: String, rm: Arc<tokio::sync::RwLock<crate::ws::RoomMa
             if let Some(room) = rm.get_room_mut(&room_id) {
                 for player in room.players.values_mut() {
                     player.answered_this_round = false;
+                    player.last_answer = None;
+                    player.answer_time_ms = 0;
                 }
                 room.current_round = round_num;
                 room.phase = GamePhase::RoundActive;
             }
         }
-        player_answers.clear();
 
         // Pick a random country
         let country = {
@@ -384,10 +391,8 @@ async fn run_game(room_id: String, rm: Arc<tokio::sync::RwLock<crate::ws::RoomMa
             if let Some(room) = rm.get_room_mut(&room_id) {
                 room.phase = GamePhase::RoundEnd;
                 for player in room.players.values_mut() {
-                    let (answer, ts) = player_answers
-                        .get(&player.id)
-                        .cloned()
-                        .unwrap_or_else(|| ("".to_string(), timer_ms));
+                    let answer = player.last_answer.clone().unwrap_or_else(|| "".to_string());
+                    let ts = player.answer_time_ms;
 
                     let (pts, correct) = score_answer(&game_mode, &answer, &correct_answer, ts, timer_ms, country.rarity_score);
                     player.score += pts;

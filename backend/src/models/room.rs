@@ -32,6 +32,8 @@ pub struct Player {
     pub is_host: bool,
     pub is_ready: bool,
     pub answered_this_round: bool,
+    pub last_answer: Option<String>,
+    pub answer_time_ms: u64,
 }
 
 /// Room settings configured by host

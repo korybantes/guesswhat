@@ -62,42 +62,43 @@ export function useGameSocket(roomId: string | null) {
     };
 
     const handleMessage = (event: MessageEvent) => {
-      let msg: ServerMsg;
-      try { msg = JSON.parse(event.data); }
-      catch { return; }
-
-      switch (msg.type) {
-        case 'ROOM_STATE':
-          if (msg.room) setRoom(msg.room);
-          break;
-        case 'ROUND_START':
-          setRoundStart(msg.round, msg.total_rounds, msg.timer_secs, msg.question);
-          break;
-        case 'ROUND_END':
-          setRoundEnd(msg.correct_answer, msg.round_scores, msg.total_scores);
-          break;
-        case 'GAME_OVER':
-          setGameOver(msg.leaderboard);
-          break;
-        case 'COUNTDOWN':
-          setCountdown(msg.seconds);
-          break;
-        case 'PLAYER_JOINED':
-        case 'PLAYER_LEFT':
-          break;
-        case 'CHAT_MESSAGE':
-          addChatMessage({
-            player_id: msg.player_id,
-            username: msg.username,
-            message: msg.message,
-            timestamp_ms: msg.timestamp_ms,
-          });
-          break;
-        case 'ERROR':
-          console.error('[WS] Server error:', msg.message);
-          break;
-        default:
-          break;
+      try {
+        const msg: ServerMsg = JSON.parse(event.data);
+        switch (msg.type) {
+          case 'ROOM_STATE':
+            if (msg.room) setRoom(msg.room);
+            break;
+          case 'ROUND_START':
+            setRoundStart(msg.round, msg.total_rounds, msg.timer_secs, msg.question);
+            break;
+          case 'ROUND_END':
+            setRoundEnd(msg.correct_answer, msg.round_scores, msg.total_scores);
+            break;
+          case 'GAME_OVER':
+            setGameOver(msg.leaderboard);
+            break;
+          case 'COUNTDOWN':
+            setCountdown(msg.seconds);
+            break;
+          case 'PLAYER_JOINED':
+          case 'PLAYER_LEFT':
+            break;
+          case 'CHAT_MESSAGE':
+            addChatMessage({
+              player_id: msg.player_id,
+              username: msg.username,
+              message: msg.message,
+              timestamp_ms: msg.timestamp_ms,
+            });
+            break;
+          case 'ERROR':
+            console.error('[WS] Server error:', msg.message);
+            break;
+          default:
+            break;
+        }
+      } catch (err) {
+        console.error('[WS] JSON parse error', err);
       }
     };
 
