@@ -276,12 +276,12 @@ async fn run_game(room_id: String, rm: Arc<tokio::sync::RwLock<crate::ws::RoomMa
     }
 
     // Countdown
-    {
-        let rm = rm.read().await;
-        for i in (1..=3).rev() {
+    for i in (1..=3).rev() {
+        {
+            let rm = rm.read().await;
             rm.broadcast(&room_id, ServerMessage::Countdown { seconds: i });
-            tokio::time::sleep(tokio::time::Duration::from_secs(1)).await;
         }
+        tokio::time::sleep(tokio::time::Duration::from_secs(1)).await;
     }
 
     // Set phase

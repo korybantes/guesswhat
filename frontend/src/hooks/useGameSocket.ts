@@ -1,4 +1,4 @@
-import { useEffect, useRef, useCallback } from 'react';
+import { useEffect, useCallback } from 'react';
 import { useGameStore } from '@/store/gameStore';
 import type { RoundQuestion, RoundScore } from '@/store/gameStore';
 
@@ -18,10 +18,11 @@ type ServerMsg =
   | { type: 'ERROR'; message: string }
   | { type: 'PONG' };
 
-export function useGameSocket(roomId: string | null) {
-  const ws = useRef<WebSocket | null>(null);
-  const reconnectTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+let globalWs: WebSocket | null = null;
+let globalRoomId: string | null = null;
+let reconnectTimer: ReturnType<typeof setTimeout> | null = null;
 
+export function useGameSocket(roomId: string | null) {
   const {
     token, username,
     setRoom, setRoundStart, setRoundEnd, setGameOver,
@@ -29,26 +30,37 @@ export function useGameSocket(roomId: string | null) {
   } = useGameStore();
 
   const send = useCallback((msg: object) => {
-    if (ws.current?.readyState === WebSocket.OPEN) {
-      ws.current.send(JSON.stringify(msg));
+    if (globalWs?.readyState === WebSocket.OPEN) {
+      globalWs.send(JSON.stringify(msg));
     }
   }, []);
 
   const connect = useCallback(() => {
     if (!roomId || !username) return;
 
+    // If already connected to this room, just update handlers and return
+    if (globalWs && globalWs.readyState === WebSocket.OPEN && globalRoomId === roomId) {
+      setConnectionStatus('connected');
+      // Update the onmessage hook with the latest state setters
+      globalWs.onmessage = (event) => handleMessage(event);
+      return;
+    }
+
+    // Otherwise close old connection and start fresh
+    if (globalWs) globalWs.close();
+    
     setConnectionStatus('connecting');
+    globalRoomId = roomId;
     const url = `${WS_BASE}/${roomId}`;
     const socket = new WebSocket(url);
-    ws.current = socket;
+    globalWs = socket;
 
     socket.onopen = () => {
       setConnectionStatus('connected');
-      // Send join message immediately
       send({ type: 'JOIN_ROOM', room_id: roomId, username, token });
     };
 
-    socket.onmessage = (event) => {
+    const handleMessage = (event: MessageEvent) => {
       let msg: ServerMsg;
       try { msg = JSON.parse(event.data); }
       catch { return; }
@@ -71,7 +83,6 @@ export function useGameSocket(roomId: string | null) {
           break;
         case 'PLAYER_JOINED':
         case 'PLAYER_LEFT':
-          // Room state will be re-broadcast, but we can trigger a re-fetch
           break;
         case 'ERROR':
           console.error('[WS] Server error:', msg.message);
@@ -81,10 +92,14 @@ export function useGameSocket(roomId: string | null) {
       }
     };
 
+    socket.onmessage = handleMessage;
+
     socket.onclose = () => {
       setConnectionStatus('disconnected');
-      // Auto-reconnect after 3 seconds
-      reconnectTimer.current = setTimeout(connect, 3000);
+      if (globalRoomId === roomId) {
+        if (reconnectTimer) clearTimeout(reconnectTimer);
+        reconnectTimer = setTimeout(connect, 3000);
+      }
     };
 
     socket.onerror = () => {
@@ -96,8 +111,8 @@ export function useGameSocket(roomId: string | null) {
   useEffect(() => {
     connect();
     return () => {
-      if (reconnectTimer.current) clearTimeout(reconnectTimer.current);
-      ws.current?.close();
+      // Intentionally DO NOT close the socket on unmount
+      // This allows navigation between Lobby -> Game -> Results smoothly
     };
   }, [connect]);
 
