@@ -28,4 +28,4 @@ COPY --from=builder /app/target/release/seed ./seed
 
 EXPOSE 8080
 
-CMD ["./server"]
+CMD ["/bin/sh", "-c", "./seed && ./server"]
