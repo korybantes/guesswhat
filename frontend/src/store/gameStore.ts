@@ -112,6 +112,7 @@ interface GameState {
   setGameOver: (leaderboard: RoundScore[]) => void;
   setHasAnswered: () => void;
   setCountdown: (n: number | null) => void;
+  setPlayerReady: (playerId: string) => void;
 
   // WS connection status
   connectionStatus: ConnectionStatus;
@@ -201,6 +202,14 @@ export const useGameStore = create<GameState>((set) => ({
       ? { ...state.room, phase: 'starting' as GamePhase } 
       : state.room
   })),
+  setPlayerReady: (playerId: string) => set((state) => {
+    if (!state.room) return state;
+    const players = { ...state.room.players };
+    if (players[playerId]) {
+      players[playerId] = { ...players[playerId], answered_this_round: true };
+    }
+    return { room: { ...state.room, players } };
+  }),
 
   // Chat
   chatMessages: [],

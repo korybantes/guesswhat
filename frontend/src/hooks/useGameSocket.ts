@@ -80,6 +80,14 @@ export function useGameSocket(roomId: string | null) {
           case 'COUNTDOWN':
             setCountdown(msg.seconds);
             break;
+          case 'ANSWER_ACK':
+            // Update store to show player is ready
+            const currentStore = useGameStore.getState();
+            currentStore.setPlayerReady(msg.player_id);
+            if (msg.player_id === currentStore.myPlayerId) {
+              currentStore.setHasAnswered();
+            }
+            break;
           case 'PLAYER_JOINED':
           case 'PLAYER_LEFT':
             break;
